@@ -1,441 +1,322 @@
 {
-  "transRadius": 2191,
   "entities": {
     "1": {
       "$type": "ConfigLocalTrigger",
-      "tranPos": {
-        "x": -3.019136428833008,
-        "y": 343.4577941894531,
-        "z": 75.09647369384766
-      },
-      "BGFOMEICHKD": {
-        "IODECABNFJE": {
-          "data": {
-            "$type": "OLLIOPGKPNF",
-            "fov": 45,
-            "MBGGMEAMJJG": true
-          },
-          "IHABMLMDAAA": {
-            "blendType": 1,
-            "duHPRation": 1,
-            "NAOIPIIJHAJ": 4
-          },
-          "INNHIHCHECG": {
-            "blendType": 1,
-            "duHPRation": 1,
-            "NAOIPIIJHAJ": 4
-          }
-        }
-      },
-      "pos": {
-        "x": 2.1937830448150635,
-        "y": 346.3013916015625,
-        "z": 75.09647369384766
-      },
+      "alias": "",
       "gadgetId": 70010006,
-      "checkDist": 100,
-      "IODECABNFJE": {
-        "data": {
-          "$type": "OLLIOPGKPNF",
-          "fov": 45,
-          "MBGGMEAMJJG": true
-        },
-        "IHABMLMDAAA": {
-          "blendType": 1,
-          "duHPRation": 1,
-          "NAOIPIIJHAJ": 4
-        },
-        "INNHIHCHECG": {
-          "blendType": 1,
-          "duHPRation": 1,
-          "NAOIPIIJHAJ": 4
-        }
+      "pos": {
+        "x": 2.193783,
+        "y": 346.3014,
+        "z": 75.09647
       },
       "shape": {
         "$type": "ConfigShapeCircle",
-        "height": 20,
-        "centerType": "Center",
-        "sceneID": 10
+        "height": 20.0,
+        "radius": 10.0
       },
+      "stringParam": "",
       "tag": 203630001,
+      "tranPos": {
+        "x": -3.0191364,
+        "y": 343.4578,
+        "z": 75.09647
+      },
       "triggerFlag": "LevelCamera",
-      "triggerInterval": 0.10000000149011612
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC"
+        },
+        "EODHGNLOIKK": {
+          "BLKFBLLDEEP": 1
+        },
+        "KLKOBMCOFIG": {
+          "BLKFBLLDEEP": 1
+        }
+      }
     },
     "2": {
       "$type": "ConfigLocalTrigger",
-      "BGFOMEICHKD": {
-        "IODECABNFJE": {
-          "data": {
-            "$type": "OLLIOPGKPNF",
-            "followOffset": {
-              "z": -60
-            },
-            "BKLMJPIFPDL": true,
-            "FDAJKBCAPJC": true,
-            "JDMKGHODCFB": true,
-            "fov": 15,
-            "MBGGMEAMJJG": true,
-            "targetPosition": {
-              "y": 1
-            }
-          },
-          "IHABMLMDAAA": {
-            "blendType": 1,
-            "DAGICMOAFJP": 3,
-            "duHPRation": 2,
-            "NAOIPIIJHAJ": 2
-          },
-          "INNHIHCHECG": {
-            "blendType": 2,
-            "DAGICMOAFJP": 3,
-            "duHPRation": 2
-          }
-        }
-      },
-      "pos": {
-        "x": 576.8986206054688,
-        "y": 345.9932861328125,
-        "z": -3382.5048828125
-      },
+      "alias": "",
       "gadgetId": 70010006,
-      "checkDist": 100,
-      "IODECABNFJE": {
-        "data": {
-          "$type": "OLLIOPGKPNF",
-          "followOffset": {
-            "z": -60
-          },
-          "BKLMJPIFPDL": true,
-          "FDAJKBCAPJC": true,
-          "JDMKGHODCFB": true,
-          "fov": 15,
-          "MBGGMEAMJJG": true,
-          "targetPosition": {
-            "y": 1
-          }
-        },
-        "IHABMLMDAAA": {
-          "blendType": 1,
-          "DAGICMOAFJP": 3,
-          "duHPRation": 2,
-          "NAOIPIIJHAJ": 2
-        },
-        "INNHIHCHECG": {
-          "blendType": 2,
-          "DAGICMOAFJP": 3,
-          "duHPRation": 2
-        }
+      "pos": {
+        "x": 576.8986,
+        "y": 345.9933,
+        "z": -3382.505
       },
       "shape": {
         "$type": "ConfigShapeRect",
-        "length": 60,
-        "CMLHPPDJBKA": "Center",
-        "useHeight": true,
-        "height": 20,
         "centerType": "Center",
-        "width": 40
+        "height": 20.0,
+        "length": 60.0,
+        "useHeight": true,
+        "width": 40.0
       },
+      "stringParam": "",
       "tag": 203630002,
       "triggerFlag": "LevelCamera",
-      "triggerInterval": 0.10000000149011612
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "KLKOBMCOFIG": {
+          "duration": 2.0,
+          "BLKFBLLDEEP": 1,
+          "AIMPCMJNBJN": 2,
+          "JGDAEFOADLH": 3
+        },
+        "EODHGNLOIKK": {
+          "duration": 2.0,
+          "AIMPCMJNBJN": 0,
+          "BLKFBLLDEEP": 2,
+          "JGDAEFOADLH": 3
+        },
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "followOffset": {
+            "z": -60.0
+          },
+          "fov": 15.0,
+          "targetPosition": {
+            "y": 1.0
+          },
+          "NMACBNEJGJD": true,
+          "OPFBJBLFPLE": true,
+          "PEDEBBIBGMK": true
+        }
+      }
     },
     "3": {
       "$type": "ConfigLocalTrigger",
-      "tranPos": {
-        "x": 608.7337646484375,
-        "y": 361.1285400390625,
-        "z": -3369.74462890625
-      },
-      "BGFOMEICHKD": {
-        "IODECABNFJE": {
-          "data": {
-            "$type": "OLLIOPGKPNF",
-            "followOffset": {
-              "z": 80
-            },
-            "BKLMJPIFPDL": true,
-            "FDAJKBCAPJC": true,
-            "JDMKGHODCFB": true,
-            "fov": 15,
-            "MBGGMEAMJJG": true,
-            "targetPosition": {
-              "x": -20,
-              "y": -4
-            }
-          },
-          "IHABMLMDAAA": {
-            "blendType": 1,
-            "DAGICMOAFJP": 3,
-            "duHPRation": 1,
-            "NAOIPIIJHAJ": 2
-          },
-          "INNHIHCHECG": {
-            "blendType": 1,
-            "duHPRation": 1,
-            "NAOIPIIJHAJ": 4
-          }
-        }
-      },
-      "pos": {
-        "x": 619.3449096679688,
-        "y": 364.17529296875,
-        "z": -3369.7451171875
-      },
+      "alias": "",
       "gadgetId": 70010006,
-      "checkDist": 100,
-      "IODECABNFJE": {
-        "data": {
-          "$type": "OLLIOPGKPNF",
-          "followOffset": {
-            "z": 80
-          },
-          "BKLMJPIFPDL": true,
-          "FDAJKBCAPJC": true,
-          "JDMKGHODCFB": true,
-          "fov": 15,
-          "MBGGMEAMJJG": true,
-          "targetPosition": {
-            "x": -20,
-            "y": -4
-          }
-        },
-        "IHABMLMDAAA": {
-          "blendType": 1,
-          "DAGICMOAFJP": 3,
-          "duHPRation": 1,
-          "NAOIPIIJHAJ": 2
-        },
-        "INNHIHCHECG": {
-          "blendType": 1,
-          "duHPRation": 1,
-          "NAOIPIIJHAJ": 4
-        }
+      "pos": {
+        "x": 619.3449,
+        "y": 364.1753,
+        "z": -3369.745
       },
       "shape": {
         "$type": "ConfigShapeRect",
-        "length": 30,
-        "CMLHPPDJBKA": "Center",
-        "useHeight": true,
-        "height": 20,
         "centerType": "Center",
-        "width": 60
+        "height": 20.0,
+        "length": 30.0,
+        "useHeight": true,
+        "width": 60.0
       },
+      "stringParam": "",
       "tag": 203630003,
+      "tranPos": {
+        "x": 608.73376,
+        "y": 361.12854,
+        "z": -3369.7446
+      },
       "triggerFlag": "LevelCamera",
-      "triggerInterval": 0.10000000149011612
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "EODHGNLOIKK": {
+          "BLKFBLLDEEP": 1
+        },
+        "KLKOBMCOFIG": {
+          "BLKFBLLDEEP": 1,
+          "AIMPCMJNBJN": 2,
+          "JGDAEFOADLH": 3
+        },
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "followOffset": {
+            "z": 80.0
+          },
+          "fov": 15.0,
+          "targetPosition": {
+            "x": -20.0,
+            "y": -4.0
+          },
+          "NMACBNEJGJD": true,
+          "OPFBJBLFPLE": true,
+          "PEDEBBIBGMK": true
+        }
+      }
     },
     "4": {
       "$type": "ConfigLocalTrigger",
-      "tranPos": {
-        "x": 593.1821899414062,
-        "y": 360.2193298339844,
-        "z": -3367.158203125
-      },
-      "BGFOMEICHKD": {
-        "IODECABNFJE": {
-          "data": {
-            "$type": "OLLIOPGKPNF",
-            "followOffset": {
-              "x": 0.9200000166893005,
-              "y": -4.179999828338623,
-              "z": -120
-            },
-            "BKLMJPIFPDL": true,
-            "FDAJKBCAPJC": true,
-            "JDMKGHODCFB": true,
-            "fov": 15,
-            "MBGGMEAMJJG": true,
-            "targetPosition": {
-              "x": 4.5,
-              "y": -3
-            }
-          },
-          "IHABMLMDAAA": {
-            "blendType": 3,
-            "DAGICMOAFJP": 2,
-            "duHPRation": 1,
-            "NAOIPIIJHAJ": 2
-          },
-          "INNHIHCHECG": {
-            "blendType": 1,
-            "duHPRation": 1,
-            "NAOIPIIJHAJ": 4
-          }
-        }
-      },
-      "pos": {
-        "x": 593.1821899414062,
-        "y": 368.2506103515625,
-        "z": -3367.157958984375
-      },
+      "alias": "",
       "gadgetId": 70010006,
-      "checkDist": 100,
-      "IODECABNFJE": {
-        "data": {
-          "$type": "OLLIOPGKPNF",
-          "followOffset": {
-            "x": 0.9200000166893005,
-            "y": -4.179999828338623,
-            "z": -120
-          },
-          "BKLMJPIFPDL": true,
-          "FDAJKBCAPJC": true,
-          "JDMKGHODCFB": true,
-          "fov": 15,
-          "MBGGMEAMJJG": true,
-          "targetPosition": {
-            "x": 4.5,
-            "y": -3
-          }
-        },
-        "IHABMLMDAAA": {
-          "blendType": 3,
-          "DAGICMOAFJP": 2,
-          "duHPRation": 1,
-          "NAOIPIIJHAJ": 2
-        },
-        "INNHIHCHECG": {
-          "blendType": 1,
-          "duHPRation": 1,
-          "NAOIPIIJHAJ": 4
-        }
+      "pos": {
+        "x": 593.1822,
+        "y": 368.2506,
+        "z": -3367.158
       },
       "shape": {
         "$type": "ConfigShapeRect",
-        "length": 30,
-        "CMLHPPDJBKA": "Center",
-        "useHeight": true,
-        "height": 30,
         "centerType": "Center",
-        "width": 50
+        "height": 30.0,
+        "length": 30.0,
+        "useHeight": true,
+        "width": 50.0
       },
+      "stringParam": "",
       "tag": 203630004,
+      "tranPos": {
+        "x": 593.1822,
+        "y": 360.21933,
+        "z": -3367.1582
+      },
       "triggerFlag": "LevelCamera",
-      "triggerInterval": 0.10000000149011612
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "EODHGNLOIKK": {
+          "BLKFBLLDEEP": 1
+        },
+        "KLKOBMCOFIG": {
+          "AIMPCMJNBJN": 2,
+          "JGDAEFOADLH": 2,
+          "BLKFBLLDEEP": 3
+        },
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "followOffset": {
+            "x": 0.92,
+            "y": -4.18,
+            "z": -120.0
+          },
+          "fov": 15.0,
+          "targetPosition": {
+            "x": 4.5,
+            "y": -3.0
+          },
+          "NMACBNEJGJD": true,
+          "OPFBJBLFPLE": true,
+          "PEDEBBIBGMK": true
+        }
+      }
     }
   },
   "points": {
     "1": {
       "$type": "DungeonWayPoint",
-      "tranPos": {
-        "x": 605.5491333007812,
-        "y": 295.2289123535156,
-        "z": 215.7122039794922
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 596.0063,
+        "y": 295.2289,
+        "z": 215.0083
       },
       "rot": {
-        "y": 89.53810119628906
+        "y": 89.5381
       },
       "size": {
-        "x": 10,
-        "y": 50,
-        "z": 10
+        "x": 10.0,
+        "y": 50.0,
+        "z": 10.0
       },
-      "pos": {
-        "x": 596.0062866210938,
-        "y": 295.2289123535156,
-        "z": 215.00830078125
+      "tranPos": {
+        "x": 605.54913,
+        "y": 295.2289,
+        "z": 215.7122
       },
-      "gadgetId": 70010006,
       "tranRot": {
-        "y": 89.53810119628906
+        "y": 89.5381
       }
     },
     "2": {
       "$type": "DungeonWayPoint",
-      "tranPos": {
-        "x": 802.7332153320312,
-        "y": 315.5343322753906,
-        "z": 320.57958984375
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 802.7332,
+        "y": 315.5343,
+        "z": 320.5796
       },
       "rot": {
-        "y": 267.9176025390625
+        "y": 267.9176
       },
       "size": {
-        "x": 40,
-        "y": 50,
-        "z": 40
+        "x": 40.0,
+        "y": 50.0,
+        "z": 40.0
       },
-      "pos": {
-        "x": 802.7332153320312,
-        "y": 315.5343017578125,
-        "z": 320.57958984375
+      "tranPos": {
+        "x": 802.7332,
+        "y": 315.53433,
+        "z": 320.5796
       },
-      "gadgetId": 70010006,
       "tranRot": {
-        "y": 267.9176025390625
+        "y": 267.9176
       }
     },
     "3": {
       "$type": "DungeonWayPoint",
-      "tranPos": {
-        "x": 619.1642456054688,
-        "y": 274.08233642578125,
-        "z": 442.370361328125
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 621.2912,
+        "y": 274.0823,
+        "z": 440.1874
       },
       "rot": {
-        "y": 316.2217102050781
+        "y": 316.2217
       },
       "size": {
-        "x": 10,
-        "y": 20,
-        "z": 10
+        "x": 10.0,
+        "y": 20.0,
+        "z": 10.0
       },
-      "pos": {
-        "x": 621.2911987304688,
-        "y": 274.0823059082031,
-        "z": 440.1874084472656
-      },
-      "gadgetId": 70010006
+      "tranPos": {
+        "x": 619.16425,
+        "y": 274.08234,
+        "z": 442.37036
+      }
     },
     "4": {
       "$type": "DungeonWayPoint",
-      "tranPos": {
-        "x": 484.12518310546875,
-        "y": 304.33544921875,
-        "z": 685.9044189453125
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 485.3695,
+        "y": 304.3354,
+        "z": 687.5764
       },
       "rot": {
-        "y": 222.52630615234375
+        "y": 222.5263
       },
       "size": {
-        "x": 10,
-        "y": 20,
-        "z": 10
+        "x": 10.0,
+        "y": 20.0,
+        "z": 10.0
       },
-      "pos": {
-        "x": 485.3695068359375,
-        "y": 304.33538818359375,
-        "z": 687.576416015625
+      "tranPos": {
+        "x": 484.12518,
+        "y": 304.33545,
+        "z": 685.9044
       },
-      "gadgetId": 70010006,
       "tranRot": {
-        "y": 222.52630615234375
+        "y": 222.5263
       }
     },
     "5": {
       "$type": "DungeonWayPoint",
-      "tranPos": {
-        "x": 492.2127990722656,
-        "y": 196.31658935546875,
-        "z": 565.9157104492188
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 479.4903,
+        "y": 196.3166,
+        "z": 575.1636
       },
       "rot": {
-        "y": 129.85049438476562
+        "y": 129.8505
       },
       "size": {
-        "x": 65,
-        "y": 20,
-        "z": 65
+        "x": 65.0,
+        "y": 20.0,
+        "z": 65.0
       },
-      "pos": {
-        "x": 479.49029541015625,
-        "y": 196.3166046142578,
-        "z": 575.16357421875
+      "tranPos": {
+        "x": 492.2128,
+        "y": 196.31659,
+        "z": 565.9157
       },
-      "gadgetId": 70010006,
       "tranRot": {
-        "y": 129.85049438476562
+        "y": 129.8505
       }
     }
-  }
+  },
+  "IFNMLHIOCPN": {}
 }

@@ -1,0 +1,76 @@
+{
+ "abilities": [
+  {
+   "abilityName": "Avatar_Boy_Catalyst_Mitya_AniEvent_Attack",
+   "abilityID": "Avatar_Boy_Catalyst_Mitya_AniEvent_Attack"
+  },
+  {
+   "abilityName": "Avatar_Boy_Catalyst_Mitya_AniEvent_Camera",
+   "abilityID": "Avatar_Boy_Catalyst_Mitya_AniEvent_Camera"
+  },
+  {
+   "abilityName": "Avatar_Boy_Catalyst_Mitya_AniEvent_Effect",
+   "abilityID": "Avatar_Boy_Catalyst_Mitya_AniEvent_Effect"
+  },
+  {
+   "abilityName": "Avatar_Mitya_Shard_Controller",
+   "abilityID": "Avatar_Mitya_Shard_Controller"
+  },
+  {
+   "abilityName": "Avatar_Mitya_Shard_CreateManager",
+   "abilityID": "Avatar_Mitya_Shard_CreateManager"
+  },
+  {
+   "abilityName": "Avatar_Mitya_Shard_CreateShard",
+   "abilityID": "Avatar_Mitya_Shard_CreateShard"
+  },
+  {
+   "abilityName": "Avatar_Mitya_OverShardDamage",
+   "abilityID": "Avatar_Mitya_OverShardDamage"
+  },
+  {
+   "abilityName": "Avatar_Mitya_ExtraAttack",
+   "abilityID": "Avatar_Mitya_ExtraAttack"
+  },
+  {
+   "abilityName": "Avatar_Mitya_ExtraAttack_Normal",
+   "abilityID": "Avatar_Mitya_ExtraAttack_Normal"
+  },
+  {
+   "abilityName": "Avatar_Mitya_ExtraAttack_Enhance",
+   "abilityID": "Avatar_Mitya_ExtraAttack_Enhance"
+  },
+  {
+   "abilityName": "Avatar_Mitya_ExtraAttack_Enhance_PartnerControl",
+   "abilityID": "Avatar_Mitya_ExtraAttack_Enhance_PartnerControl"
+  },
+  {
+   "abilityName": "Avatar_Mitya_ElementalArt",
+   "abilityID": "Avatar_Mitya_ElementalArt"
+  },
+  {
+   "abilityName": "Avatar_Mitya_ElementalBurst",
+   "abilityID": "Avatar_Mitya_ElementalBurst"
+  },
+  {
+   "abilityName": "Avatar_Mitya_FallingAnthem",
+   "abilityID": "Avatar_Mitya_FallingAnthem"
+  },
+  {
+   "abilityName": "Avatar_Mitya_Partner_DropBall",
+   "abilityID": "Avatar_Mitya_Partner_DropBall"
+  },
+  {
+   "abilityName": "Avatar_Mitya_Shard_UseListen",
+   "abilityID": "Avatar_Mitya_Shard_UseListen"
+  },
+  {
+   "abilityName": "Avatar_Mitya_OtherLogic",
+   "abilityID": "Avatar_Mitya_OtherLogic"
+  },
+  {
+   "abilityName": "Avatar_Mitya_Partner_ChangeMode",
+   "abilityID": "Avatar_Mitya_Partner_ChangeMode"
+  }
+ ]
+}

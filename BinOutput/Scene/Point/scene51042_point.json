@@ -1,163 +1,165 @@
 {
-   
+  "entities": {
+    "1": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 521.8165,
+        "y": 17.70606,
+        "z": 214.3844
+      },
+      "shape": {
+        "$type": "ConfigShapeCircle",
+        "height": 10.0,
+        "radius": 40.0,
+        "useHeight": true
+      },
+      "stringParam": "",
+      "tag": 510420001,
+      "tranPos": {
+        "x": 508.4211,
+        "y": 17.702152,
+        "z": 216.40063
+      },
+      "triggerFlag": "LevelCamera",
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "EODHGNLOIKK": {},
+        "KLKOBMCOFIG": {
+          "duration": 30.0
+        },
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "ONJKGCDIEBF": true
+        }
+      }
+    },
+    "2": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 173.6247,
+        "y": 31.54011,
+        "z": 864.2269
+      },
+      "shape": {
+        "$type": "ConfigShapeCircle",
+        "height": 10.0,
+        "radius": 30.0,
+        "useHeight": true
+      },
+      "stringParam": "",
+      "tag": 510420002,
+      "tranPos": {
+        "x": 173.62474,
+        "y": 31.54011,
+        "z": 864.22687
+      },
+      "triggerFlag": "LevelCamera",
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "EODHGNLOIKK": {},
+        "KLKOBMCOFIG": {
+          "duration": 45.0
+        },
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC"
+        }
+      }
+    },
+    "3": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 159.2809,
+        "y": -0.06661223,
+        "z": 807.965
+      },
+      "shape": {
+        "$type": "ConfigShapeCircle",
+        "height": 10.0,
+        "radius": 30.0,
+        "useHeight": true
+      },
+      "stringParam": "",
+      "tag": 510420003,
+      "tranPos": {
+        "x": 159.28085,
+        "y": -0.06661223,
+        "z": 807.965
+      },
+      "triggerFlag": "LevelCamera",
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "EODHGNLOIKK": {},
+        "KLKOBMCOFIG": {},
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "ONJKGCDIEBF": true
+        }
+      }
+    }
+  },
   "points": {
     "1": {
-      "$type": "GNIDNEBEJFH",
+      "$type": "DungeonQuitPoint",
+      "alias": "",
       "gadgetId": 70120004,
       "pos": {
-        "x": 809.8408203125,
-        "y": 102.08719635009766,
-        "z": 982.1458740234375
+        "x": 809.8408,
+        "y": 102.0872,
+        "z": 982.1459
       },
       "rot": {
-        "y": 34.060001373291016
+        "y": 34.06
       },
-      "tranPos": {
-        "x": -146.28744506835938,
-        "y": -62.24299240112305,
-        "z": 162.90530395507812
-      },
-      "specialTipsIconPath": "",
       "size": {
         "x": 5.0,
         "y": 5.0,
         "z": 5.0
+      },
+      "tranPos": {
+        "x": -146.28745,
+        "y": -62.242992,
+        "z": 162.9053
       }
     },
     "2": {
-      "$type": "ACECPLPLHPL",
+      "$type": "DungeonSlipRevivePoint",
+      "alias": "",
       "gadgetId": 70310387,
       "pos": {
-        "x": 704.9605712890625,
-        "y": 168.80999755859375,
-        "z": 690.9176025390625
+        "x": 704.9606,
+        "y": 168.81,
+        "z": 690.9176
       },
       "tranPos": {
-        "x": 708.3109130859375,
-        "y": 168.8100128173828,
-        "z": 684.047607421875
-      },
-      "specialTipsIconPath": ""
+        "x": 708.3109,
+        "y": 168.81001,
+        "z": 684.0476
+      }
     },
     "3": {
-      "$type": "ACECPLPLHPL",
+      "$type": "DungeonSlipRevivePoint",
+      "alias": "",
       "gadgetId": 70310387,
       "pos": {
-        "x": 431.6123046875,
-        "y": 29.9230899810791,
-        "z": 244.53370666503906
+        "x": 431.6123,
+        "y": 29.92309,
+        "z": 244.5337
       },
       "rot": {
-        "y": 58.15555953979492
+        "y": 58.15556
       },
       "tranPos": {
-        "x": 451.4088439941406,
-        "y": 36.008697509765625,
-        "z": 258.979248046875
-      },
-      "specialTipsIconPath": ""
-    }
-  },
-  "entities": {
-    "1": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 521.8165283203125,
-        "y": 17.7060604095459,
-        "z": 214.3843994140625
-      },
-      "tranPos": {
-        "x": 508.4211120605469,
-        "y": 17.702152252197266,
-        "z": 216.400634765625
-      },
-      "specialTipsIconPath": "",
-      "tag": 510420001,
-      "triggerFlag": "LevelCamera",
-      "shape": {
-        "$type": "DFOMFGGLHHN",
-        "useHeight": true,
-        "height": 10.0,
-        "radius": 40.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {
-        "data": {
-          "$type": "CBOAFGMAGFC",
-          "CGFPCJNJLDB": true
-        },
-        "CEDHLCFPNMN": {
-          "duration": 30.0
-        },
-        "CEJKDMEAGEI": {}
-      }
-    },
-    "2": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 173.62469482421875,
-        "y": 31.540109634399414,
-        "z": 864.2269287109375
-      },
-      "tranPos": {
-        "x": 173.62474060058594,
-        "y": 31.540109634399414,
-        "z": 864.2268676757812
-      },
-      "specialTipsIconPath": "",
-      "tag": 510420002,
-      "triggerFlag": "LevelCamera",
-      "shape": {
-        "$type": "DFOMFGGLHHN",
-        "useHeight": true,
-        "height": 10.0,
-        "radius": 30.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {
-        "data": {
-          "$type": "CBOAFGMAGFC"
-        },
-        "CEDHLCFPNMN": {
-          "duration": 45.0
-        },
-        "CEJKDMEAGEI": {}
-      }
-    },
-    "3": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 159.28089904785156,
-        "y": -0.06661222875118256,
-        "z": 807.9650268554688
-      },
-      "tranPos": {
-        "x": 159.28085327148438,
-        "y": -0.06661222875118256,
-        "z": 807.9650268554688
-      },
-      "specialTipsIconPath": "",
-      "tag": 510420003,
-      "triggerFlag": "LevelCamera",
-      "shape": {
-        "$type": "DFOMFGGLHHN",
-        "useHeight": true,
-        "height": 10.0,
-        "radius": 30.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {
-        "data": {
-          "$type": "CBOAFGMAGFC",
-          "CGFPCJNJLDB": true
-        },
-        "CEDHLCFPNMN": {},
-        "CEJKDMEAGEI": {}
+        "x": 451.40884,
+        "y": 36.008698,
+        "z": 258.97925
       }
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

@@ -1,169 +1,169 @@
 {
-   
+  "entities": {
+    "1": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 436.3617,
+        "y": 35.16833,
+        "z": 752.022
+      },
+      "rot": {
+        "y": 359.387
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 30.0,
+        "length": 16.0,
+        "useHeight": true,
+        "width": 50.0
+      },
+      "stringParam": "",
+      "tag": 202290001,
+      "tranPos": {
+        "x": 438.40012,
+        "y": 25.820309,
+        "z": 744.5197
+      },
+      "triggerFlag": "LevelCamera",
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "EODHGNLOIKK": {},
+        "KLKOBMCOFIG": {
+          "BLKFBLLDEEP": 1
+        },
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "followOffset": {
+            "y": 0.5,
+            "z": 5.0
+          },
+          "targetPosition": {
+            "x": 6.8,
+            "y": 25.8,
+            "z": -127.3
+          },
+          "PEDEBBIBGMK": true,
+          "EOOJAMOHMBC": "FollowToTarget"
+        }
+      }
+    }
+  },
   "points": {
     "1": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
       "pos": {
-        "x": 565.8502197265625,
-        "y": 5.214728832244873,
-        "z": 569.4594116210938
+        "x": 565.8502,
+        "y": 5.214729,
+        "z": 569.4594
       },
       "rot": {
-        "y": 33.43561935424805
+        "y": 33.43562
       },
-      "tranPos": {
-        "x": 565.8502197265625,
-        "y": 5.214728832244873,
-        "z": 569.4594116210938
-      },
-      "tranRot": {
-        "y": 33.43561935424805
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
       "size": {
         "x": 10.0,
         "y": 10.0,
         "z": 10.0
       },
-      "disableClientTrigger": true
+      "tranPos": {
+        "x": 565.8502,
+        "y": 5.214729,
+        "z": 569.4594
+      },
+      "tranRot": {
+        "y": 33.43562
+      },
+      "unlocked": true
     },
     "2": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
       "pos": {
-        "x": 649.632080078125,
-        "y": 2.7211110591888428,
-        "z": 647.3809204101562
+        "x": 649.6321,
+        "y": 2.721111,
+        "z": 647.3809
       },
       "rot": {
-        "y": 78.27963256835938
+        "y": 78.27963
       },
-      "tranPos": {
-        "x": 649.632080078125,
-        "y": 2.7211110591888428,
-        "z": 647.3809204101562
-      },
-      "tranRot": {
-        "y": 78.27963256835938
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
       "size": {
         "x": 10.0,
         "y": 10.0,
         "z": 10.0
       },
-      "disableClientTrigger": true
-    },
-    "3": {
-      "$type": "LJLGJMBBHMK",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 659.9973754882812,
-        "y": 2.7357399463653564,
-        "z": 718.6668090820312
-      },
-      "rot": {
-        "y": 38.80636978149414
-      },
       "tranPos": {
-        "x": 659.9973754882812,
-        "y": 2.7357399463653564,
-        "z": 718.6668090820312
+        "x": 649.6321,
+        "y": 2.721111,
+        "z": 647.3809
       },
       "tranRot": {
-        "y": 38.80636978149414
+        "y": 78.27963
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
+      "unlocked": true
+    },
+    "3": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 659.9974,
+        "y": 2.73574,
+        "z": 718.6668
+      },
+      "rot": {
+        "y": 38.80637
+      },
       "size": {
         "x": 50.0,
         "y": 30.0,
         "z": 10.0
       },
-      "disableClientTrigger": true
-    },
-    "4": {
-      "$type": "LJLGJMBBHMK",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 638.2158813476562,
-        "y": 4.255356788635254,
-        "z": 869.0629272460938
-      },
-      "rot": {
-        "y": 253.21890258789062
-      },
       "tranPos": {
-        "x": 638.2158813476562,
-        "y": 4.255356788635254,
-        "z": 869.0629272460938
+        "x": 659.9974,
+        "y": 2.73574,
+        "z": 718.6668
       },
       "tranRot": {
-        "y": 253.21890258789062
+        "y": 38.80637
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
+      "unlocked": true
+    },
+    "4": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 638.2159,
+        "y": 4.255357,
+        "z": 869.0629
+      },
+      "rot": {
+        "y": 253.2189
+      },
       "size": {
         "x": 10.0,
         "y": 10.0,
         "z": 10.0
       },
-      "disableClientTrigger": true
-    }
-  },
-  "entities": {
-    "1": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 436.3616943359375,
-        "y": 35.168331146240234,
-        "z": 752.02197265625
-      },
-      "rot": {
-        "y": 359.3869934082031
-      },
       "tranPos": {
-        "x": 438.4001159667969,
-        "y": 25.820308685302734,
-        "z": 744.5197143554688
+        "x": 638.2159,
+        "y": 4.255357,
+        "z": 869.0629
       },
-      "specialTipsIconPath": "",
-      "tag": 202290001,
-      "triggerFlag": "LevelCamera",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 30.0,
-        "centerType": "Center",
-        "width": 50.0,
-        "length": 16.0
+      "tranRot": {
+        "y": 253.2189
       },
-      "stringParam": "",
-      "BFKCMEDCIIM": {
-        "data": {
-          "$type": "CBOAFGMAGFC",
-          "targetPosition": {
-            "x": 6.800000190734863,
-            "y": 25.799999237060547,
-            "z": -127.30000305175781
-          },
-          "followOffset": {
-            "y": 0.5,
-            "z": 5.0
-          },
-          "IENDDOMCPIC": "FollowToTarget",
-          "LJGFNAHEMFI": true
-        },
-        "CEDHLCFPNMN": {
-          "blendType": 1
-        },
-        "CEJKDMEAGEI": {}
-      }
+      "unlocked": true
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

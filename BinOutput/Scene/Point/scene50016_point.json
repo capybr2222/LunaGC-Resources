@@ -1,69 +1,72 @@
 {
-  "forces": {
-    "1": {
-      "$type": "OPKHNLFEDAG",
-      "gadgetId": 40200001,
-      "pos": {
-        "x": 25.25967025756836,
-        "y": -11.0,
-        "z": 276.9389953613281
-      },
-      "specialTipsIconPath": "",
-      "velocity": 50.0,
-      "scale": 2.0,
-      "stayEffect": "Eff_Windfield_Stay",
-      "enterEffect": "Eff_Windfield_Enter"
-    }
-  },
   "entities": {
     "1": {
-      "$type": "BDLEMCBKPLI",
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "checkDist": 500.0,
       "gadgetId": 40000007,
       "pos": {
-        "x": 97.18858337402344,
-        "y": 7.814568042755127,
-        "z": 399.6310119628906
+        "x": 97.18858,
+        "y": 7.814568,
+        "z": 399.631
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "checkDist": 500.0,
-      "withGO": true,
-      "triggerFlag": "DeadRegion",
       "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 8.229999542236328,
+        "$type": "ConfigShapeRect",
         "centerType": "Center",
-        "width": 80.0,
-        "length": 100.0
+        "height": 8.23,
+        "length": 100.0,
+        "useHeight": true,
+        "width": 80.0
       },
       "stringParam": "",
-      "BFKCMEDCIIM": {}
+      "triggerFlag": "DeadRegion",
+      "unlocked": true,
+      "withGO": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
     },
     "2": {
-      "$type": "BDLEMCBKPLI",
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "checkDist": 500.0,
       "gadgetId": 40000007,
       "pos": {
-        "x": 97.78392791748047,
-        "y": -31.927499771118164,
-        "z": 400.7782897949219
+        "x": 97.78393,
+        "y": -31.9275,
+        "z": 400.7783
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "checkDist": 500.0,
-      "withGO": true,
-      "triggerFlag": "NoReviveRegion",
       "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 100.0,
+        "$type": "ConfigShapeRect",
         "centerType": "Center",
-        "width": 80.0,
-        "length": 100.0
+        "height": 100.0,
+        "length": 100.0,
+        "useHeight": true,
+        "width": 80.0
       },
       "stringParam": "",
-      "BFKCMEDCIIM": {}
+      "triggerFlag": "NoReviveRegion",
+      "unlocked": true,
+      "withGO": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
     }
   },
-  "GDFJNNEIFCF": {}
+  "forces": {
+    "1": {
+      "$type": "ConfigAirflowField",
+      "alias": "",
+      "colliderName": "",
+      "enterEffect": "Eff_Windfield_Enter",
+      "gadgetId": 40200001,
+      "pos": {
+        "x": 25.25967,
+        "y": -11.0,
+        "z": 276.939
+      },
+      "scale": 2.0,
+      "stayEffect": "Eff_Windfield_Stay",
+      "velocity": 50.0
+    }
+  },
+  "IFNMLHIOCPN": {}
 }

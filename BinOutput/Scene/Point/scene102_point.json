@@ -1,1205 +1,1826 @@
 {
+  "entities": {
+    "1": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "areaId": 900,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": -454.2807,
+        "y": -1336.197,
+        "z": -1616.846
+      },
+      "rot": {
+        "y": 357.0651
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 20.0,
+        "length": 30.0,
+        "useHeight": true,
+        "width": 60.0
+      },
+      "stringParam": "",
+      "tag": 1020001,
+      "tranPos": {
+        "x": -461.72888,
+        "y": -1344.3187,
+        "z": -1197.0
+      },
+      "triggerFlag": "LevelCamera",
+      "OAHHFDEDOML": 90009,
+      "IAGMHENPDAM": 1029000306,
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "EODHGNLOIKK": {
+          "duration": 3.0,
+          "BLKFBLLDEEP": 1
+        },
+        "KLKOBMCOFIG": {
+          "duration": 3.0,
+          "BLKFBLLDEEP": 1
+        },
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "followOffset": {
+            "x": 5.051605,
+            "y": 0.6578369,
+            "z": -49.022583
+          },
+          "targetPosition": {
+            "x": -0.15,
+            "y": -0.36,
+            "z": 55.73
+          },
+          "OPFBJBLFPLE": true,
+          "EOOJAMOHMBC": "FollowToTarget"
+        }
+      }
+    },
+    "2": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "areaId": 900,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": -414.2701,
+        "y": -1336.197,
+        "z": -1596.562
+      },
+      "rot": {
+        "y": 310.0943
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 20.0,
+        "length": 30.0,
+        "useHeight": true,
+        "width": 50.0
+      },
+      "stringParam": "",
+      "tag": 1020002,
+      "tranPos": {
+        "x": -461.72888,
+        "y": -1344.3187,
+        "z": -1616.3796
+      },
+      "triggerFlag": "LevelCamera",
+      "OAHHFDEDOML": 90009,
+      "IAGMHENPDAM": 1029000306,
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "EODHGNLOIKK": {
+          "duration": 3.0,
+          "BLKFBLLDEEP": 1
+        },
+        "KLKOBMCOFIG": {
+          "duration": 3.0,
+          "BLKFBLLDEEP": 1
+        },
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "followOffset": {
+            "x": 27.408295,
+            "y": 2.9055176,
+            "z": -15.609863
+          },
+          "targetPosition": {
+            "x": -41.79,
+            "y": -0.36,
+            "z": 33.37
+          },
+          "OPFBJBLFPLE": true,
+          "EOOJAMOHMBC": "FollowToTarget"
+        }
+      }
+    },
+    "3": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "areaId": 900,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": -400.3156,
+        "y": -1341.197,
+        "z": -1551.434
+      },
+      "rot": {
+        "y": 269.9465
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 30.0,
+        "length": 30.0,
+        "useHeight": true,
+        "width": 60.0
+      },
+      "stringParam": "",
+      "tag": 1020003,
+      "tranPos": {
+        "x": -461.72888,
+        "y": -1344.3187,
+        "z": -1616.3796
+      },
+      "triggerFlag": "LevelCamera",
+      "OAHHFDEDOML": 90009,
+      "IAGMHENPDAM": 1029000306,
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "EODHGNLOIKK": {
+          "duration": 3.0,
+          "BLKFBLLDEEP": 1
+        },
+        "KLKOBMCOFIG": {
+          "duration": 3.0,
+          "BLKFBLLDEEP": 1
+        },
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "followOffset": {
+            "x": 39.824707,
+            "y": 2.9815674,
+            "z": 5.4664307
+          },
+          "targetPosition": {
+            "x": -54.56,
+            "y": -0.36,
+            "z": 0.06
+          },
+          "OPFBJBLFPLE": true,
+          "EOOJAMOHMBC": "FollowToTarget"
+        }
+      }
+    },
+    "4": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "areaId": 910,
+      "checkDist": 400.0,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 1289.234,
+        "y": 624.0221,
+        "z": 350.4048
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 330.0,
+        "length": 200.0,
+        "useHeight": true,
+        "width": 250.0
+      },
+      "stringParam": "",
+      "tag": 1020004,
+      "tranPos": {
+        "x": 1382.5768,
+        "y": 737.8247,
+        "z": 349.55994
+      },
+      "triggerFlag": "LevelCamera",
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "EODHGNLOIKK": {
+          "BLKFBLLDEEP": 1
+        },
+        "KLKOBMCOFIG": {
+          "duration": 3.0,
+          "BLKFBLLDEEP": 1
+        },
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "fov": 30.0,
+          "targetPosition": {
+            "x": 40.8,
+            "y": -84.0,
+            "z": 80.1
+          },
+          "NMACBNEJGJD": true,
+          "OPFBJBLFPLE": true,
+          "PEDEBBIBGMK": true,
+          "EOOJAMOHMBC": "TargetToFollow"
+        }
+      }
+    },
+    "5": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "areaId": 920,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": -641.5521,
+        "y": -742.1677,
+        "z": 6724.844
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 40.0,
+        "length": 20.0,
+        "useHeight": true,
+        "width": 30.0
+      },
+      "stringParam": "",
+      "tag": 1020005,
+      "tranPos": {
+        "x": -642.8447,
+        "y": -742.27374,
+        "z": 6725.701
+      },
+      "triggerFlag": "LevelCamera",
+      "NHFECDHOCCD": 0.0,
+      "IAGMHENPDAM": 1029000602,
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "EODHGNLOIKK": {
+          "BLKFBLLDEEP": 1
+        },
+        "KLKOBMCOFIG": {
+          "BLKFBLLDEEP": 1
+        },
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "followOffset": {
+            "x": -5.7200317,
+            "y": 55.35376,
+            "z": 0.35839844
+          },
+          "fov": 55.0,
+          "targetPosition": {
+            "x": 1.7999878,
+            "y": -8.683777,
+            "z": 0.2998047
+          },
+          "NMACBNEJGJD": true,
+          "OPFBJBLFPLE": true,
+          "PEDEBBIBGMK": true
+        }
+      }
+    },
+    "7": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "areaId": 920,
+      "checkDist": 150.0,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": -618.2863,
+        "y": -834.8605,
+        "z": 6913.313
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 195.0,
+        "length": 160.0,
+        "useHeight": true,
+        "width": 160.0
+      },
+      "stringParam": "",
+      "tag": 1020007,
+      "triggerFlag": "LevelCamera",
+      "NHFECDHOCCD": 1.0,
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "KLKOBMCOFIG": {
+          "duration": 3.0,
+          "BLKFBLLDEEP": 1
+        },
+        "EODHGNLOIKK": {
+          "duration": 3.0,
+          "BLKFBLLDEEP": 1,
+          "JGDAEFOADLH": 1
+        },
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "followOffset": {
+            "x": -0.099975586,
+            "y": 194.20001,
+            "z": -3.3901367
+          },
+          "fov": 55.0,
+          "targetPosition": {
+            "x": 2.0900269,
+            "y": -4.700012,
+            "z": 24.700195
+          },
+          "NMACBNEJGJD": true,
+          "OPFBJBLFPLE": true
+        }
+      }
+    },
+    "8": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": -667.654,
+        "y": 10307.39,
+        "z": -1646.574
+      },
+      "rot": {
+        "y": 66.84555
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 80.0,
+        "length": 80.0,
+        "width": 75.0
+      },
+      "stringParam": "",
+      "tag": 1020008,
+      "tranPos": {
+        "x": -591.30585,
+        "y": 10307.387,
+        "z": -1763.7882
+      },
+      "triggerFlag": "LevelCamera",
+      "OAHHFDEDOML": 90003,
+      "IAGMHENPDAM": 1029001001,
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "EODHGNLOIKK": {
+          "BLKFBLLDEEP": 1
+        },
+        "KLKOBMCOFIG": {
+          "BLKFBLLDEEP": 1
+        },
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "followOffset": {
+            "x": 15.0,
+            "y": -0.3
+          },
+          "targetPosition": {
+            "x": -874.7,
+            "y": 74.2,
+            "z": -460.4
+          },
+          "EOOJAMOHMBC": "FollowToTarget"
+        }
+      }
+    }
+  },
+  "forces": {
+    "1": {
+      "$type": "ConfigRiseField",
+      "alias": "",
+      "attenuation": 4.0,
+      "box": {
+        "x": 400.0,
+        "y": 500.0,
+        "z": 400.0
+      },
+      "cdmax": 12.0,
+      "colliderName": "",
+      "pos": {
+        "x": 1470.881,
+        "y": -4360.437,
+        "z": 381.9647
+      },
+      "shape": {
+        "$type": "ConfigShapeCircle",
+        "height": 400.0,
+        "radius": 350.0,
+        "useHeight": true
+      },
+      "OFCFLMPBCMP": 3.0,
+      "IJMOOAIOPBL": 4.0,
+      "DOKOMFOCCBA": 5.0,
+      "GMKJPKDBPHF": 5.0,
+      "BNCOPDNNMEJ": 6.0
+    }
+  },
   "points": {
     "1": {
-      "$type": "TransPointNormal",
-      "exploreRatio": 1,
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
+      "gadgetId": 70360001,
+      "isForbidAvatarAutoUseSpring": true,
+      "isForbidAvatarRevive": true,
       "mapVisibility": "Never",
+      "portalShape": "",
       "pos": {
         "x": -1460.678,
         "y": 175.8477,
         "z": -2569.493
       },
-      "gadgetId": 70360001,
       "tranPos": {
         "x": -1791.3141,
         "y": 314.04153,
         "z": 7307.449
       },
-      "areaId": 900,
-      "damageRatio": "TOWER"
+      "type": "TOWER",
+      "OAHHFDEDOML": 90001
     },
     "11": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": -2150.918,
         "y": 159.113,
         "z": -1201.031
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "x": 2.134434E-07,
+        "y": 105.741
+      },
       "tranPos": {
         "x": -2152.2654,
         "y": 159.25966,
         "z": -1202.3423
-      },
-      "areaId": 900,
-      "rot": {
-        "x": 2.134434e-07,
-        "y": 105.741
       },
       "tranRot": {
         "y": 291.4084
       }
     },
     "14": {
-      "$type": "DungeonExit",
-      "markIconTypeName": "MarkNodKraiOffering_6",
-      "isForbidAvatarRevive": 1,
+      "$type": "VirtualTransPoint",
+      "alias": "",
+      "areaId": 900,
+      "gadgetId": 70010001,
+      "isForbidAvatarAutoUseSpring": true,
+      "isForbidAvatarRevive": true,
       "mapVisibility": "OnUnlocked",
+      "markIconTypeName": "MarkNodKraiOffering_6",
+      "portalShape": "",
       "pos": {
         "x": -406.2371,
         "y": -96.1072,
         "z": -3834.781
       },
-      "gadgetId": 70010001,
+      "rot": {
+        "y": 227.75
+      },
       "tranPos": {
         "x": -407.78897,
         "y": -95.6409,
         "z": -3836.8784
       },
-      "areaId": 900,
-      "rot": {
-        "y": 227.75
-      },
       "tranRot": {
         "y": 223.7
       },
-      "specialTipsIconPath": "",
-      "unlocked": true
+      "OAHHFDEDOML": 90011,
+      "HAGBOCBPNHN": true
     },
     "15": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": -2598.697,
         "y": 742.669,
         "z": 751.644
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "y": 3.66346
+      },
       "tranPos": {
         "x": -2592.3032,
         "y": 744.15546,
         "z": 754.01807
       },
-      "areaId": 900,
-      "rot": {
-        "y": 3.66346
-      },
       "tranRot": {
         "y": 332.59973
-      }
+      },
+      "OAHHFDEDOML": 90006
     },
     "16": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
       "mapVisibility": "OnUnlocked",
+      "portalShape": "",
       "pos": {
         "x": -280.676,
         "y": -1273.723,
         "z": -1554.356
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "y": 140.5107
+      },
       "tranPos": {
         "x": -284.0275,
         "y": -1273.6338,
         "z": -1561.6951
       },
-      "areaId": 900,
-      "rot": {
-        "y": 140.5107
-      },
       "tranRot": {
-        "y": 270
-      }
+        "y": 270.0
+      },
+      "OAHHFDEDOML": 90009,
+      "IAGMHENPDAM": 1029000306
     },
     "17": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
       "mapVisibility": "OnUnlocked",
+      "portalShape": "",
       "pos": {
         "x": -390.299,
         "y": -1438.287,
         "z": -1572.158
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "y": 1.540017
+      },
       "tranPos": {
         "x": -382.77365,
         "y": -1437.225,
         "z": -1561.7397
       },
-      "areaId": 900,
-      "rot": {
-        "y": 1.540017
-      },
       "tranRot": {
         "y": 275.2612
-      }
+      },
+      "OAHHFDEDOML": 90009,
+      "IAGMHENPDAM": 1029000306
     },
     "18": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 910,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": 1171.739,
         "y": 148.4582,
         "z": -209.442
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "x": 9.151451E-06,
+        "y": 11.37064,
+        "z": 1.840382E-06
+      },
       "tranPos": {
         "x": 1165.8525,
         "y": 149.4895,
         "z": -207.84953
-      },
-      "areaId": 910,
-      "rot": {
-        "x": 9.151451e-06,
-        "y": 11.37064,
-        "z": 1.840382e-06
       },
       "tranRot": {
         "y": 13.939997
       }
     },
     "19": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 910,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": 1576.59,
         "y": 60.483,
         "z": 866.005
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "x": -2.981918E-06,
+        "y": 155.1954,
+        "z": -8.845582E-06
+      },
       "tranPos": {
         "x": 1580.94,
         "y": 60.567,
         "z": 865.562
-      },
-      "areaId": 910,
-      "rot": {
-        "x": -2.981918e-06,
-        "y": 155.1954,
-        "z": -8.845582e-06
       },
       "tranRot": {
         "y": 18.04387
       }
     },
     "2": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": -907.226,
         "y": 160.425,
         "z": -1680.223
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "y": 100.9635
+      },
       "tranPos": {
         "x": -901.413,
         "y": 158.026,
         "z": -1684.363
       },
-      "areaId": 900,
-      "rot": {
-        "y": 100.9635
-      },
       "tranRot": {
         "y": 98.00371
-      }
+      },
+      "OAHHFDEDOML": 90002
     },
     "20": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": -413.66,
         "y": 130.48,
         "z": -1438.01
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "y": 9.808615
+      },
       "tranPos": {
         "x": -404.358,
         "y": 134.91,
         "z": -1454.527
       },
-      "areaId": 900,
-      "rot": {
-        "y": 9.808615
-      },
       "tranRot": {
         "y": 173.12479
-      }
+      },
+      "OAHHFDEDOML": 90002
     },
     "21": {
-      "$type": "TransPointNormal",
-      "exploreRatio": 1,
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 910,
+      "gadgetId": 70360001,
+      "isForbidAvatarAutoUseSpring": true,
+      "isForbidAvatarRevive": true,
       "mapVisibility": "Never",
+      "portalShape": "",
       "pos": {
         "x": 1077.814,
         "y": 129.5502,
         "z": -336.6583
       },
-      "gadgetId": 70360001,
-      "areaId": 910,
-      "damageRatio": "TOWER"
+      "type": "TOWER"
     },
     "22": {
-      "$type": "TransPointNormal",
-      "exploreRatio": 1,
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 920,
+      "gadgetId": 70360001,
+      "isForbidAvatarAutoUseSpring": true,
+      "isForbidAvatarRevive": true,
       "mapVisibility": "Never",
+      "portalShape": "",
       "pos": {
         "x": -617.4725,
         "y": -702.7887,
         "z": 6238.457
       },
-      "gadgetId": 70360001,
-      "areaId": 920,
-      "damageRatio": "TOWER"
+      "type": "TOWER"
     },
     "23": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138018,
+      "portalShape": "",
       "pos": {
         "x": -857.59,
         "y": 76.90108,
         "z": -4261.34
       },
-      "gadgetId": 73138018,
+      "rot": {
+        "y": 166.9762
+      },
+      "subtype": "MOONTOWER",
       "tranPos": {
         "x": -874.4471,
         "y": 77.19083,
         "z": -4278.6455
       },
-      "areaId": 900,
-      "rot": {
-        "y": 166.9762
-      },
       "tranRot": {
-        "y": 118
-      }
+        "y": 118.0
+      },
+      "OAHHFDEDOML": 90013,
+      "KAJMGBMIGPN": [
+        1581
+      ]
     },
     "24": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 920,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
       "mapVisibility": "OnUnlocked",
+      "portalShape": "",
       "pos": {
         "x": -607.8207,
         "y": -702.2398,
         "z": 6243.457
       },
-      "gadgetId": 73138019,
       "tranPos": {
         "x": -617.3764,
         "y": -694.6721,
         "z": 6270.6753
-      },
-      "areaId": 920
+      }
     },
     "25": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 920,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
       "mapVisibility": "OnUnlocked",
+      "portalShape": "",
       "pos": {
         "x": -621.2026,
         "y": -676.826,
         "z": 6539.541
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "y": 0.04635246
+      },
       "tranPos": {
         "x": -617.3492,
         "y": -677.93134,
         "z": 6542.8105
       },
-      "areaId": 920,
-      "rot": {
-        "y": 0.04635246
-      }
+      "IAGMHENPDAM": 1029000601
     },
     "27": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138018,
+      "portalShape": "",
       "pos": {
         "x": -1300.526,
         "y": 263.9683,
         "z": -1795.281
       },
-      "gadgetId": 73138018,
+      "rot": {
+        "y": 72.92281
+      },
+      "subtype": "MOONTOWER",
       "tranPos": {
         "x": -1286.2494,
         "y": 264.54312,
         "z": -1791.022
       },
-      "areaId": 900,
-      "rot": {
-        "y": 72.92281
-      },
       "tranRot": {
         "y": 74.39563
-      }
+      },
+      "KAJMGBMIGPN": [
+        1581
+      ]
     },
     "28": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138018,
+      "portalShape": "",
       "pos": {
         "x": -914.09,
         "y": 205.5181,
         "z": -545.43
       },
-      "gadgetId": 73138018,
+      "subtype": "MOONTOWER",
       "tranPos": {
         "x": -911.52826,
         "y": 205.58943,
         "z": -542.96686
       },
-      "areaId": 900,
       "tranRot": {
         "y": 50.3
-      }
+      },
+      "OAHHFDEDOML": 90005,
+      "KAJMGBMIGPN": [
+        1581
+      ]
     },
     "29": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138018,
+      "portalShape": "",
       "pos": {
         "x": -2735.667,
         "y": 223.9627,
         "z": -1599.099
       },
-      "gadgetId": 73138018,
-      "tranPos": {
-        "x": -2751,
-        "y": 224.5,
-        "z": -1596
-      },
-      "areaId": 900,
       "rot": {
         "y": 287.1016
       },
+      "subtype": "MOONTOWER",
+      "tranPos": {
+        "x": -2751.0,
+        "y": 224.5,
+        "z": -1596.0
+      },
       "tranRot": {
         "y": -81.318
-      }
+      },
+      "OAHHFDEDOML": 90004,
+      "KAJMGBMIGPN": [
+        1581
+      ]
     },
     "3": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
       "mapVisibility": "OnUnlocked",
+      "portalShape": "",
       "pos": {
         "x": -494.408,
         "y": 133.052,
         "z": -1561.802
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "y": 270.0001
+      },
       "tranPos": {
         "x": -511.45,
         "y": 135.877,
         "z": -1562.4321
       },
-      "areaId": 900,
-      "rot": {
-        "y": 270.0001
-      },
       "tranRot": {
-        "y": 90
-      }
+        "y": 90.0
+      },
+      "OAHHFDEDOML": 90002,
+      "IAGMHENPDAM": 1029000302
     },
     "30": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138018,
+      "portalShape": "",
       "pos": {
         "x": -323.0071,
         "y": 207.4525,
         "z": -1922.382
       },
-      "gadgetId": 73138018,
+      "rot": {
+        "y": 134.5573
+      },
+      "subtype": "MOONTOWER",
       "tranPos": {
         "x": -327.5283,
         "y": 207.4525,
         "z": -1917.4686
       },
-      "areaId": 900,
-      "rot": {
-        "y": 134.5573
-      },
       "tranRot": {
         "y": 136.2
-      }
+      },
+      "KAJMGBMIGPN": [
+        1581
+      ]
     },
     "31": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138018,
+      "portalShape": "",
       "pos": {
         "x": -357.16,
         "y": -59.34334,
         "z": -3565.381
       },
-      "gadgetId": 73138018,
+      "rot": {
+        "y": 176.59
+      },
+      "subtype": "MOONTOWER",
       "tranPos": {
         "x": -351.87506,
         "y": -59.42359,
         "z": -3573.1013
       },
-      "areaId": 900,
-      "rot": {
-        "y": 176.59
-      },
       "tranRot": {
         "y": 163.7767
-      }
+      },
+      "OAHHFDEDOML": 90011,
+      "KAJMGBMIGPN": [
+        1581
+      ]
     },
     "32": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 920,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
       "mapVisibility": "OnUnlocked",
+      "portalShape": "",
       "pos": {
         "x": -646.1582,
         "y": -748.3265,
         "z": 6676.561
       },
-      "gadgetId": 73138019,
       "tranPos": {
         "x": -642.8653,
         "y": -748.6155,
         "z": 6674.111
       },
-      "areaId": 920,
       "tranRot": {
         "y": 92.789566
-      }
+      },
+      "IAGMHENPDAM": 1029000602
     },
     "33": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 920,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
       "mapVisibility": "OnUnlocked",
+      "portalShape": "",
       "pos": {
         "x": -621.4679,
         "y": -755.3699,
         "z": 6767.785
       },
-      "gadgetId": 73138019,
-      "tranPos": {
-        "x": -615.7046,
-        "y": -755.1764,
-        "z": 6769.1265
-      },
-      "areaId": 920,
       "rot": {
         "x": 0.7262536,
         "y": 23.69882,
         "z": 0.7252939
       },
+      "tranPos": {
+        "x": -615.7046,
+        "y": -755.1764,
+        "z": 6769.1265
+      },
       "tranRot": {
         "y": 6.4169035
-      }
+      },
+      "IAGMHENPDAM": 1029000602
     },
     "34": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 910,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": 1068.517,
         "y": 104.5394,
         "z": 132.219
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "x": -1.769085E-06,
+        "y": 154.0756,
+        "z": -9.165505E-06
+      },
       "tranPos": {
         "x": 1063.242,
         "y": 104.648,
         "z": 134.231
-      },
-      "areaId": 910,
-      "rot": {
-        "x": -1.769085e-06,
-        "y": 154.0756,
-        "z": -9.165505e-06
       },
       "tranRot": {
         "y": 15.940007
       }
     },
     "36": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
       "mapVisibility": "OnUnlocked",
+      "portalShape": "",
       "pos": {
         "x": -684.03,
         "y": 10314.49,
         "z": -1557.61
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "y": 246.6141
+      },
       "tranPos": {
         "x": -674.352,
         "y": 10320.92,
         "z": -1568.318
       },
-      "areaId": 900,
-      "rot": {
-        "y": 246.6141
-      },
       "tranRot": {
         "y": 268.8256
-      }
+      },
+      "OAHHFDEDOML": 90003,
+      "IAGMHENPDAM": 1029001001
     },
     "37": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
       "mapVisibility": "OnUnlocked",
+      "portalShape": "",
       "pos": {
         "x": -777.2683,
         "y": -377.7485,
         "z": -1799.307
       },
-      "gadgetId": 73138019,
       "tranPos": {
         "x": -775.4494,
         "y": -377.30283,
         "z": -1799.2155
       },
-      "areaId": 900,
       "tranRot": {
         "y": 84.4
-      }
+      },
+      "OAHHFDEDOML": 90007,
+      "IAGMHENPDAM": 1029000402
     },
     "38": {
-      "$type": "DungeonExit",
-      "markIconTypeName": "MarkMoonPoint01",
-      "isForbidAvatarRevive": 1,
+      "$type": "VirtualTransPoint",
+      "alias": "",
+      "areaId": 900,
+      "gadgetId": 70010001,
       "mapVisibility": "OnUnlocked",
+      "markIconTypeName": "MarkMoonPoint01",
+      "portalShape": "",
       "pos": {
         "x": -1677.069,
         "y": 172.748,
         "z": -2826.776
       },
-      "gadgetId": 70010001,
       "tranPos": {
         "x": -1677.0981,
         "y": 173.9565,
         "z": -2823.7842
       },
-      "areaId": 900,
       "tranRot": {
         "y": 333.82782
       },
-      "specialTipsIconPath": "",
-      "unlocked": true
+      "OAHHFDEDOML": 90001
     },
     "39": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 910,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": 1597.392,
         "y": 93.827,
         "z": 506.94
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "x": 6.586432E-06,
+        "y": 103.5425,
+        "z": -6.614809E-06
+      },
       "tranPos": {
         "x": 1592.443,
         "y": 93.212,
         "z": 505.604
-      },
-      "areaId": 910,
-      "rot": {
-        "x": 6.586432e-06,
-        "y": 103.5425,
-        "z": -6.614809e-06
       },
       "tranRot": {
         "y": 119.09066
       }
     },
     "4": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": -545.0283,
         "y": 117.5827,
         "z": -1381.282
       },
-      "gadgetId": 73138019,
       "tranPos": {
         "x": -552.01495,
         "y": 117.88419,
         "z": -1383.2451
       },
-      "areaId": 900,
       "tranRot": {
         "y": 337.68228
-      }
+      },
+      "OAHHFDEDOML": 90002,
+      "IAGMHENPDAM": 1029000201
     },
     "40": {
       "$type": "DungeonEntry",
+      "alias": "",
+      "areaId": 920,
       "dungeonIds": [
         1259
       ],
-      "inteeIcon": "UI_Icon_Intee_Talk",
-      "titleTextID": "UI_STC_Intee_DungeonEntry",
+      "dungeonQuestConditionList": {},
       "forbidSimpleUnlock": true,
-      "removeEntityIfLocked": 1,
+      "inteeIcon": "UI_Icon_Intee_Talk",
       "mapVisibility": "Never",
+      "portalShape": "",
       "pos": {
         "x": -617.1717,
         "y": -726.5582,
         "z": 6921.63
       },
-      "gadgetId": 0,
+      "removeEntityIfLocked": true,
+      "titleTextID": "UI_STC_Intee_DungeonEntry",
       "tranPos": {
         "x": -618.65424,
         "y": -726.5582,
         "z": 6879.6377
       },
-      "areaId": 920,
-      "specialTipsIconPath": "",
-      "portalShape": ""
+      "IAGMHENPDAM": 1029000601
     },
     "41": {
       "$type": "DungeonExit",
+      "alias": "",
+      "areaId": 920,
       "entryPointId": 40,
       "pos": {
         "x": -618.6602,
         "y": -726.7893,
         "z": 6878.12
       },
-      "gadgetId": 0,
       "tranPos": {
         "x": -618.6602,
         "y": -726.7893,
         "z": 6878.12
       },
-      "areaId": 920,
-      "specialTipsIconPath": "",
-      "unlocked": true
+      "IAGMHENPDAM": 1029000601
     },
     "43": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 910,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": 745.456,
         "y": 72.26,
         "z": 268.976
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "y": 79.07599
+      },
       "tranPos": {
         "x": 753.55444,
         "y": 69.75343,
         "z": 269.41953
-      },
-      "areaId": 910,
-      "rot": {
-        "y": 79.07599
       },
       "tranRot": {
         "y": 14.315656
       }
     },
     "45": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": -634.734,
         "y": 184.156,
         "z": -1494.02
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "y": 21.43361
+      },
       "tranPos": {
         "x": -628.464,
         "y": 183.997,
         "z": -1489.801
       },
-      "areaId": 900,
-      "rot": {
-        "y": 21.43361
-      },
       "tranRot": {
         "y": 334.80884
-      }
+      },
+      "OAHHFDEDOML": 90002
     },
     "46": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": -821.592,
         "y": 298.431,
         "z": -1490.886
       },
-      "gadgetId": 73138019,
       "tranPos": {
         "x": -814.779,
         "y": 299.989,
         "z": -1495.4
       },
-      "areaId": 900,
       "tranRot": {
         "y": -19.452
-      }
+      },
+      "OAHHFDEDOML": 90002,
+      "IAGMHENPDAM": 1029000901
     },
     "47": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": -1058.013,
         "y": 205.95,
         "z": -1730.424
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "y": 74.9999
+      },
       "tranPos": {
         "x": -1051.691,
         "y": 206.018,
         "z": -1728.763
-      },
-      "areaId": 900,
-      "rot": {
-        "y": 74.9999
       },
       "tranRot": {
         "y": 74.91419
       }
     },
     "48": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": -487.0964,
         "y": -77.26614,
         "z": -3936.214
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "y": 44.59106
+      },
       "tranPos": {
         "x": -490.01013,
         "y": -77.21144,
         "z": -3933.8335
       },
-      "areaId": 900,
-      "rot": {
-        "y": 44.59106
-      },
       "tranRot": {
         "y": 313.1961
-      }
+      },
+      "OAHHFDEDOML": 90011
     },
     "49": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
       "mapVisibility": "OnUnlocked",
+      "portalShape": "",
       "pos": {
         "x": -362.9645,
         "y": -1572.21,
         "z": -3949.309
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "y": 328.987
+      },
       "tranPos": {
         "x": -362.177,
         "y": -1572.1558,
         "z": -3955.8718
       },
-      "areaId": 900,
-      "rot": {
-        "y": 328.987
-      },
       "tranRot": {
         "y": 148.95891
-      }
+      },
+      "IAGMHENPDAM": 1029001201
     },
     "5": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": -591.984,
         "y": 121.15,
         "z": -1738.738
       },
-      "gadgetId": 73138019,
       "tranPos": {
         "x": -587.8843,
         "y": 121.20779,
         "z": -1738.2545
       },
-      "areaId": 900,
       "tranRot": {
         "y": 197.77748
-      }
+      },
+      "OAHHFDEDOML": 90002
     },
     "50": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 910,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": 2210.074,
         "y": 38.8684,
         "z": 116.4327
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "y": 138.542
+      },
       "tranPos": {
         "x": 2214.442,
         "y": 39.080933,
         "z": 114.85799
-      },
-      "areaId": 910,
-      "rot": {
-        "y": 138.542
       },
       "tranRot": {
         "y": 110.52451
       }
     },
     "51": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 920,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": -624.2809,
         "y": -728.6885,
         "z": 6828.348
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "y": 271.5356
+      },
       "tranPos": {
         "x": -617.45654,
         "y": -727.9049,
         "z": 6830.457
       },
-      "areaId": 920,
-      "rot": {
-        "y": 271.5356
-      }
+      "IAGMHENPDAM": 1029000601
     },
     "52": {
-      "$type": "HMJDOCFJACC",
+      "$type": "SceneBuildingPoint",
+      "alias": "",
+      "areaId": 900,
       "buildingType": "SpaceElevator",
-      "specificTransPointId": 3,
+      "gadgetId": 70010001,
+      "needSpecificTransPoint": true,
       "pos": {
         "x": -454.2269,
         "y": 146.2161,
         "z": -1561.708
       },
-      "gadgetId": 70010001,
+      "rot": {
+        "y": 267.7838
+      },
+      "specificTransPointId": 3,
       "tranPos": {
         "x": -451.0573,
         "y": 146.2161,
         "z": -1561.656
       },
-      "areaId": 900,
-      "rot": {
-        "y": 267.7838
-      }
+      "OAHHFDEDOML": 90002,
+      "IAGMHENPDAM": 1029000302
     },
     "53": {
-      "$type": "HMJDOCFJACC",
+      "$type": "SceneBuildingPoint",
+      "alias": "",
+      "areaId": 900,
       "buildingType": "SpaceStation",
-      "specificTransPointId": 61,
+      "gadgetId": 70010001,
+      "needSpecificTransPoint": true,
       "pos": {
         "x": -454.2269,
         "y": 10322.95,
         "z": -1561.708
       },
-      "gadgetId": 70010001,
+      "rot": {
+        "y": 267.7838
+      },
+      "specificTransPointId": 61,
       "tranPos": {
         "x": -483.673,
         "y": 10320.97,
         "z": -1562.761
       },
-      "areaId": 900,
-      "rot": {
+      "tranRot": {
         "y": 267.7838
-      }
+      },
+      "OAHHFDEDOML": 90003,
+      "IAGMHENPDAM": 1029001001
     },
     "54": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
       "mapVisibility": "OnUnlocked",
+      "portalShape": "",
       "pos": {
         "x": 291.8387,
         "y": 9992.874,
         "z": -1092.138
       },
-      "gadgetId": 73138019,
-      "tranPos": {
-        "x": 287.3174,
-        "y": 9992.803,
-        "z": -1093.5582
-      },
-      "areaId": 900,
       "rot": {
         "x": 342.093,
         "y": 357.7329,
         "z": 14.31608
       },
+      "tranPos": {
+        "x": 287.3174,
+        "y": 9992.803,
+        "z": -1093.5582
+      },
       "tranRot": {
         "y": 249.08533
-      }
+      },
+      "OAHHFDEDOML": 90012,
+      "IAGMHENPDAM": 1029001001
     },
     "55": {
-      "$type": "DungeonExit",
-      "markIconTypeName": "MarkNodKraiOffering_7",
-      "isForbidAvatarRevive": 1,
+      "$type": "VirtualTransPoint",
+      "alias": "",
+      "areaId": 910,
+      "gadgetId": 70010001,
+      "groupLimit": true,
+      "isForbidAvatarAutoUseSpring": true,
+      "isForbidAvatarRevive": true,
       "mapVisibility": "OnUnlocked",
+      "markIconTypeName": "MarkNodKraiOffering_7",
+      "portalShape": "",
       "pos": {
         "x": 546.3867,
         "y": 3.859995,
         "z": -135.8397
       },
-      "gadgetId": 70010001,
       "tranPos": {
         "x": 560.48865,
-        "y": 4,
+        "y": 4.0,
         "z": -126.30746
       },
-      "areaId": 910,
       "tranRot": {
         "y": -131.69
       },
-      "specialTipsIconPath": "",
-      "unlocked": true
+      "OAHHFDEDOML": 91001,
+      "IAGMHENPDAM": 1029000801,
+      "HAGBOCBPNHN": true
     },
     "56": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": -505.22,
         "y": 195.2837,
         "z": -1741.74
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "y": 325.698
+      },
       "tranPos": {
         "x": -507.42352,
         "y": 195.295,
         "z": -1734.2859
       },
-      "areaId": 900,
-      "rot": {
-        "y": 325.698
-      },
       "tranRot": {
         "x": 3.7608814,
         "y": 318.70718,
         "z": 356.70285
-      }
+      },
+      "OAHHFDEDOML": 90002
     },
     "57": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138018,
+      "isModelHidden": true,
+      "portalShape": "",
       "pos": {
         "x": -2202.762,
         "y": 157.9437,
         "z": -1130.512
       },
-      "gadgetId": 73138018,
+      "rot": {
+        "y": 134.5573
+      },
+      "subtype": "MOONTOWER",
       "tranPos": {
         "x": -2196.6296,
         "y": 158.14626,
         "z": -1126.7357
       },
-      "areaId": 900,
-      "rot": {
-        "y": 134.5573
-      },
       "tranRot": {
         "y": 50.04341
-      }
+      },
+      "KAJMGBMIGPN": [
+        1581
+      ]
     },
     "58": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 910,
       "exploreRatio": 10,
+      "gadgetId": 73138018,
+      "isModelHidden": true,
       "mapVisibility": "OnUnlocked",
+      "portalShape": "",
       "pos": {
         "x": 2283.616,
         "y": 172.3553,
         "z": 45.93871
       },
-      "gadgetId": 73138018,
+      "rot": {
+        "y": 72.92281
+      },
+      "subtype": "MOONTOWER",
       "tranPos": {
         "x": 2284.5647,
         "y": 170.52818,
         "z": 39.064865
       },
-      "areaId": 910,
-      "rot": {
-        "y": 72.92281
-      },
       "tranRot": {
         "y": 172.24043
-      }
+      },
+      "KAJMGBMIGPN": [
+        1581
+      ]
     },
     "59": {
-      "$type": "HMJDOCFJACC",
+      "$type": "SceneBuildingPoint",
+      "alias": "",
+      "areaId": 900,
       "buildingType": "MoonPoint02",
-      "specificTransPointId": 15,
+      "gadgetId": 70010001,
+      "needSpecificTransPoint": true,
       "pos": {
         "x": -2614.332,
         "y": 745.8516,
         "z": 809.7918
       },
-      "gadgetId": 70010001,
+      "specificTransPointId": 15,
       "tranPos": {
         "x": -2614.332,
         "y": 745.8516,
         "z": 809.7918
       },
-      "areaId": 900
+      "unlocked": true,
+      "OAHHFDEDOML": 90006
     },
     "6": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": -1678.318,
         "y": 182.94,
         "z": -2761.796
       },
-      "gadgetId": 73138019,
-      "tranPos": {
-        "x": -1676.798,
-        "y": 194,
-        "z": -2783.61
-      },
-      "areaId": 900,
       "rot": {
         "y": 43.87598
       },
+      "tranPos": {
+        "x": -1676.798,
+        "y": 194.0,
+        "z": -2783.61
+      },
       "tranRot": {
         "y": 46.495018
-      }
+      },
+      "OAHHFDEDOML": 90001
     },
     "60": {
-      "$type": "DungeonExit",
-      "markIconTypeName": "MarkMoonPoint03",
-      "isForbidAvatarRevive": 1,
+      "$type": "VirtualTransPoint",
+      "alias": "",
+      "areaId": 900,
+      "gadgetId": 70010001,
       "mapVisibility": "OnUnlocked",
+      "markIconTypeName": "MarkMoonPoint03",
+      "portalShape": "",
       "pos": {
         "x": -1533.993,
         "y": 10002.54,
         "z": -2554.898
       },
-      "gadgetId": 70010001,
+      "rot": {
+        "y": 21.10711
+      },
       "tranPos": {
         "x": -1539.8191,
         "y": 10001.895,
         "z": -2569.1438
       },
-      "areaId": 900,
-      "rot": {
-        "y": 21.10711
-      },
       "tranRot": {
         "y": 23.73625
       },
-      "specialTipsIconPath": "",
-      "unlocked": true
+      "OAHHFDEDOML": 90010,
+      "HAGBOCBPNHN": true
     },
     "61": {
-      "$type": "DungeonExit",
-      "isForbidAvatarRevive": 1,
+      "$type": "VirtualTransPoint",
+      "alias": "",
+      "areaId": 900,
+      "isModelHidden": true,
       "mapVisibility": "OnUnlocked",
+      "markIconTypeName": "",
+      "portalShape": "",
       "pos": {
         "x": -472.0963,
         "y": 10317.54,
         "z": -1551.688
       },
-      "gadgetId": 0,
       "tranPos": {
         "x": -483.673,
         "y": 10320.97,
         "z": -1562.761
       },
-      "areaId": 900,
       "tranRot": {
         "y": 267.7838
       },
-      "specialTipsIconPath": "",
-      "unlocked": true
+      "OAHHFDEDOML": 90003,
+      "IAGMHENPDAM": 1029001001,
+      "HAGBOCBPNHN": true
     },
     "62": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 910,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": 1063.09,
         "y": 109.97,
         "z": -371.9971
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "y": 11.37064
+      },
       "tranPos": {
         "x": 1069.8236,
         "y": 110.75565,
         "z": -374.26016
-      },
-      "areaId": 910,
-      "rot": {
-        "y": 11.37064
       },
       "tranRot": {
         "y": 72.062096
       }
     },
     "64": {
-      "$type": "DungeonExit",
-      "isForbidAvatarRevive": 1,
+      "$type": "VirtualTransPoint",
+      "alias": "",
+      "areaId": 900,
+      "isForbidAvatarAutoUseSpring": true,
+      "isForbidAvatarRevive": true,
+      "isModelHidden": true,
       "mapVisibility": "Never",
+      "markIconTypeName": "",
+      "portalShape": "",
       "pos": {
         "x": -283.108,
         "y": 113.0258,
         "z": -1461.219
       },
-      "gadgetId": 0,
       "tranPos": {
         "x": -282.2624,
         "y": 113.2606,
         "z": -1459.9121
       },
-      "areaId": 900,
       "tranRot": {
         "y": 32.9
       },
-      "specialTipsIconPath": "",
-      "unlocked": true
+      "OAHHFDEDOML": 90008,
+      "IAGMHENPDAM": 1029000501,
+      "HAGBOCBPNHN": true,
+      "EOPIMMFEIDD": [
+        30010201
+      ]
     },
     "7": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": -1483.85,
         "y": 67.49,
         "z": -2704.52
       },
-      "gadgetId": 73138019,
       "tranPos": {
         "x": -1479.688,
         "y": 67.16596,
         "z": -2693.9316
       },
-      "areaId": 900,
       "tranRot": {
         "y": 107.32137
-      }
+      },
+      "OAHHFDEDOML": 90001,
+      "IAGMHENPDAM": 1029000101
     },
     "8": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 73138019,
+      "portalShape": "",
       "pos": {
         "x": -1587.151,
         "y": 191.2832,
         "z": -2387.106
       },
-      "gadgetId": 73138019,
+      "rot": {
+        "y": 152.1987
+      },
       "tranPos": {
         "x": -1587.5383,
         "y": 191.40216,
         "z": -2389.5994
       },
-      "areaId": 900,
-      "rot": {
-        "y": 152.1987
-      },
       "tranRot": {
         "y": 154.13843
-      }
+      },
+      "OAHHFDEDOML": 90001
     },
     "9": {
-      "$type": "TransPointNormal",
+      "$type": "SceneTransPoint",
+      "alias": "",
+      "areaId": 900,
       "exploreRatio": 10,
+      "gadgetId": 70010001,
+      "portalShape": "",
       "pos": {
         "x": -1450.524,
         "y": 367.3307,
         "z": -2546.293
       },
-      "gadgetId": 70010001,
+      "subtype": "MOONTOWER",
       "tranPos": {
         "x": -1446.2823,
         "y": 363.41806,
         "z": -2541.554
       },
-      "areaId": 900,
       "tranRot": {
         "y": 43.513
-      }
+      },
+      "OAHHFDEDOML": 90001,
+      "KAJMGBMIGPN": [
+        1581
+      ]
     }
-  }
+  },
+  "IFNMLHIOCPN": {}
 }

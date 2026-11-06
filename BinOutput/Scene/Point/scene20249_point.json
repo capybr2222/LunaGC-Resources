@@ -1,10 +1,9 @@
 {
-   
   "points": {
     "1": {
-      "$type": "GNIDNEBEJFH",
+      "$type": "DungeonQuitPoint",
+      "alias": "",
       "gadgetId": 70120004,
-      "specialTipsIconPath": "",
       "isModelHidden": true,
       "size": {
         "x": 1.0,
@@ -13,5 +12,5 @@
       }
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

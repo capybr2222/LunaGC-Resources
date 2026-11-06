@@ -1,45 +1,45 @@
 {
   "points": {
     "1": {
-      "$type": "HMJDOCFJACC",
-      "damageRatio": "TOWER",
-      "gadgetId": 70380341,
+      "$type": "SceneBuildingPoint",
+      "alias": "",
       "areaId": 20180,
+      "buildingType": "FakeTower",
+      "gadgetId": 70380341,
       "pos": {
-        "x": -826.339111328125,
-        "y": 201.75619506835938,
-        "z": 2294.5009765625
+        "x": -826.3391,
+        "y": 201.7562,
+        "z": 2294.501
       },
       "rot": {
-        "y": 199.59950256347656
+        "y": 199.5995
       },
+      "showOnLockedArea": true,
       "tranPos": {
-        "x": -826.339111328125,
-        "y": 201.75619506835938,
-        "z": 2294.5009765625
+        "x": -826.3391,
+        "y": 201.7562,
+        "z": 2294.501
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "buildingType": "FakeTower",
-      "showOnLockedArea": true
+      "type": "TOWER",
+      "unlocked": true
     },
     "6": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "effectiveType": "Mirror",
       "gadgetId": 70010006,
+      "isActive": true,
       "pos": {
-        "x": -824.7755126953125,
-        "y": 202.20550537109375,
-        "z": 2296.31494140625
+        "x": -824.7755,
+        "y": 202.2055,
+        "z": 2296.315
       },
       "tranPos": {
-        "x": -824.7754516601562,
-        "y": 202.20553588867188,
-        "z": 2296.31494140625
-      },
-      "specialTipsIconPath": "",
-      "isActive": true,
-      "effectiveType": "Mirror"
+        "x": -824.77545,
+        "y": 202.20554,
+        "z": 2296.315
+      }
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

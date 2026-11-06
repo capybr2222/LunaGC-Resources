@@ -1,82 +1,174 @@
 {
-  "transRadius": 253,
   "points": {
     "1": {
       "$type": "PersonalSceneJumpPoint",
-      "tranPos": {
-        "x": 9787.2158203125,
-        "y": 453.2229919433594,
-        "z": 6495.02392578125
-      },
-      "triggerSize": {
-        "x": 5,
-        "y": 5,
-        "z": 5
-      },
-      "pos": {
-        "x": 0.1670013964176178,
-        "y": -0.006704092025756836,
-        "z": 146.7760009765625
-      },
+      "alias": "",
       "gadgetId": 70010002,
+      "pos": {
+        "x": 0.1670014,
+        "y": -0.006704092,
+        "z": 146.776
+      },
+      "titleTextID": "UI_SCENE_ENTRY_EXIT_Zdg",
+      "tranPos": {
+        "x": 9789.278,
+        "y": 453.223,
+        "z": 6492.896
+      },
       "tranRot": {
-        "y": -51.19200134277344
+        "y": -49.127
       },
       "tranSceneId": 3,
-      "unlocked": true,
-      "titleTextID": "UI_SCENE_ENTRY_EXIT_Zdg"
+      "triggerSize": {
+        "x": 5.0,
+        "y": 5.0,
+        "z": 5.0
+      },
+      "unlocked": true
+    },
+    "14": {
+      "$type": "DungeonEntry",
+      "alias": "",
+      "dungeonEntryType": "DirectEnter",
+      "dungeonIds": [
+        1376
+      ],
+      "dungeonQuestConditionList": {},
+      "forbidSimpleUnlock": true,
+      "gadgetId": 70360001,
+      "inteeIcon": "UI_NPCTopIcon_QuestTarget_Enter",
+      "mapVisibility": "Never",
+      "portalShape": "",
+      "pos": {
+        "x": 0.1469739,
+        "y": -0.4264045,
+        "z": 147.2101
+      },
+      "removeEntityIfLocked": true,
+      "rot": {
+        "y": 178.215
+      },
+      "size": {
+        "x": 5.0,
+        "y": 5.0,
+        "z": 5.0
+      },
+      "titleTextID": "UI_SCENE_ENTRY_EXIT_Zdg",
+      "tranPos": {
+        "x": 0.1470792,
+        "y": -1.4942074,
+        "z": 144.80972
+      },
+      "HAGBOCBPNHN": true
+    },
+    "15": {
+      "$type": "DungeonEntry",
+      "alias": "",
+      "dungeonEntryType": "DirectEnter",
+      "dungeonIds": [
+        1376
+      ],
+      "dungeonQuestConditionList": {},
+      "forbidSimpleUnlock": true,
+      "gadgetId": 71700754,
+      "inteeIcon": "UI_Icon_Intee_Talk",
+      "portalShape": "",
+      "pos": {
+        "x": -0.006951577,
+        "y": -0.07739822,
+        "z": 0.1579586
+      },
+      "removeEntityIfLocked": true,
+      "titleTextID": "UI_QUEST_Intee_BackToStoryMode",
+      "tranPos": {
+        "x": 8859.239,
+        "y": 198.4999,
+        "z": 7920.824
+      },
+      "HAGBOCBPNHN": true,
+      "EAJPPKHOIAG": [
+        7030
+      ]
     },
     "2": {
       "$type": "VirtualTransPoint",
-      "tranPos": {
-        "x": 0.17739582061767578,
-        "y": 0.3248646557331085,
-        "z": 0.6071699857711792
-      },
+      "alias": "",
+      "disableInteraction": true,
+      "isForbidAvatarRevive": true,
       "markIconTypeName": "MarkReputationSnezQueenQuestNPC",
+      "portalShape": "",
       "pos": {
-        "x": -6.981730937957764,
-        "y": -0.12867729365825653,
-        "z": -12.044650077819824
+        "x": -6.981731,
+        "y": -0.1286773,
+        "z": -12.04465
+      },
+      "showOnLockedArea": true,
+      "tranPos": {
+        "x": 0.17739582,
+        "y": 0.32486466,
+        "z": 0.60717
       },
       "tranRot": {
-        "y": 180
+        "y": 180.0
       },
-      "exploreRatio": 1,
-      "disableInteraction": true,
-      "isForbidAvatarAutoUseSpring": true,
-      "showOnLockedArea": true,
-      "fireFieldEvent": true
+      "HAGBOCBPNHN": true
     },
     "3": {
       "$type": "DungeonEntry",
-      "tranPos": {
-        "x": 8859.2392578125,
-        "y": 198.49989318847656,
-        "z": 7920.82421875
-      },
-      "CNMLFDIIGGN": true,
-      "size": {
-        "x": 5,
-        "y": 5,
-        "z": 5
-      },
-      "pos": {
-        "x": -0.00695157703012228,
-        "y": -0.07739821821451187,
-        "z": 0.15795859694480896
-      },
-      "gadgetId": 71700754,
-      "forbidSimpleUnlock": true,
+      "alias": "",
+      "dungeonEntryType": "DirectEnter",
       "dungeonIds": [
         1350
       ],
-      "showLevel": 1,
-      "exploreRatio": 1,
-      "dungeonEntryType": "DirectEnter",
+      "dungeonQuestConditionList": {},
+      "forbidSimpleUnlock": true,
+      "gadgetId": 71700754,
       "inteeIcon": "UI_Icon_Intee_Talk",
+      "portalShape": "",
+      "pos": {
+        "x": -0.006951577,
+        "y": -0.07739822,
+        "z": 0.1579586
+      },
+      "removeEntityIfLocked": true,
+      "size": {
+        "x": 5.0,
+        "y": 5.0,
+        "z": 5.0
+      },
       "titleTextID": "UI_QUEST_Intee_BackToStoryMode",
-      "fireFieldEvent": true
+      "tranPos": {
+        "x": 8859.239,
+        "y": 198.4999,
+        "z": 7920.824
+      },
+      "HAGBOCBPNHN": true
+    },
+    "7": {
+      "$type": "VirtualTransPoint",
+      "alias": "",
+      "disableInteraction": true,
+      "isForbidAvatarRevive": true,
+      "isModelHidden": true,
+      "mapVisibility": "Never",
+      "markIconTypeName": "Default",
+      "portalShape": "",
+      "pos": {
+        "x": -6.981731,
+        "y": -0.1286773,
+        "z": -12.04465
+      },
+      "showOnLockedArea": true,
+      "tranPos": {
+        "x": 0.17739582,
+        "y": 0.32486466,
+        "z": 0.60717
+      },
+      "tranRot": {
+        "y": 180.0
+      },
+      "HAGBOCBPNHN": true
     }
-  }
+  },
+  "IFNMLHIOCPN": {}
 }

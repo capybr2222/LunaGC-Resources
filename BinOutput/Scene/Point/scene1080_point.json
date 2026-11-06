@@ -1,17 +1,19 @@
 {
-   
   "points": {
     "1": {
       "$type": "PersonalSceneJumpPoint",
+      "alias": "",
+      "closeTime": 24.0,
       "gadgetId": 70010002,
       "pos": {
-        "x": 198.9156036376953,
-        "y": -22.60045051574707,
-        "z": 176.97329711914062
+        "x": 198.9156,
+        "y": -22.60045,
+        "z": 176.9733
       },
       "rot": {
-        "y": 43.106929779052734
+        "y": 43.10693
       },
+      "titleTextID": "UI_SCENE_ENTRY_EXIT_Shuixian",
       "tranPos": {
         "x": 3206.0,
         "y": 254.0,
@@ -20,107 +22,104 @@
       "tranRot": {
         "y": 90.0
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
       "tranSceneId": 3,
-      "titleTextID": "UI_SCENE_ENTRY_EXIT_Shuixian",
       "triggerSize": {
         "x": 3.0,
         "y": 3.0,
         "z": 3.0
       },
-      "closeTime": 24.0
+      "unlocked": true
     },
     "2": {
       "$type": "DungeonEntry",
-      "gadgetId": 70360001,
-      "pos": {
-        "x": 200.11289978027344,
-        "y": -21.4914493560791,
-        "z": 200.04010009765625
-      },
-      "rot": {
-        "y": 43.106929779052734
-      },
-      "tranPos": {
-        "x": 200.11294555664062,
-        "y": -21.491453170776367,
-        "z": 200.04013061523438
-      },
-      "specialTipsIconPath": "",
-      "mapVisibility": "Never",
+      "alias": "",
       "disableInteraction": true,
-      "portalShape": "",
       "dungeonIds": [
         1192
       ],
       "dungeonQuestConditionList": {},
-      "titleTextID": "UI_STC_Intee_DungeonEntry",
+      "forbidSimpleUnlock": true,
+      "gadgetId": 70360001,
       "inteeIcon": "UI_Icon_Intee_Talk",
-      "forbidSimpleUnlock": true
+      "mapVisibility": "Never",
+      "portalShape": "",
+      "pos": {
+        "x": 200.1129,
+        "y": -21.49145,
+        "z": 200.0401
+      },
+      "rot": {
+        "y": 43.10693
+      },
+      "titleTextID": "UI_STC_Intee_DungeonEntry",
+      "tranPos": {
+        "x": 200.11295,
+        "y": -21.491453,
+        "z": 200.04013
+      }
     },
     "3": {
       "$type": "PersonalSceneJumpPoint",
+      "alias": "",
+      "closeTime": 24.0,
       "gadgetId": 70010002,
+      "isModelHidden": true,
       "pos": {
-        "x": 202.22329711914062,
-        "y": -21.852109909057617,
-        "z": 200.5968017578125
+        "x": 202.2233,
+        "y": -21.85211,
+        "z": 200.5968
       },
       "rot": {
         "y": 226.5625
       },
+      "titleTextID": "UI_SCENE_ENTRY_EXIT_Shuixian_Tower_1",
       "tranPos": {
-        "x": 2627.1259765625,
-        "y": 636.407470703125,
-        "z": 3656.2060546875
+        "x": 2627.126,
+        "y": 636.4075,
+        "z": 3656.206
       },
       "tranRot": {
-        "y": 113.62699890136719
+        "y": 113.627
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "isModelHidden": true,
       "tranSceneId": 3,
-      "titleTextID": "UI_SCENE_ENTRY_EXIT_Shuixian_Tower_1",
       "triggerSize": {
         "x": 10.0,
         "y": 7.0,
         "z": 7.0
       },
-      "closeTime": 24.0
+      "unlocked": true
     },
     "4": {
       "$type": "PersonalSceneJumpPoint",
+      "alias": "",
+      "closeTime": 24.0,
       "gadgetId": 70010002,
+      "isModelHidden": true,
       "pos": {
-        "x": 202.22329711914062,
-        "y": -21.852109909057617,
-        "z": 200.5968017578125
+        "x": 202.2233,
+        "y": -21.85211,
+        "z": 200.5968
       },
       "rot": {
         "y": 226.5625
       },
+      "titleTextID": "UI_SCENE_ENTRY_EXIT_Shuixian_Tower_2",
       "tranPos": {
-        "x": 2652.00390625,
-        "y": 405.4075012207031,
-        "z": 3641.60107421875
+        "x": 2652.004,
+        "y": 405.4075,
+        "z": 3641.601
       },
       "tranRot": {
-        "y": 113.62699890136719
+        "y": 113.627
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "isModelHidden": true,
       "tranSceneId": 3,
-      "titleTextID": "UI_SCENE_ENTRY_EXIT_Shuixian_Tower_2",
       "triggerSize": {
         "x": 10.0,
         "y": 7.0,
         "z": 7.0
       },
-      "closeTime": 24.0
+      "unlocked": true
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

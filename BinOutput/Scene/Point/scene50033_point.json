@@ -1,22 +1,21 @@
 {
-   
   "points": {
     "1": {
-      "$type": "GNIDNEBEJFH",
+      "$type": "DungeonQuitPoint",
+      "alias": "",
       "gadgetId": 70360001,
       "pos": {
-        "x": 106.5636978149414,
-        "y": -9.62600326538086,
-        "z": 20.581480026245117
+        "x": 106.5637,
+        "y": -9.626003,
+        "z": 20.58148
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
       "size": {
         "x": 1.0,
         "y": 1.0,
         "z": 1.0
-      }
+      },
+      "unlocked": true
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

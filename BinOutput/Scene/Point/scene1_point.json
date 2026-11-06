@@ -1,75 +1,185 @@
 {
+  "entities": {
+    "1": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 1589.537,
+        "y": 291.7139,
+        "z": -1509.315
+      },
+      "shape": {
+        "$type": "ConfigShapeCircle",
+        "height": 50.0,
+        "radius": 50.0,
+        "useHeight": true
+      },
+      "stringParam": "",
+      "tag": 10001,
+      "tranPos": {
+        "x": 1590.9878,
+        "y": 276.4285,
+        "z": -1516.886
+      },
+      "triggerFlag": "LevelCamera",
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "EODHGNLOIKK": {},
+        "KLKOBMCOFIG": {},
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "followOffset": {
+            "x": 3.31,
+            "y": 1.69,
+            "z": 0.04
+          },
+          "targetPosition": {
+            "y": -6.49
+          },
+          "ONJKGCDIEBF": true
+        }
+      }
+    },
+    "2": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 2738.039,
+        "y": 251.2681,
+        "z": -483.9981
+      },
+      "shape": {
+        "$type": "ConfigShapeCircle",
+        "height": 50.0,
+        "radius": 30.0,
+        "useHeight": true
+      },
+      "stringParam": "",
+      "tag": 10002,
+      "tranPos": {
+        "x": 2743.446,
+        "y": 250.71625,
+        "z": -534.3015
+      },
+      "triggerFlag": "LevelCamera",
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "EODHGNLOIKK": {
+          "BLKFBLLDEEP": 1
+        },
+        "KLKOBMCOFIG": {
+          "BLKFBLLDEEP": 1
+        },
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "followOffset": {
+            "x": 12.3,
+            "y": 34.8,
+            "z": 2.1
+          },
+          "targetPosition": {
+            "x": 6.46,
+            "y": 1.37,
+            "z": -6.37
+          }
+        }
+      }
+    },
+    "3": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": -2342.92,
+        "y": 158.1184,
+        "z": 5173.149
+      },
+      "shape": {
+        "$type": "ConfigShapeCircle"
+      },
+      "stringParam": "",
+      "tag": 10003,
+      "tranPos": {
+        "x": -2342.9204,
+        "y": 158.1184,
+        "z": 5173.1494
+      },
+      "triggerFlag": "LevelCamera",
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "EODHGNLOIKK": {
+          "BLKFBLLDEEP": 1
+        },
+        "KLKOBMCOFIG": {
+          "BLKFBLLDEEP": 1
+        },
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "OPFBJBLFPLE": true
+        }
+      }
+    }
+  },
   "points": {
     "2": {
       "$type": "DungeonEntry",
-      "gadgetId": 70950059,
+      "alias": "",
       "areaId": 6,
-      "pos": {
-        "x": 2253.01708984375,
-        "y": 253.64720153808594,
-        "z": -1463.6409912109375
-      },
-      "tranPos": {
-        "x": 2253.016845703125,
-        "y": 253.647216796875,
-        "z": -1463.6412353515625
-      },
-      "specialTipsIconPath": "",
       "cutsceneList": [
         531002
       ],
-      "mapVisibility": "OnUnlocked",
-      "portalShape": "",
       "dungeonIds": [
         7201
       ],
       "dungeonQuestConditionList": {},
+      "fireFieldEvent": true,
+      "forbidSimpleUnlock": true,
+      "gadgetId": 70950059,
+      "inteeIcon": "UI_Icon_Intee_Talk",
+      "mapVisibility": "OnUnlocked",
+      "portalShape": "",
+      "pos": {
+        "x": 2253.017,
+        "y": 253.6472,
+        "z": -1463.641
+      },
       "size": {
         "x": 5.0,
         "y": 5.0,
         "z": 5.0
       },
       "titleTextID": "UI_STC_Intee_DungeonEntry",
-      "inteeIcon": "UI_Icon_Intee_Talk",
-      "forbidSimpleUnlock": true,
-      "fireFieldEvent": true
+      "tranPos": {
+        "x": 2253.0168,
+        "y": 253.64722,
+        "z": -1463.6412
+      }
     },
     "3": {
       "$type": "SceneVehicleSummonPoint",
-      "gadgetId": 70370273,
-      "pos": {
-        "x": 1685.1590576171875,
-        "y": 194.60000610351562,
-        "z": -1696.616943359375
-      },
-      "tranPos": {
-        "x": 1685.1590576171875,
-        "y": 194.60000610351562,
-        "z": -1696.616943359375
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "vehicleGadgetId": 45001001,
+      "alias": "",
       "bornPointList": [
         {
-          "x": 1685.1590576171875,
-          "y": 194.60000610351562,
-          "z": -1696.616943359375
+          "x": 1685.159,
+          "y": 194.6,
+          "z": -1696.617
         },
         {
-          "x": 1685.1590576171875,
-          "y": 194.60000610351562,
-          "z": -1696.616943359375
+          "x": 1685.159,
+          "y": 194.6,
+          "z": -1696.617
         },
         {
-          "x": 1685.1590576171875,
-          "y": 194.60000610351562,
-          "z": -1696.616943359375
+          "x": 1685.159,
+          "y": 194.6,
+          "z": -1696.617
         },
         {
-          "x": 1685.1590576171875,
-          "y": 194.60000610351562,
-          "z": -1696.616943359375
+          "x": 1685.159,
+          "y": 194.6,
+          "z": -1696.617
         }
       ],
       "bornRotateList": [
@@ -78,99 +188,70 @@
         {},
         {}
       ],
-      "titleTextID": "UI_STC_INTEE_VEHICLESUMMON"
-    },
-    "6": {
-      "$type": "DPANDPMCJOO",
-      "gadgetId": 70360001,
+      "gadgetId": 70370273,
       "pos": {
-        "x": 2844.117919921875,
-        "y": 203.793701171875,
-        "z": -1096.4100341796875
+        "x": 1685.159,
+        "y": 194.6,
+        "z": -1696.617
       },
+      "titleTextID": "UI_STC_INTEE_VEHICLESUMMON",
       "tranPos": {
-        "x": 2843.220947265625,
-        "y": 203.1782989501953,
-        "z": -1087.6820068359375
+        "x": 1685.159,
+        "y": 194.6,
+        "z": -1696.617
       },
       "unlocked": true,
-      "specialTipsIconPath": "",
+      "vehicleGadgetId": 45001001
+    },
+    "6": {
+      "$type": "HOIHJEHIGML",
+      "alias": "",
+      "gadgetId": 70360001,
+      "inteeIcon": "UI_Icon_Intee_Talk",
       "portalShape": "",
+      "pos": {
+        "x": 2844.118,
+        "y": 203.7937,
+        "z": -1096.41
+      },
       "size": {
         "x": 5.0,
         "y": 5.0,
         "z": 5.0
       },
       "titleTextID": "",
-      "inteeIcon": "UI_Icon_Intee_Talk"
+      "tranPos": {
+        "x": 2843.221,
+        "y": 203.1783,
+        "z": -1087.682
+      },
+      "unlocked": true
     },
     "7": {
-      "$type": "DPANDPMCJOO",
-      "damageRatio": "PORTAL",
+      "$type": "HOIHJEHIGML",
+      "alias": "",
       "gadgetId": 70360001,
-      "pos": {
-        "x": 2853.072998046875,
-        "y": 203.793701171875,
-        "z": -1103.406982421875
-      },
-      "tranPos": {
-        "x": 2843.220947265625,
-        "y": 203.1782989501953,
-        "z": -1087.6820068359375
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
+      "inteeIcon": "UI_Icon_Intee_Talk",
       "portalShape": "",
+      "pos": {
+        "x": 2853.073,
+        "y": 203.7937,
+        "z": -1103.407
+      },
       "size": {
         "x": 6.0,
         "y": 6.0,
         "z": 6.0
       },
       "titleTextID": "",
-      "inteeIcon": "UI_Icon_Intee_Talk"
-    }
-  },
-  "entities": {
-    "1": {
-      "$type": "ConfigLocalTrigger",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 1589.5369873046875,
-        "y": 291.7138977050781,
-        "z": -1509.31494140625
-      },
       "tranPos": {
-        "x": 1590.98779296875,
-        "y": 276.4284973144531,
-        "z": -1516.885986328125
+        "x": 2843.221,
+        "y": 203.1783,
+        "z": -1087.682
       },
-      "specialTipsIconPath": "",
-      "tag": 10001,
-      "triggerFlag": "LevelCamera",
-      "shape": {
-        "$type": "ConfigShapeCircle",
-        "useHeight": true,
-        "height": 50.0,
-        "radius": 50.0
-      },
-      "stringParam": "",
-      "CFIFOHIMFPL": {
-        "data": {
-          "$type": "CJINKPOGGCB",
-          "targetPosition": {
-            "y": -6.489999771118164
-          },
-          "followOffset": {
-            "x": 3.309999942779541,
-            "y": 1.690000057220459,
-            "z": 0.03999999910593033
-          },
-          "PICEMKNBNHK": true
-        },
-        "BINIOMCJFMI": {},
-        "PCOPCBEIHPM": {}
-      }
+      "type": "PORTAL",
+      "unlocked": true
     }
   },
-  "JGMPFNPDKFF": {}
+  "IFNMLHIOCPN": {}
 }

@@ -1,454 +1,369 @@
 {
   "points": {
     "1": {
-      "$type": "HGEKJIDOFJN",
-      "HHKLHDILHPA": "UI_SCENE_ENTRY_EXIT_Wsw",
-      "DJJMKAFDLAH": false,
-      "OEAPNCPNBLI": 0,
-      "KKGHDAAPPIF": 3,
-      "FIGCAHLEGII": 0,
-      "DCFNMCBEFBH": {
-        "x": 4,
-        "y": 4,
-        "z": 4
-      },
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 153.258,
-        "z": 0
-      },
+      "$type": "PersonalSceneJumpPoint",
+      "alias": "",
+      "gadgetId": 70010002,
       "pos": {
-        "x": 1631.187,
-        "y": 238.8059,
-        "z": 9529.9
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
         "x": 1.252621,
         "y": 0.3117754,
         "z": -69.33696
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010002,
-      "rot": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
+      "titleTextID": "UI_SCENE_ENTRY_EXIT_Wsw",
+      "tranPos": {
+        "x": 1631.187,
+        "y": 238.8059,
+        "z": 9529.9
+      },
+      "tranRot": {
+        "y": 153.258
+      },
+      "tranSceneId": 3,
+      "triggerSize": {
+        "x": 4.0,
+        "y": 4.0,
+        "z": 4.0
+      },
+      "unlocked": true
     },
     "10": {
-      "$type": "BIDKGIAOIJE",
-      "DKKNIBFMMBA": [],
-      "FOCEDOLNOLG": [],
-      "HHKLHDILHPA": "UI_QUEST_NEFER_DungeonEntry",
-      "PNDHKDEKAMO": "UI_Icon_Intee_Talk",
-      "PMLKAGFDCEH": [
+      "$type": "DungeonEntry",
+      "alias": "",
+      "dungeonEntryType": "DirectEnter",
+      "dungeonIds": [
         1281
       ],
-      "DFIBMCDHNPG": {
-        "DIEABDEAJDL": [],
-        "NDDAKAMKKDO": 0
-      },
-      "JANMABHPMDC": [],
-      "JAOENGDJKDM": 0,
-      "MNCDKFFPMFJ": "Normal",
-      "IHIOCMFBLDO": false,
-      "ALMFJFEECNN": true,
-      "EMMOAAHLNGE": true,
-      "FOEOMOGLJBK": 0,
-      "HKPINJIKLFI": "DirectEnter",
-      "MKHHFMFNPHG": {
-        "x": 6,
-        "y": 6,
-        "z": 6
-      },
-      "MGLHJOFMLGE": 1,
-      "FOPHEKONPDL": [],
-      "ELAKJDAMAEE": [],
-      "APCOJDMLHDK": "",
-      "JOBLDEIGNMB": false,
-      "IBCKFIMNBII": false,
-      "HIIJCKFLHOM": false,
-      "ECAEPBGHOLB": false,
-      "OODJBPMDFDD": 0,
-      "MJNAILKLGHG": 0,
-      "KLPEPPCJMFF": "Never",
-      "KEBLKNBFKKA": 1,
-      "FLLJPPMDODA": 0,
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 90,
-        "z": 0
-      },
+      "dungeonQuestConditionList": {},
+      "forbidSimpleUnlock": true,
+      "gadgetId": 70010001,
+      "inteeIcon": "UI_Icon_Intee_Talk",
+      "mapVisibility": "Never",
+      "portalShape": "",
       "pos": {
-        "x": 15.403651,
-        "y": 0.52710307,
-        "z": -51.932304
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": true,
-      "NIGJGLDEKAD": false,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
         "x": 16.96301,
         "y": 1.084421,
         "z": -51.9323
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010001,
-      "rot": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
+      "removeEntityIfLocked": true,
+      "size": {
+        "x": 6.0,
+        "y": 6.0,
+        "z": 6.0
+      },
+      "titleTextID": "UI_QUEST_NEFER_DungeonEntry",
+      "tranPos": {
+        "x": 15.403651,
+        "y": 0.52710307,
+        "z": -51.932304
+      },
+      "tranRot": {
+        "y": 90.0
+      },
+      "HAGBOCBPNHN": true
     },
     "11": {
-      "$type": "EJKBNAAJDEP",
-      "DOGKCBHGFAG": 10,
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
+      "$type": "DungeonExit",
+      "alias": "",
+      "entryPointId": 10,
+      "gadgetId": 70010001,
       "pos": {
+        "x": 15.4154,
+        "y": 0.5928366,
+        "z": -51.93609
+      },
+      "rot": {
+        "y": 90.0
+      },
+      "tranPos": {
         "x": 15.415401,
         "y": 0.5928366,
         "z": -51.93609
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
+      "unlocked": true
+    },
+    "12": {
+      "$type": "DungeonEntry",
+      "alias": "",
+      "dungeonEntryType": "DirectEnter",
+      "dungeonIds": [
+        1263
+      ],
+      "dungeonQuestConditionList": {},
+      "forbidSimpleUnlock": true,
+      "gadgetId": 70010001,
+      "inteeIcon": "UI_Icon_Intee_Talk",
+      "mapVisibility": "Never",
+      "portalShape": "",
+      "pos": {
+        "x": 16.96301,
+        "y": 1.084421,
+        "z": -51.9323
+      },
+      "removeEntityIfLocked": true,
+      "size": {
+        "x": 6.0,
+        "y": 6.0,
+        "z": 6.0
+      },
+      "titleTextID": "UI_QUEST_NEFER_DungeonEntry",
       "tranPos": {
+        "x": 15.403651,
+        "y": 0.52710307,
+        "z": -51.932304
+      },
+      "tranRot": {
+        "y": 90.0
+      },
+      "HAGBOCBPNHN": true
+    },
+    "13": {
+      "$type": "DungeonExit",
+      "alias": "",
+      "entryPointId": 12,
+      "gadgetId": 70010001,
+      "pos": {
         "x": 15.4154,
         "y": 0.5928366,
         "z": -51.93609
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010001,
       "rot": {
-        "x": 0,
-        "y": 90,
-        "z": 0
-      }
+        "y": 90.0
+      },
+      "tranPos": {
+        "x": 15.415401,
+        "y": 0.5928366,
+        "z": -51.93609
+      },
+      "unlocked": true
     },
     "2": {
-      "$type": "BIDKGIAOIJE",
-      "DKKNIBFMMBA": [],
-      "FOCEDOLNOLG": [],
-      "HHKLHDILHPA": "UI_QUEST_RERIR_DungeonEntry",
-      "PNDHKDEKAMO": "UI_Icon_Intee_Talk",
-      "PMLKAGFDCEH": [
+      "$type": "DungeonEntry",
+      "alias": "",
+      "dungeonEntryType": "DirectEnter",
+      "dungeonIds": [
         1261
       ],
-      "DFIBMCDHNPG": {
-        "DIEABDEAJDL": [],
-        "NDDAKAMKKDO": 0
-      },
-      "JANMABHPMDC": [],
-      "JAOENGDJKDM": 0,
-      "MNCDKFFPMFJ": "Normal",
-      "IHIOCMFBLDO": false,
-      "ALMFJFEECNN": true,
-      "EMMOAAHLNGE": true,
-      "FOEOMOGLJBK": 0,
-      "HKPINJIKLFI": "DirectEnter",
-      "MKHHFMFNPHG": {
-        "x": 6,
-        "y": 6,
-        "z": 6
-      },
-      "MGLHJOFMLGE": 1,
-      "FOPHEKONPDL": [],
-      "ELAKJDAMAEE": [],
-      "APCOJDMLHDK": "",
-      "JOBLDEIGNMB": false,
-      "IBCKFIMNBII": false,
-      "HIIJCKFLHOM": false,
-      "ECAEPBGHOLB": false,
-      "OODJBPMDFDD": 0,
-      "MJNAILKLGHG": 0,
-      "KLPEPPCJMFF": "Never",
-      "KEBLKNBFKKA": 1,
-      "FLLJPPMDODA": 0,
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 113.26285,
-        "z": 0
-      },
+      "dungeonQuestConditionList": {},
+      "forbidSimpleUnlock": true,
+      "gadgetId": 70010001,
+      "inteeIcon": "UI_Icon_Intee_Talk",
+      "mapVisibility": "Never",
+      "portalShape": "",
       "pos": {
-        "x": 15.336419,
-        "y": 0.3214508,
-        "z": -51.88944
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": true,
-      "NIGJGLDEKAD": false,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
         "x": 15.62499,
         "y": 0.3224426,
         "z": -52.07267
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010001,
+      "removeEntityIfLocked": true,
       "rot": {
-        "x": 0,
-        "y": 97.81026,
-        "z": 0
-      }
+        "y": 97.81026
+      },
+      "size": {
+        "x": 6.0,
+        "y": 6.0,
+        "z": 6.0
+      },
+      "titleTextID": "UI_QUEST_RERIR_DungeonEntry",
+      "tranPos": {
+        "x": 15.336419,
+        "y": 0.3214508,
+        "z": -51.88944
+      },
+      "tranRot": {
+        "y": 113.26285
+      },
+      "HAGBOCBPNHN": true
     },
     "3": {
-      "$type": "EJKBNAAJDEP",
-      "DOGKCBHGFAG": 2,
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 90,
-        "z": 0
-      },
-      "pos": {
-        "x": 10.54086,
-        "y": 0.5928366,
-        "z": -49.75062
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
-        "x": 10.54086,
-        "y": 0.5928366,
-        "z": -49.75062
-      },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010001,
-      "rot": {
-        "x": 0,
-        "y": 90,
-        "z": 0
-      }
-    },
-    "12": {
-      "$type": "DungeonEntry",
-      "dungeonIds": [
-        1263
-      ],
-      "titleTextID": "UI_QUEST_NEFER_DungeonEntry",
-      "inteeIcon": "UI_Icon_Intee_Talk",
-      "size": {
-        "x": 6,
-        "y": 6,
-        "z": 6
-      },
-      "forbidSimpleUnlock": true,
-      "dungeonEntryType": "DirectEnter",
-      "removeEntityIfLocked": 1,
-      "mapVisibility": "Never",
-      "tranRot": {
-        "y": 90
-      },
-      "areaId": 0,
-      "gadgetId": 70010001,
-      "tranPos": {
-        "x": 15.403651,
-        "y": 0.52710307,
-        "z": -51.932304
-      },
-      "pos": {
-        "x": 16.96301,
-        "y": 1.084421,
-        "z": -51.9323
-      },
-      "portalShape": "",
-      "specialTipsIconPath": ""
-    },
-    "13": {
       "$type": "DungeonExit",
-      "entryPointId": 12,
-      "areaId": 0,
+      "alias": "",
+      "entryPointId": 2,
       "gadgetId": 70010001,
-      "rot": {
-        "y": 90
-      },
       "pos": {
-        "x": 15.4154,
+        "x": 10.54086,
         "y": 0.5928366,
-        "z": -51.93609
+        "z": -49.75062
       },
-      "specialTipsIconPath": "",
+      "rot": {
+        "y": 90.0
+      },
+      "tranPos": {
+        "x": 10.54086,
+        "y": 0.5928366,
+        "z": -49.75062
+      },
+      "tranRot": {
+        "y": 90.0
+      },
       "unlocked": true
     },
     "4": {
       "$type": "DungeonEntry",
+      "alias": "",
+      "dungeonEntryType": "DirectEnter",
       "dungeonIds": [
         1271
       ],
-      "titleTextID": "UI_QUEST_RERIR_DungeonEntry",
-      "inteeIcon": "UI_Icon_Intee_Talk",
-      "size": {
-        "x": 6,
-        "y": 6,
-        "z": 6
-      },
+      "dungeonQuestConditionList": {},
       "forbidSimpleUnlock": true,
-      "dungeonEntryType": "DirectEnter",
-      "removeEntityIfLocked": 1,
-      "mapVisibility": "Never",
-      "tranRot": {
-        "y": 90
-      },
-      "areaId": 0,
       "gadgetId": 70010001,
-      "tranPos": {
-        "x": 15.403651,
-        "y": 0.52710307,
-        "z": -51.932304
-      },
+      "inteeIcon": "UI_Icon_Intee_Talk",
+      "mapVisibility": "Never",
+      "portalShape": "",
       "pos": {
         "x": 16.96301,
         "y": 1.084421,
         "z": -51.9323
       },
-      "portalShape": "",
-      "specialTipsIconPath": ""
+      "removeEntityIfLocked": true,
+      "size": {
+        "x": 6.0,
+        "y": 6.0,
+        "z": 6.0
+      },
+      "titleTextID": "UI_QUEST_RERIR_DungeonEntry",
+      "tranPos": {
+        "x": 15.403651,
+        "y": 0.52710307,
+        "z": -51.932304
+      },
+      "tranRot": {
+        "y": 90.0
+      },
+      "HAGBOCBPNHN": true
     },
     "5": {
       "$type": "DungeonExit",
+      "alias": "",
       "entryPointId": 4,
-      "areaId": 0,
       "gadgetId": 70010001,
-      "rot": {
-        "y": 90
-      },
       "pos": {
         "x": 15.4154,
         "y": 0.5928366,
         "z": -51.93609
       },
-      "specialTipsIconPath": "",
+      "rot": {
+        "y": 90.0
+      },
+      "tranPos": {
+        "x": 15.415401,
+        "y": 0.5928366,
+        "z": -51.93609
+      },
       "unlocked": true
     },
     "6": {
       "$type": "DungeonEntry",
+      "alias": "",
       "dungeonIds": [
         1275
       ],
-      "titleTextID": "UI_QUEST_RERIR_DungeonEntry",
-      "inteeIcon": "UI_Icon_Intee_Talk",
-      "size": {
-        "x": 6,
-        "y": 6,
-        "z": 6
-      },
+      "dungeonQuestConditionList": {},
       "forbidSimpleUnlock": true,
-      "removeEntityIfLocked": 1,
-      "mapVisibility": "Never",
-      "tranRot": {
-        "y": 90
-      },
-      "areaId": 0,
       "gadgetId": 70010001,
-      "tranPos": {
-        "x": 15.403651,
-        "y": 0.52710307,
-        "z": -51.932304
-      },
+      "inteeIcon": "UI_Icon_Intee_Talk",
+      "mapVisibility": "Never",
+      "portalShape": "",
       "pos": {
         "x": 16.96301,
         "y": 1.084421,
         "z": -51.9323
       },
-      "portalShape": "",
-      "specialTipsIconPath": ""
+      "removeEntityIfLocked": true,
+      "size": {
+        "x": 6.0,
+        "y": 6.0,
+        "z": 6.0
+      },
+      "titleTextID": "UI_QUEST_RERIR_DungeonEntry",
+      "tranPos": {
+        "x": 15.403651,
+        "y": 0.52710307,
+        "z": -51.932304
+      },
+      "tranRot": {
+        "y": 90.0
+      },
+      "HAGBOCBPNHN": true
     },
     "7": {
       "$type": "DungeonExit",
+      "alias": "",
       "entryPointId": 2,
-      "areaId": 0,
       "gadgetId": 70010001,
-      "rot": {
-        "y": 90
-      },
       "pos": {
         "x": 15.4154,
         "y": 0.5928366,
         "z": -51.93609
       },
-      "specialTipsIconPath": "",
+      "rot": {
+        "y": 90.0
+      },
+      "tranPos": {
+        "x": 15.415401,
+        "y": 0.5928366,
+        "z": -51.93609
+      },
       "unlocked": true
     },
     "8": {
       "$type": "DungeonEntry",
+      "alias": "",
+      "dungeonEntryType": "DirectEnter",
       "dungeonIds": [
         1262
       ],
-      "titleTextID": "UI_QUEST_NEFER_DungeonEntry",
-      "inteeIcon": "UI_Icon_Intee_Talk",
-      "size": {
-        "x": 6,
-        "y": 6,
-        "z": 6
-      },
+      "dungeonQuestConditionList": {},
       "forbidSimpleUnlock": true,
-      "dungeonEntryType": "DirectEnter",
-      "removeEntityIfLocked": 1,
-      "mapVisibility": "Never",
-      "tranRot": {
-        "y": 90
-      },
-      "areaId": 0,
       "gadgetId": 70010001,
-      "tranPos": {
-        "x": 15.403651,
-        "y": 0.52710307,
-        "z": -51.932304
-      },
+      "inteeIcon": "UI_Icon_Intee_Talk",
+      "mapVisibility": "Never",
+      "portalShape": "",
       "pos": {
         "x": 16.96301,
         "y": 1.084421,
         "z": -51.9323
       },
-      "portalShape": "",
-      "specialTipsIconPath": ""
+      "removeEntityIfLocked": true,
+      "size": {
+        "x": 6.0,
+        "y": 6.0,
+        "z": 6.0
+      },
+      "titleTextID": "UI_QUEST_NEFER_DungeonEntry",
+      "tranPos": {
+        "x": 15.403651,
+        "y": 0.52710307,
+        "z": -51.932304
+      },
+      "tranRot": {
+        "y": 90.0
+      },
+      "HAGBOCBPNHN": true,
+      "EAJPPKHOIAG": [
+        6019
+      ]
     },
     "9": {
       "$type": "DungeonExit",
+      "alias": "",
       "entryPointId": 8,
-      "areaId": 0,
       "gadgetId": 70010001,
-      "rot": {
-        "y": 90
-      },
       "pos": {
         "x": 15.4154,
         "y": 0.5928366,
         "z": -51.93609
       },
-      "specialTipsIconPath": "",
+      "rot": {
+        "y": 90.0
+      },
+      "tranPos": {
+        "x": 15.415401,
+        "y": 0.5928366,
+        "z": -51.93609
+      },
       "unlocked": true
     }
-  }
+  },
+  "IFNMLHIOCPN": {}
 }

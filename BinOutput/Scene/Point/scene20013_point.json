@@ -1,131 +1,137 @@
 {
-   
-  "points": {
-    "2": {
-      "$type": "GNIDNEBEJFH",
-      "gadgetId": 70120004,
+  "entities": {
+    "1": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
       "pos": {
-        "x": 343.1401062011719,
-        "y": -11.529470443725586,
-        "z": 242.98980712890625
+        "x": 355.094,
+        "y": -39.3,
+        "z": 438.8426
       },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 4.16,
+        "length": 200.0,
+        "useHeight": true,
+        "width": 200.0
+      },
+      "stringParam": "",
+      "triggerFlag": "DeadRegion",
       "unlocked": true,
-      "specialTipsIconPath": "",
-      "size": {
-        "x": 5.0,
-        "y": 5.0,
-        "z": 5.0
-      }
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
     }
   },
   "forces": {
     "1": {
-      "$type": "OPKHNLFEDAG",
+      "$type": "ConfigAirflowField",
+      "alias": "",
+      "colliderName": "",
+      "enterEffect": "Eff_Windfield_Enter",
       "gadgetId": 70610102,
       "pos": {
-        "x": 359.20001220703125,
+        "x": 359.2,
         "y": -59.0,
-        "z": 431.29998779296875
+        "z": 431.3
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "velocity": 10.0,
       "stayEffect": "Eff_Windfield_Stay",
-      "enterEffect": "Eff_Windfield_Enter"
+      "unlocked": true,
+      "velocity": 10.0
     },
     "2": {
-      "$type": "OPKHNLFEDAG",
+      "$type": "ConfigAirflowField",
+      "alias": "",
+      "colliderName": "",
+      "enterEffect": "Eff_Windfield_Enter",
       "gadgetId": 70610102,
       "pos": {
-        "x": 359.1000061035156,
-        "y": -56.599998474121094,
-        "z": 422.3999938964844
+        "x": 359.1,
+        "y": -56.6,
+        "z": 422.4
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "velocity": 10.0,
       "stayEffect": "Eff_Windfield_Stay",
-      "enterEffect": "Eff_Windfield_Enter"
+      "unlocked": true,
+      "velocity": 10.0
     },
     "3": {
-      "$type": "OPKHNLFEDAG",
+      "$type": "ConfigAirflowField",
+      "alias": "",
+      "colliderName": "",
+      "enterEffect": "Eff_Windfield_Enter",
       "gadgetId": 70610102,
       "pos": {
-        "x": 324.3999938964844,
-        "y": -56.70000076293945,
+        "x": 324.4,
+        "y": -56.7,
         "z": 435.0
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "velocity": 10.0,
       "stayEffect": "Eff_Windfield_Stay",
-      "enterEffect": "Eff_Windfield_Enter"
+      "unlocked": true,
+      "velocity": 10.0
     },
     "4": {
-      "$type": "OPKHNLFEDAG",
+      "$type": "ConfigAirflowField",
+      "alias": "",
+      "colliderName": "",
+      "enterEffect": "Eff_Windfield_Enter",
       "gadgetId": 70610102,
       "pos": {
-        "x": 325.70001220703125,
-        "y": -53.79999923706055,
-        "z": 423.1000061035156
+        "x": 325.7,
+        "y": -53.8,
+        "z": 423.1
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "velocity": 10.0,
       "stayEffect": "Eff_Windfield_Stay",
-      "enterEffect": "Eff_Windfield_Enter"
+      "unlocked": true,
+      "velocity": 10.0
     },
     "5": {
-      "$type": "OPKHNLFEDAG",
+      "$type": "ConfigAirflowField",
+      "alias": "",
+      "colliderName": "",
+      "enterEffect": "Eff_Windfield_Enter",
       "gadgetId": 70610102,
       "pos": {
-        "x": 351.3999938964844,
-        "y": -55.400001525878906,
-        "z": 447.20001220703125
+        "x": 351.4,
+        "y": -55.4,
+        "z": 447.2
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "velocity": 10.0,
       "stayEffect": "Eff_Windfield_Stay",
-      "enterEffect": "Eff_Windfield_Enter"
+      "unlocked": true,
+      "velocity": 10.0
     },
     "6": {
-      "$type": "OPKHNLFEDAG",
+      "$type": "ConfigAirflowField",
+      "alias": "",
+      "colliderName": "",
+      "enterEffect": "Eff_Windfield_Enter",
       "gadgetId": 70610102,
       "pos": {
-        "x": 335.79998779296875,
-        "y": -57.099998474121094,
-        "z": 445.84271240234375
+        "x": 335.8,
+        "y": -57.1,
+        "z": 445.8427
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
       "stayEffect": "Eff_Windfield_Stay",
-      "enterEffect": "Eff_Windfield_Enter"
+      "unlocked": true
     }
   },
-  "entities": {
-    "1": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
+  "points": {
+    "2": {
+      "$type": "DungeonQuitPoint",
+      "alias": "",
+      "gadgetId": 70120004,
       "pos": {
-        "x": 355.093994140625,
-        "y": -39.29999923706055,
-        "z": 438.84259033203125
+        "x": 343.1401,
+        "y": -11.52947,
+        "z": 242.9898
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 4.159999847412109,
-        "centerType": "Center",
-        "width": 200.0,
-        "length": 200.0
+      "size": {
+        "x": 5.0,
+        "y": 5.0,
+        "z": 5.0
       },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
+      "unlocked": true
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

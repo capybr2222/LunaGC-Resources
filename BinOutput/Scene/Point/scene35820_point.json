@@ -1,27 +1,26 @@
 {
-   
   "points": {
     "1": {
-      "$type": "GNIDNEBEJFH",
-      "damageRatio": "TOWER",
+      "$type": "DungeonQuitPoint",
+      "alias": "",
       "gadgetId": 70120004,
       "pos": {
-        "x": -80.32392883300781,
-        "y": 13.321619987487793,
-        "z": 83.70762634277344
+        "x": -80.32393,
+        "y": 13.32162,
+        "z": 83.70763
       },
-      "tranPos": {
-        "x": -69.94496154785156,
-        "y": 13.321619033813477,
-        "z": 83.11944580078125
-      },
-      "specialTipsIconPath": "",
       "size": {
         "x": 3.0,
         "y": 3.0,
         "z": 3.0
-      }
+      },
+      "tranPos": {
+        "x": -69.94496,
+        "y": 13.321619,
+        "z": 83.119446
+      },
+      "type": "TOWER"
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

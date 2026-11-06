@@ -1,135 +1,140 @@
 {
-  "transRadius": 1500,
   "entities": {
     "1": {
       "$type": "ConfigLocalTrigger",
-      "rot": {
-        "y": 223.80459594726562
-      },
-      "pos": {
-        "x": 9411.8212890625,
-        "y": 364.3996887207031,
-        "z": 6572.22509765625
-      },
+      "alias": "",
       "gadgetId": 70010006,
-      "checkDist": 100,
-      "unlocked": true,
+      "pos": {
+        "x": 9411.821,
+        "y": 364.3997,
+        "z": 6572.225
+      },
+      "rot": {
+        "y": 223.8046
+      },
       "shape": {
         "$type": "ConfigShapeRect",
-        "length": 100,
-        "CMLHPPDJBKA": "Center",
-        "useHeight": true,
-        "height": 10,
         "centerType": "Center",
-        "width": 80
+        "height": 10.0,
+        "length": 100.0,
+        "useHeight": true,
+        "width": 80.0
       },
+      "stringParam": "",
       "triggerFlag": "DeadRegion",
-      "triggerInterval": 0.10000000149011612
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
     },
     "2": {
       "$type": "ConfigLocalTrigger",
-      "rot": {
-        "y": 252.364501953125
-      },
-      "pos": {
-        "x": 9844.3662109375,
-        "y": 394.0033874511719,
-        "z": 6672.28076171875
-      },
+      "alias": "",
       "gadgetId": 70010006,
-      "checkDist": 100,
-      "unlocked": true,
+      "pos": {
+        "x": 9844.366,
+        "y": 394.0034,
+        "z": 6672.281
+      },
+      "rot": {
+        "y": 252.3645
+      },
       "shape": {
         "$type": "ConfigShapeRect",
-        "length": 100,
-        "CMLHPPDJBKA": "Center",
-        "useHeight": true,
-        "height": 10,
         "centerType": "Center",
-        "width": 80
+        "height": 10.0,
+        "length": 100.0,
+        "useHeight": true,
+        "width": 80.0
       },
+      "stringParam": "",
       "triggerFlag": "DeadRegion",
-      "triggerInterval": 0.10000000149011612
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
     }
   },
   "points": {
     "1": {
       "$type": "DungeonEntry",
-      "tranPos": {
-        "x": 9345.1767578125,
-        "y": 378.2109069824219,
-        "z": 6501.1162109375
-      },
-      "CNMLFDIIGGN": true,
-      "pos": {
-        "x": 9345.1767578125,
-        "y": 378.2109069824219,
-        "z": 6501.1162109375
-      },
-      "gadgetId": 70010001,
-      "forbidSimpleUnlock": true,
+      "alias": "",
+      "disableInteraction": true,
       "dungeonIds": [
         1321
       ],
+      "dungeonQuestConditionList": {},
       "effectiveType": "Mirror",
-      "mapVisibility": "Never",
-      "showLevel": 1,
-      "exploreRatio": 1,
-      "disableInteraction": true,
+      "forbidSimpleUnlock": true,
+      "gadgetId": 70010001,
       "inteeIcon": "UI_Icon_Intee_Talk",
-      "titleTextID": "UI_STC_Intee_DungeonEntry"
+      "mapVisibility": "Never",
+      "portalShape": "",
+      "pos": {
+        "x": 9345.177,
+        "y": 378.2109,
+        "z": 6501.116
+      },
+      "removeEntityIfLocked": true,
+      "titleTextID": "UI_STC_Intee_DungeonEntry",
+      "tranPos": {
+        "x": 9345.177,
+        "y": 378.2109,
+        "z": 6501.116
+      }
     },
     "2": {
       "$type": "DungeonWayPoint",
-      "tranPos": {
-        "x": 9794.63671875,
-        "y": 405.59271240234375,
-        "z": 6654.06396484375
+      "alias": "",
+      "effectiveType": "Mirror",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 9794.637,
+        "y": 405.5927,
+        "z": 6654.064
       },
       "rot": {
-        "y": 345.6853942871094
+        "y": 345.6854
       },
       "size": {
-        "x": 70,
-        "y": 20,
-        "z": 40
+        "x": 70.0,
+        "y": 20.0,
+        "z": 40.0
       },
-      "pos": {
-        "x": 9794.63671875,
-        "y": 405.59271240234375,
-        "z": 6654.06396484375
+      "tranPos": {
+        "x": 9794.637,
+        "y": 405.5927,
+        "z": 6654.064
       },
-      "gadgetId": 70010001,
       "tranRot": {
-        "y": 73
-      },
-      "effectiveType": "Mirror"
+        "y": 73.0
+      }
     },
     "3": {
       "$type": "DungeonWayPoint",
-      "tranPos": {
-        "x": 9435.09765625,
-        "y": 372.772705078125,
-        "z": 6595.72119140625
+      "alias": "",
+      "effectiveType": "Mirror",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 9435.098,
+        "y": 372.7727,
+        "z": 6595.721
       },
       "rot": {
         "y": 314.0625
       },
       "size": {
-        "x": 50,
-        "y": 10,
-        "z": 20
+        "x": 50.0,
+        "y": 10.0,
+        "z": 20.0
       },
-      "pos": {
-        "x": 9435.09765625,
-        "y": 372.772705078125,
-        "z": 6595.72119140625
+      "tranPos": {
+        "x": 9435.098,
+        "y": 372.7727,
+        "z": 6595.721
       },
-      "gadgetId": 70010001,
       "tranRot": {
-        "y": 210
-      },
-      "effectiveType": "Mirror"
+        "y": 210.0
+      }
     }
-  }
+  },
+  "IFNMLHIOCPN": {}
 }

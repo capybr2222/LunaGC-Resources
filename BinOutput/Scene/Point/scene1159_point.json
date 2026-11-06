@@ -1,52 +1,54 @@
 {
-  "transRadius": 1275,
   "points": {
     "1": {
       "$type": "PersonalSceneJumpPoint",
-      "tranPos": {
-        "x": 9343.912109375,
-        "y": 378.3804931640625,
-        "z": 6500.2587890625
-      },
-      "triggerSize": {
-        "x": 5,
-        "y": 10.255195617675781,
-        "z": 5.666168212890625
-      },
-      "pos": {
-        "x": 0.043864089995622635,
-        "y": 0.0735168531537056,
-        "z": -346.2986145019531
-      },
+      "alias": "",
       "gadgetId": 70010002,
+      "pos": {
+        "x": 0.04386409,
+        "y": 0.07351685,
+        "z": -346.2986
+      },
+      "titleTextID": "UI_SCENE_ENTRY_EXIT_ZDJY",
+      "tranPos": {
+        "x": 9343.912,
+        "y": 378.3805,
+        "z": 6500.259
+      },
       "tranRot": {
-        "y": 49.65999984741211
+        "y": 49.66
       },
       "tranSceneId": 3,
-      "unlocked": true,
-      "titleTextID": "UI_SCENE_ENTRY_EXIT_ZDJY"
+      "triggerSize": {
+        "x": 5.0,
+        "y": 10.255196,
+        "z": 5.666168
+      },
+      "unlocked": true
     },
     "2": {
       "$type": "VirtualTransPoint",
-      "tranPos": {
-        "x": 71.41995239257812,
-        "y": -3.869999885559082,
-        "z": -464.0788269042969
-      },
+      "alias": "",
+      "disableInteraction": true,
+      "isForbidAvatarRevive": true,
+      "mapVisibility": "OnUnlocked",
       "markIconTypeName": "MarkSnezhnayaOffering_3",
+      "portalShape": "",
       "pos": {
-        "x": 74.71134948730469,
-        "y": -4.299714088439941,
-        "z": -461.43438720703125
+        "x": 74.71135,
+        "y": -4.299714,
+        "z": -461.4344
+      },
+      "showOnLockedArea": true,
+      "tranPos": {
+        "x": 71.41995,
+        "y": -3.87,
+        "z": -464.07883
       },
       "tranRot": {
-        "y": 50.00001525878906
-      },
-      "mapVisibility": "OnUnlocked",
-      "exploreRatio": 1,
-      "disableInteraction": true,
-      "isForbidAvatarAutoUseSpring": true,
-      "showOnLockedArea": true
+        "y": 50.000015
+      }
     }
-  }
+  },
+  "IFNMLHIOCPN": {}
 }

@@ -1,33 +1,34 @@
 {
-  "transRadius": 233,
   "points": {
     "1": {
       "$type": "PersonalSceneJumpPoint",
-      "tranPos": {
-        "x": 9706.8642578125,
-        "y": 397.568115234375,
-        "z": 6676.34619140625
-      },
-      "triggerSize": {
-        "x": 5.424983024597168,
-        "y": 11.846210479736328,
-        "z": 5.17828369140625
+      "alias": "",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 0.1311222,
+        "y": 6.926544,
+        "z": 147.1201
       },
       "rot": {
-        "y": 359.3067932128906
+        "y": 359.3068
       },
-      "pos": {
-        "x": 0.13112220168113708,
-        "y": 6.926544189453125,
-        "z": 147.12010192871094
+      "titleTextID": "UI_SCENE_ENTRY_EXIT_YHT",
+      "tranPos": {
+        "x": 9706.864,
+        "y": 397.5681,
+        "z": 6676.346
       },
-      "gadgetId": 70010002,
       "tranRot": {
-        "y": -102.04399871826172
+        "y": -102.044
       },
       "tranSceneId": 3,
-      "unlocked": true,
-      "titleTextID": "UI_SCENE_ENTRY_EXIT_YHT"
+      "triggerSize": {
+        "x": 5.424983,
+        "y": 11.8462105,
+        "z": 5.1782837
+      },
+      "unlocked": true
     }
-  }
+  },
+  "IFNMLHIOCPN": {}
 }

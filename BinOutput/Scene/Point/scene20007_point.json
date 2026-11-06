@@ -1,91 +1,91 @@
 {
-   
+  "entities": {
+    "1": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": -0.8989525,
+        "y": -0.014,
+        "z": -37.0
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 150.0,
+        "length": 50.0,
+        "useHeight": true,
+        "width": 100.0
+      },
+      "stringParam": "",
+      "triggerFlag": "NoReviveRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    }
+  },
   "points": {
     "1": {
-      "$type": "GNIDNEBEJFH",
+      "$type": "DungeonQuitPoint",
+      "alias": "",
       "gadgetId": 70110002,
       "pos": {
-        "x": 306.4707946777344,
-        "y": -99.29000854492188,
-        "z": 117.72360229492188
+        "x": 306.4708,
+        "y": -99.29001,
+        "z": 117.7236
       },
-      "unlocked": true,
-      "specialTipsIconPath": ""
+      "unlocked": true
     },
     "2": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
       "gadgetId": 70120003,
       "pos": {
-        "x": 21.019859313964844,
-        "y": 20.966999053955078,
-        "z": 17.506650924682617
+        "x": 21.01986,
+        "y": 20.967,
+        "z": 17.50665
       },
-      "unlocked": true,
-      "specialTipsIconPath": ""
+      "unlocked": true
     },
     "3": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
       "gadgetId": 70120003,
       "pos": {
-        "x": 50.59965133666992,
+        "x": 50.59965,
         "y": -31.0,
-        "z": 75.33009338378906
+        "z": 75.33009
       },
-      "unlocked": true,
-      "specialTipsIconPath": ""
+      "unlocked": true
     },
     "4": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
       "gadgetId": 70120003,
       "pos": {
-        "x": 73.26541900634766,
-        "y": 4.989999771118164,
-        "z": 117.01090240478516
+        "x": 73.26542,
+        "y": 4.99,
+        "z": 117.0109
       },
       "rot": {
-        "y": 91.3499984741211
+        "y": 91.35
       },
-      "unlocked": true,
-      "specialTipsIconPath": ""
+      "unlocked": true
     },
     "5": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
       "gadgetId": 70120003,
       "pos": {
-        "x": 161.79580688476562,
-        "y": 12.800000190734863,
-        "z": 117.34500122070312
+        "x": 161.7958,
+        "y": 12.8,
+        "z": 117.345
       },
       "rot": {
         "y": 90.0
       },
-      "unlocked": true,
-      "specialTipsIconPath": ""
+      "unlocked": true
     }
   },
-  "entities": {
-    "1": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": -0.8989524841308594,
-        "y": -0.014000000432133675,
-        "z": -37.0
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "NoReviveRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 150.0,
-        "centerType": "Center",
-        "width": 100.0,
-        "length": 50.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    }
-  },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

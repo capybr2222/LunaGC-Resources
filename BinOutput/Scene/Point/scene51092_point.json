@@ -1,86 +1,56 @@
 {
   "points": {
     "1": {
-      "$type": "DPBGLNINGKM",
-      "NMMNDFIPHPA": [
-        {
-          "x": 3354.8154,
-          "y": 480.98178,
-          "z": 4332.347
-        },
-        {
-          "x": 3354.8154,
-          "y": 480.98178,
-          "z": 4332.347
-        },
-        {
-          "x": 3354.8154,
-          "y": 480.98178,
-          "z": 4332.347
-        },
-        {
-          "x": 3354.8154,
-          "y": 480.98178,
-          "z": 4332.347
-        }
-      ],
-      "HHKLHDILHPA": "UI_STC_INTEE_VEHICLESUMMON",
-      "PKADGLOCHOP": [
-        {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0
-        },
-        {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0
-        },
-        {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0
-        },
-        {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0
-        }
-      ],
-      "JAEGJGFEDEC": 3.22,
-      "PCPLBEADLFJ": 45001001,
-      "OILFCCEBAEI": "None",
-      "GOICGJLCJJG": "Ship",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "pos": {
-        "x": 3354.8154,
-        "y": 480.98178,
-        "z": 4332.347
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": false,
-      "POGLHNAHJNK": false,
+      "$type": "SceneVehicleSummonPoint",
+      "alias": "",
       "areaId": 10729,
-      "tranPos": {
+      "bornPointList": [
+        {
+          "x": 3354.8154,
+          "y": 480.98178,
+          "z": 4332.347
+        },
+        {
+          "x": 3354.8154,
+          "y": 480.98178,
+          "z": 4332.347
+        },
+        {
+          "x": 3354.8154,
+          "y": 480.98178,
+          "z": 4332.347
+        },
+        {
+          "x": 3354.8154,
+          "y": 480.98178,
+          "z": 4332.347
+        }
+      ],
+      "bornRotateList": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "gadgetId": 70370273,
+      "pos": {
         "x": 3354.815,
         "y": 480.9818,
         "z": 4332.347
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70370273,
       "rot": {
-        "x": 0,
-        "y": 121.4145,
-        "z": 0
-      }
+        "y": 121.4145
+      },
+      "titleTextID": "UI_STC_INTEE_VEHICLESUMMON",
+      "tranPos": {
+        "x": 3354.8154,
+        "y": 480.98178,
+        "z": 4332.347
+      },
+      "vehicleGadgetId": 45001001,
+      "vehicleRadius": 3.22,
+      "vehicleType": "Ship"
     }
-  }
+  },
+  "IFNMLHIOCPN": {}
 }

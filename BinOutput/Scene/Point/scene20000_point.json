@@ -1,46 +1,47 @@
 {
-   
-  "forces": {
-    "1": {
-      "$type": "OPKHNLFEDAG",
-      "gadgetId": 40200001,
-      "pos": {
-        "x": 99.4111328125,
-        "y": 0.5,
-        "z": -41.82896041870117
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "velocity": 5.0,
-      "stayEffect": "Eff_Windfield_Stay",
-      "enterEffect": "Eff_Windfield_Enter"
-    }
-  },
   "entities": {
     "1": {
-      "$type": "BDLEMCBKPLI",
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "checkDist": 500.0,
       "gadgetId": 70010006,
       "pos": {
-        "x": 90.97411346435547,
-        "y": -4.435606002807617,
-        "z": -111.23290252685547
+        "x": 90.97411,
+        "y": -4.435606,
+        "z": -111.2329
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "checkDist": 500.0,
-      "withGO": true,
-      "triggerFlag": "DeadRegion",
       "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 8.319999694824219,
+        "$type": "ConfigShapeRect",
         "centerType": "Center",
-        "width": 32.560001373291016,
-        "length": 1.5099999904632568
+        "height": 8.32,
+        "length": 1.51,
+        "useHeight": true,
+        "width": 32.56
       },
       "stringParam": "",
-      "BFKCMEDCIIM": {}
+      "triggerFlag": "DeadRegion",
+      "unlocked": true,
+      "withGO": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
     }
   },
-  "GDFJNNEIFCF": {}
+  "forces": {
+    "1": {
+      "$type": "ConfigAirflowField",
+      "alias": "",
+      "colliderName": "",
+      "enterEffect": "Eff_Windfield_Enter",
+      "gadgetId": 40200001,
+      "pos": {
+        "x": 99.41113,
+        "y": 0.5,
+        "z": -41.82896
+      },
+      "stayEffect": "Eff_Windfield_Stay",
+      "unlocked": true,
+      "velocity": 5.0
+    }
+  },
+  "IFNMLHIOCPN": {}
 }

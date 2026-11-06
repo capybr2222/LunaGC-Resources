@@ -1,179 +1,178 @@
 {
-   
   "points": {
     "1": {
       "$type": "PersonalSceneJumpPoint",
+      "alias": "",
+      "closeTime": 24.0,
       "gadgetId": 70010002,
       "pos": {
-        "x": -0.034114111214876175,
-        "y": 0.03608002886176109,
-        "z": 5.226257801055908
+        "x": -0.03411411,
+        "y": 0.03608003,
+        "z": 5.226258
       },
+      "titleTextID": "UI_SCENE_ENTRY_EXIT_CattailTavern",
       "tranPos": {
         "x": 2228.0,
         "y": 216.0,
-        "z": -899.8703002929688
+        "z": -899.8703
       },
       "tranRot": {
         "y": 180.0
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
       "tranSceneId": 3,
-      "titleTextID": "UI_SCENE_ENTRY_EXIT_CattailTavern",
       "triggerSize": {
         "x": 2.5,
         "y": 5.0,
         "z": 2.5
       },
-      "closeTime": 24.0
+      "unlocked": true
     },
     "2": {
       "$type": "DungeonEntry",
+      "alias": "",
+      "disableInteraction": true,
+      "dungeonQuestConditionList": {},
       "gadgetId": 70350085,
+      "inteeIcon": "UI_Icon_Intee_Talk",
+      "portalShape": "",
       "pos": {
-        "x": -2.694261074066162,
-        "y": -1.5819620102774934e-06,
-        "z": 8.364660263061523
+        "x": -2.694261,
+        "y": -1.581962E-06,
+        "z": 8.36466
       },
+      "removeEntityIfLocked": true,
       "rot": {
         "y": 270.0
       },
+      "titleTextID": "UI_STC_Intee_DungeonEntry",
       "tranPos": {
-        "x": -2.694260597229004,
-        "y": -1.5819624650248443e-06,
-        "z": 8.364660263061523
+        "x": -2.6942606,
+        "y": -1.5819625E-06,
+        "z": 8.36466
       },
       "tranRot": {
-        "x": 2.5613719571992988e-06,
+        "x": 2.561372E-06,
         "y": 270.0,
-        "z": 1.70755947692669e-06
-      },
-      "specialTipsIconPath": "",
-      "disableInteraction": true,
-      "portalShape": "",
-      "dungeonQuestConditionList": {},
-      "titleTextID": "UI_STC_Intee_DungeonEntry",
-      "inteeIcon": "UI_Icon_Intee_Talk",
-      "removeEntityIfLocked": true
+        "z": 1.7075595E-06
+      }
     },
     "3": {
       "$type": "DungeonExit",
+      "alias": "",
+      "entryPointId": 2,
       "gadgetId": 70350085,
       "pos": {
-        "x": -2.7121388912200928,
-        "y": -1.5479670310014626e-06,
-        "z": 7.890048980712891
+        "x": -2.712139,
+        "y": -1.547967E-06,
+        "z": 7.890049
       },
       "rot": {
         "y": 270.0
       },
       "tranPos": {
-        "x": 1.6958868503570557,
-        "y": -1.5479669173146249e-06,
-        "z": 9.167730331420898
-      },
-      "specialTipsIconPath": "",
-      "entryPointId": 2
+        "x": 1.6958869,
+        "y": -1.5479669E-06,
+        "z": 9.16773
+      }
     },
     "4": {
       "$type": "DungeonEntry",
+      "alias": "",
+      "disableInteraction": true,
+      "dungeonQuestConditionList": {},
       "gadgetId": 70350085,
+      "inteeIcon": "UI_Icon_Intee_Talk",
+      "portalShape": "",
       "pos": {
-        "x": -2.65693998336792,
-        "y": 0.03607992082834244,
-        "z": 7.096609115600586
+        "x": -2.65694,
+        "y": 0.03607992,
+        "z": 7.096609
       },
+      "removeEntityIfLocked": true,
+      "titleTextID": "UI_STC_Intee_DungeonEntry",
       "tranPos": {
-        "x": -2.6569390296936035,
-        "y": 0.036079924553632736,
-        "z": 7.096609115600586
+        "x": -2.656939,
+        "y": 0.036079925,
+        "z": 7.096609
       },
       "tranRot": {
         "y": 270.0
-      },
-      "specialTipsIconPath": "",
-      "disableInteraction": true,
-      "portalShape": "",
-      "dungeonQuestConditionList": {},
-      "titleTextID": "UI_STC_Intee_DungeonEntry",
-      "inteeIcon": "UI_Icon_Intee_Talk",
-      "removeEntityIfLocked": true
+      }
     },
     "5": {
       "$type": "DungeonExit",
+      "alias": "",
+      "entryPointId": 4,
       "gadgetId": 70350085,
       "pos": {
-        "x": -2.7791268825531006,
-        "y": 0.03607993945479393,
-        "z": 6.8386712074279785
+        "x": -2.779127,
+        "y": 0.03607994,
+        "z": 6.838671
       },
       "rot": {
         "y": 270.0
       },
       "tranPos": {
-        "x": 1.6288985013961792,
-        "y": 0.03607993572950363,
-        "z": 8.116352081298828
-      },
-      "specialTipsIconPath": "",
-      "entryPointId": 4
+        "x": 1.6288985,
+        "y": 0.036079936,
+        "z": 8.116352
+      }
     },
     "6": {
-      "$type": "HMJDOCFJACC",
+      "$type": "SceneBuildingPoint",
+      "alias": "",
+      "buildingType": "GcgCat",
       "gadgetId": 70010001,
       "pos": {
-        "x": 0.13397009670734406,
-        "y": 1.3592449426651,
-        "z": 11.500189781188965
+        "x": 0.1339701,
+        "y": 1.359245,
+        "z": 11.50019
       },
+      "showOnLockedArea": true,
       "tranPos": {
-        "x": -0.9095463156700134,
-        "y": 1.3592449426651,
-        "z": 11.500189781188965
-      },
-      "specialTipsIconPath": "",
-      "buildingType": "GcgCat",
-      "showOnLockedArea": true
+        "x": -0.9095463,
+        "y": 1.359245,
+        "z": 11.50019
+      }
     },
     "7": {
-      "$type": "HMJDOCFJACC",
+      "$type": "SceneBuildingPoint",
+      "alias": "",
+      "buildingType": "GcgBoard",
       "gadgetId": 70010001,
       "pos": {
-        "x": -3.5741069316864014,
-        "y": 2.0182979106903076,
-        "z": 7.744472026824951
+        "x": -3.574107,
+        "y": 2.018298,
+        "z": 7.744472
       },
+      "showOnLockedArea": true,
       "tranPos": {
-        "x": 3.774502754211426,
-        "y": 2.0182981491088867,
-        "z": 7.376804351806641
-      },
-      "specialTipsIconPath": "",
-      "buildingType": "GcgBoard",
-      "showOnLockedArea": true
+        "x": 3.7745028,
+        "y": 2.0182981,
+        "z": 7.3768044
+      }
     },
     "8": {
       "$type": "PersonalSceneJumpPoint",
+      "alias": "",
+      "closeTime": 24.0,
       "pos": {
-        "x": -1007.5640258789062,
-        "y": 4.914992809295654,
-        "z": -3.2019999027252197
+        "x": -1007.564,
+        "y": 4.914993,
+        "z": -3.202
       },
+      "titleTextID": "",
       "tranPos": {
-        "x": 2228.033203125,
-        "y": 215.974365234375,
-        "z": -900.3956298828125
+        "x": 2228.0332,
+        "y": 215.97437,
+        "z": -900.3956
       },
       "tranRot": {
         "y": 180.0
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
       "tranSceneId": 3,
-      "titleTextID": "",
-      "closeTime": 24.0
+      "unlocked": true
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

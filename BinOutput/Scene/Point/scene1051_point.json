@@ -1,38 +1,37 @@
 {
-   
   "points": {
     "1": {
-      "$type": "GNIDNEBEJFH",
+      "$type": "DungeonQuitPoint",
+      "alias": "",
       "gadgetId": 70120004,
       "pos": {
-        "x": 0.08681715279817581,
-        "y": -1.8999979496002197,
-        "z": 65.2941665649414
+        "x": 0.08681715,
+        "y": -1.899998,
+        "z": 65.29417
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
       "size": {
         "x": 5.0,
         "y": 5.0,
         "z": 5.0
-      }
+      },
+      "unlocked": true
     },
     "2": {
-      "$type": "ACECPLPLHPL",
+      "$type": "DungeonSlipRevivePoint",
+      "alias": "",
       "gadgetId": 70360001,
       "pos": {
-        "x": 0.7229936718940735,
-        "y": -1.899999976158142,
-        "z": 52.1408805847168
+        "x": 0.7229937,
+        "y": -1.9,
+        "z": 52.14088
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
       "size": {
         "x": 20.0,
         "y": 20.0,
         "z": 20.0
-      }
+      },
+      "unlocked": true
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

@@ -1,87 +1,53 @@
 {
-  "transRadius": 1064,
   "entities": {
     "1": {
       "$type": "ConfigLocalTrigger",
-      "tranPos": {
-        "x": 504.40130615234375,
-        "y": 250.27349853515625,
-        "z": 502.3569030761719
-      },
-      "BGFOMEICHKD": {
-        "IODECABNFJE": {
-          "data": {
-            "$type": "OLLIOPGKPNF",
-            "followOffset": {
-              "x": 1,
-              "y": 25,
-              "z": -19.600000381469727
-            },
-            "BKLMJPIFPDL": true,
-            "COEGIJCKLGP": "FollowToTarget",
-            "JDMKGHODCFB": true,
-            "fov": 45,
-            "targetPosition": {
-              "y": -200,
-              "z": 175.42999267578125
-            }
-          },
-          "IHABMLMDAAA": {
-            "blendType": 1,
-            "duHPRation": 1,
-            "NAOIPIIJHAJ": 4
-          },
-          "INNHIHCHECG": {
-            "blendType": 1,
-            "duHPRation": 1,
-            "NAOIPIIJHAJ": 4
-          }
-        }
-      },
-      "pos": {
-        "x": 493.92779541015625,
-        "y": 250.27349853515625,
-        "z": 502.3569030761719
-      },
+      "alias": "",
       "gadgetId": 70010006,
-      "checkDist": 100,
-      "IODECABNFJE": {
-        "data": {
-          "$type": "OLLIOPGKPNF",
-          "followOffset": {
-            "x": 1,
-            "y": 25,
-            "z": -19.600000381469727
-          },
-          "BKLMJPIFPDL": true,
-          "COEGIJCKLGP": "FollowToTarget",
-          "JDMKGHODCFB": true,
-          "fov": 45,
-          "targetPosition": {
-            "y": -200,
-            "z": 175.42999267578125
-          }
-        },
-        "IHABMLMDAAA": {
-          "blendType": 1,
-          "duHPRation": 1,
-          "NAOIPIIJHAJ": 4
-        },
-        "INNHIHCHECG": {
-          "blendType": 1,
-          "duHPRation": 1,
-          "NAOIPIIJHAJ": 4
-        }
+      "pos": {
+        "x": 493.9278,
+        "y": 250.2735,
+        "z": 502.3569
       },
       "shape": {
         "$type": "ConfigShapeCircle",
-        "height": 60,
-        "centerType": "Center",
-        "sceneID": 50
+        "height": 60.0,
+        "radius": 50.0
       },
+      "stringParam": "",
       "tag": 481140001,
+      "tranPos": {
+        "x": 504.4013,
+        "y": 250.2735,
+        "z": 502.3569
+      },
       "triggerFlag": "LevelCamera",
-      "triggerInterval": 0.10000000149011612
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "EODHGNLOIKK": {
+          "BLKFBLLDEEP": 1
+        },
+        "KLKOBMCOFIG": {
+          "BLKFBLLDEEP": 1
+        },
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "followOffset": {
+            "x": 1.0,
+            "y": 25.0,
+            "z": -19.6
+          },
+          "targetPosition": {
+            "y": -200.0,
+            "z": 175.43
+          },
+          "GOOMNHLGNFJ": false,
+          "NMACBNEJGJD": true,
+          "OPFBJBLFPLE": true,
+          "EOOJAMOHMBC": "FollowToTarget"
+        }
+      }
     }
-  }
+  },
+  "IFNMLHIOCPN": {}
 }

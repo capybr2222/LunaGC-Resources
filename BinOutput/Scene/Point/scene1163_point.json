@@ -1,64 +1,67 @@
 {
-  "transRadius": 249,
   "points": {
     "1": {
       "$type": "PersonalSceneJumpPoint",
-      "tranPos": {
-        "x": 9595.0302734375,
-        "y": 397.5683898925781,
-        "z": 6553.2783203125
-      },
-      "triggerSize": {
-        "x": 5,
-        "y": 5,
-        "z": 5
-      },
-      "pos": {
-        "x": 433.1954040527344,
-        "y": 4.510541915893555,
-        "z": -329.6330871582031
-      },
+      "alias": "",
       "gadgetId": 70010002,
+      "pos": {
+        "x": 433.1954,
+        "y": 4.510542,
+        "z": -329.6331
+      },
+      "titleTextID": "UI_SCENE_ENTRY_EXIT_BGYH",
+      "tranPos": {
+        "x": 9595.03,
+        "y": 397.5684,
+        "z": 6553.2783
+      },
       "tranSceneId": 3,
-      "unlocked": true,
-      "titleTextID": "UI_SCENE_ENTRY_EXIT_BGYH"
+      "triggerSize": {
+        "x": 5.0,
+        "y": 5.0,
+        "z": 5.0
+      },
+      "unlocked": true
     },
     "2": {
       "$type": "DungeonExit",
-      "rot": {
-        "y": 90
-      },
+      "alias": "",
+      "entryPointId": 3,
       "pos": {
-        "x": 417.743896484375,
-        "y": 2.8669590950012207,
-        "z": -363.61309814453125
+        "x": 417.7439,
+        "y": 2.866959,
+        "z": -363.6131
       },
-      "entryPointId": 3
+      "rot": {
+        "y": 90.0
+      }
     },
     "3": {
       "$type": "DungeonEntry",
-      "CNMLFDIIGGN": true,
-      "size": {
-        "x": 8,
-        "y": 8,
-        "z": 8
-      },
-      "pos": {
-        "x": 414.5203857421875,
-        "y": 2.8669590950012207,
-        "z": -363.61309814453125
-      },
-      "gadgetId": 70010002,
-      "forbidSimpleUnlock": true,
+      "alias": "",
+      "dungeonEntryType": "DirectEnter",
       "dungeonIds": [
         1341
       ],
-      "mapVisibility": "Never",
-      "showLevel": 1,
-      "exploreRatio": 1,
-      "dungeonEntryType": "DirectEnter",
+      "dungeonQuestConditionList": {},
+      "forbidSimpleUnlock": true,
+      "gadgetId": 70010002,
       "inteeIcon": "UI_NPCTopIcon_QuestTarget_Enter",
+      "mapVisibility": "Never",
+      "portalShape": "",
+      "pos": {
+        "x": 414.5204,
+        "y": 2.866959,
+        "z": -363.6131
+      },
+      "removeEntityIfLocked": true,
+      "size": {
+        "x": 8.0,
+        "y": 8.0,
+        "z": 8.0
+      },
       "titleTextID": "UI_DUNGEON_ENTRY_ReturnStory"
     }
-  }
+  },
+  "IFNMLHIOCPN": {}
 }

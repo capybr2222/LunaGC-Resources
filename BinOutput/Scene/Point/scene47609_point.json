@@ -1,16 +1,18 @@
 {
-   
   "points": {
     "1": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
-      "specialTipsIconPath": "",
-      "isModelHidden": true,
-      "disableClientTrigger": true
+      "isModelHidden": true
     },
     "10": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
+      "isModelHidden": true,
       "pos": {
         "x": 600.0,
         "y": 1.0,
@@ -18,26 +20,26 @@
       },
       "rot": {
         "y": 180.0
-      },
-      "specialTipsIconPath": "",
-      "isModelHidden": true,
-      "disableClientTrigger": true
+      }
     },
     "11": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
+      "isModelHidden": true,
       "pos": {
         "x": 1575.0,
         "y": -47.0,
         "z": 938.0
-      },
-      "specialTipsIconPath": "",
-      "isModelHidden": true,
-      "disableClientTrigger": true
+      }
     },
     "12": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
+      "isModelHidden": true,
       "pos": {
         "x": 1170.0,
         "y": 1.0,
@@ -45,14 +47,14 @@
       },
       "rot": {
         "y": 35.0
-      },
-      "specialTipsIconPath": "",
-      "isModelHidden": true,
-      "disableClientTrigger": true
+      }
     },
     "13": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
+      "isModelHidden": true,
       "pos": {
         "x": 820.0,
         "y": 6.0,
@@ -60,14 +62,14 @@
       },
       "rot": {
         "y": 270.0
-      },
-      "specialTipsIconPath": "",
-      "isModelHidden": true,
-      "disableClientTrigger": true
+      }
     },
     "14": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
+      "isModelHidden": true,
       "pos": {
         "x": -200.0,
         "y": 1.0,
@@ -75,14 +77,14 @@
       },
       "rot": {
         "y": 180.0
-      },
-      "specialTipsIconPath": "",
-      "isModelHidden": true,
-      "disableClientTrigger": true
+      }
     },
     "15": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
+      "isModelHidden": true,
       "pos": {
         "x": 600.0,
         "y": 1.0,
@@ -90,100 +92,100 @@
       },
       "rot": {
         "y": 180.0
-      },
-      "specialTipsIconPath": "",
-      "isModelHidden": true,
-      "disableClientTrigger": true
+      }
     },
     "2": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
+      "isModelHidden": true,
       "pos": {
         "x": 200.0,
         "z": 200.0
-      },
-      "specialTipsIconPath": "",
-      "isModelHidden": true,
-      "disableClientTrigger": true
+      }
     },
     "3": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
+      "isModelHidden": true,
       "pos": {
         "x": 400.0,
         "z": 400.0
-      },
-      "specialTipsIconPath": "",
-      "isModelHidden": true,
-      "disableClientTrigger": true
+      }
     },
     "4": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
+      "isModelHidden": true,
       "pos": {
         "x": 600.0,
         "z": 580.0
-      },
-      "specialTipsIconPath": "",
-      "isModelHidden": true,
-      "disableClientTrigger": true
+      }
     },
     "5": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
+      "isModelHidden": true,
       "pos": {
         "x": 800.0,
         "z": 800.0
-      },
-      "specialTipsIconPath": "",
-      "isModelHidden": true,
-      "disableClientTrigger": true
+      }
     },
     "6": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
+      "isModelHidden": true,
       "pos": {
         "x": 950.0,
         "z": 950.0
-      },
-      "specialTipsIconPath": "",
-      "isModelHidden": true,
-      "disableClientTrigger": true
+      }
     },
     "7": {
-      "$type": "ACECPLPLHPL",
+      "$type": "DungeonSlipRevivePoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
+      "isModelHidden": true,
       "pos": {
         "x": 950.0,
         "z": 950.0
       },
-      "tranPos": {
-        "x": 950.0,
-        "z": 950.0
-      },
-      "specialTipsIconPath": "",
-      "isModelHidden": true,
       "size": {
         "x": 50.0,
         "y": 30.0,
         "z": 50.0
       },
-      "disableClientTrigger": true
+      "tranPos": {
+        "x": 950.0,
+        "z": 950.0
+      }
     },
     "8": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
+      "isModelHidden": true,
       "pos": {
         "x": -200.0,
         "z": -200.0
-      },
-      "specialTipsIconPath": "",
-      "isModelHidden": true,
-      "disableClientTrigger": true
+      }
     },
     "9": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
+      "isModelHidden": true,
       "pos": {
         "x": -200.0,
         "y": 2.5,
@@ -191,11 +193,8 @@
       },
       "rot": {
         "y": 180.0
-      },
-      "specialTipsIconPath": "",
-      "isModelHidden": true,
-      "disableClientTrigger": true
+      }
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

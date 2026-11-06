@@ -1,0 +1,36 @@
+{
+ "abilities": [
+  {
+   "abilityName": "Avatar_Male_Sword_Valeriy_AniEvent_Camera",
+   "abilityID": "Avatar_Male_Sword_Valeriy_AniEvent_Camera"
+  },
+  {
+   "abilityName": "Avatar_Male_Sword_Valeriy_AniEvent_Attack",
+   "abilityID": "Avatar_Male_Sword_Valeriy_AniEvent_Attack"
+  },
+  {
+   "abilityName": "Avatar_Valeriy_Global_Handler",
+   "abilityID": "Avatar_Valeriy_Global_Handler"
+  },
+  {
+   "abilityName": "Avatar_Valeriy_NormalAttack",
+   "abilityID": "Avatar_Valeriy_NormalAttack"
+  },
+  {
+   "abilityName": "Avatar_Valeriy_ExtraAttack",
+   "abilityID": "Avatar_Valeriy_ExtraAttack"
+  },
+  {
+   "abilityName": "Avatar_Valeriy_FallingAnthem",
+   "abilityID": "Avatar_Valeriy_FallingAnthem"
+  },
+  {
+   "abilityName": "Avatar_Valeriy_ElementalArt",
+   "abilityID": "Avatar_Valeriy_ElementalArt"
+  },
+  {
+   "abilityName": "Avatar_Valeriy_ElementalBurst",
+   "abilityID": "Avatar_Valeriy_ElementalBurst"
+  }
+ ]
+}

@@ -1,37 +1,72 @@
 {
+  "entities": {
+    "1": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "checkDist": 150.0,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 519.8392,
+        "y": 81.07082,
+        "z": 450.8289
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 20.0,
+        "length": 140.0,
+        "width": 150.0
+      },
+      "stringParam": "",
+      "tag": 511270001,
+      "tranPos": {
+        "x": -0.40840814,
+        "y": 0.5,
+        "z": -29.007652
+      },
+      "triggerFlag": "LevelCamera",
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "EODHGNLOIKK": {
+          "BLKFBLLDEEP": 1
+        },
+        "KLKOBMCOFIG": {
+          "BLKFBLLDEEP": 1
+        },
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "followOffset": {
+            "y": 30.0,
+            "z": -7.0
+          },
+          "targetPosition": {
+            "y": -100000.0,
+            "z": 30000.0
+          },
+          "GOOMNHLGNFJ": false,
+          "NMACBNEJGJD": true,
+          "OPFBJBLFPLE": true,
+          "EOOJAMOHMBC": "FollowToTarget"
+        }
+      }
+    }
+  },
   "points": {
     "1": {
-      "$type": "DungeonExit",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
+      "alias": "",
+      "gadgetId": 70120004,
       "pos": {
         "x": -52.56602,
         "y": 0.5,
         "z": -5.643824
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
       "tranPos": {
         "x": -52.56602,
         "y": 0.5,
         "z": -5.643824
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70120004,
-      "rot": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
+      "unlocked": true
     }
-  }
+  },
+  "IFNMLHIOCPN": {}
 }

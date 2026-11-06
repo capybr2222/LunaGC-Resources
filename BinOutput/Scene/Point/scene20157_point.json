@@ -1,105 +1,112 @@
 {
-  "points": {
+  "entities": {
     "1": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
       "gadgetId": 70010006,
       "pos": {
-        "x": 99.4700698852539,
-        "y": 188.24710083007812,
-        "z": 282.739013671875
+        "x": 339.0353,
+        "y": 158.9135,
+        "z": 276.4477
       },
-      "rot": {
-        "y": 270.0
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 20.0,
+        "length": 30.0,
+        "useHeight": true,
+        "width": 30.0
       },
+      "stringParam": "",
+      "tranPos": {
+        "x": 339.03528,
+        "y": 137.72662,
+        "z": 276.44772
+      },
+      "triggerFlag": "DeadRegion",
       "unlocked": true,
-      "specialTipsIconPath": ""
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
     },
     "2": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
       "gadgetId": 70010006,
       "pos": {
-        "x": 167.8289031982422,
-        "y": 182.17770385742188,
-        "z": 282.739013671875
+        "x": 86.74696,
+        "y": 175.8747,
+        "z": 282.487
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 20.0,
+        "length": 60.0,
+        "useHeight": true,
+        "width": 60.0
+      },
+      "stringParam": "",
+      "triggerFlag": "DeadRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    }
+  },
+  "points": {
+    "1": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 99.47007,
+        "y": 188.2471,
+        "z": 282.739
       },
       "rot": {
         "y": 270.0
       },
-      "unlocked": true,
-      "specialTipsIconPath": ""
+      "unlocked": true
+    },
+    "2": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 167.8289,
+        "y": 182.1777,
+        "z": 282.739
+      },
+      "rot": {
+        "y": 270.0
+      },
+      "unlocked": true
     },
     "3": {
-      "$type": "LPLKNPCPGGA",
-      "tranRot": {
-        "y": 270.5655
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
       "gadgetId": 70010006,
-      "rot": {
-        "y": 270.5655
-      },
       "pos": {
-        "x": 255.24823,
-        "y": 177.09613,
-        "z": 282.7395
-      },
-      "tranPos": {
         "x": 255.2482,
         "y": 177.0961,
         "z": 282.7395
       },
-      "areaId": 0
-    }
-  },
-  "entities": {
-    "1": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 339.0353088378906,
-        "y": 158.9134979248047,
-        "z": 276.44769287109375
+      "rot": {
+        "y": 270.5655
+      },
+      "size": {
+        "x": 16.0,
+        "y": 10.0,
+        "z": 5.0
       },
       "tranPos": {
-        "x": 339.0352783203125,
-        "y": 137.72662353515625,
-        "z": 276.4477233886719
+        "x": 255.24823,
+        "y": 177.09613,
+        "z": 282.7395
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 20.0,
-        "centerType": "Center",
-        "width": 30.0,
-        "length": 30.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "2": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 86.74696350097656,
-        "y": 175.87469482421875,
-        "z": 282.48699951171875
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 20.0,
-        "centerType": "Center",
-        "width": 60.0,
-        "length": 60.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
+      "tranRot": {
+        "y": 270.5655
+      }
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

@@ -1,772 +1,802 @@
 {
-   
-  "points": {
+  "entities": {
     "1": {
-      "$type": "GNIDNEBEJFH",
-      "gadgetId": 70120004,
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "floatParam": 15.0,
+      "gadgetId": 70010006,
       "pos": {
-        "x": 533.6986083984375,
-        "y": -1.9836909770965576,
-        "z": 257.1354064941406
+        "x": 400.12,
+        "y": 4.3,
+        "z": 120.7844
       },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 20.0,
+        "length": 30.0,
+        "useHeight": true,
+        "width": 30.0
+      },
+      "stringParam": "",
+      "triggerFlag": "ReturnRegion",
       "unlocked": true,
-      "specialTipsIconPath": "",
-      "size": {
-        "x": 3.0,
-        "y": 3.0,
-        "z": 3.0
-      }
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "10": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 592.1,
+        "y": -38.08341,
+        "z": 87.9
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 200.0,
+        "length": 400.0,
+        "useHeight": true,
+        "width": 50.0
+      },
+      "stringParam": "",
+      "triggerFlag": "DeadRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "11": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 481.0157,
+        "y": -38.08352,
+        "z": -155.8798
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 200.0,
+        "length": 400.0,
+        "useHeight": true,
+        "width": 50.0
+      },
+      "stringParam": "",
+      "triggerFlag": "DeadRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "12": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "floatParam": 15.0,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 529.0883,
+        "y": -37.8,
+        "z": 97.47881
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 20.0,
+        "length": 15.0,
+        "useHeight": true,
+        "width": 50.0
+      },
+      "stringParam": "",
+      "triggerFlag": "ReturnRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "13": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "floatParam": 15.0,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 425.3,
+        "y": -6.9,
+        "z": 108.4648
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 50.0,
+        "length": 10.0,
+        "useHeight": true,
+        "width": 15.0
+      },
+      "stringParam": "",
+      "triggerFlag": "ReturnRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "14": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "floatParam": 15.0,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 427.1799,
+        "y": -9.283442,
+        "z": 135.7501
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 50.0,
+        "length": 10.0,
+        "useHeight": true,
+        "width": 20.0
+      },
+      "stringParam": "",
+      "triggerFlag": "ReturnRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "15": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "floatParam": 15.0,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 424.5597,
+        "y": -38.2,
+        "z": 92.38559
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 30.0,
+        "length": 22.0,
+        "useHeight": true,
+        "width": 22.0
+      },
+      "stringParam": "",
+      "triggerFlag": "ReturnRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "16": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 391.7641,
+        "y": -37.9,
+        "z": 94.32626
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 30.0,
+        "length": 25.0,
+        "useHeight": true,
+        "width": 15.0
+      },
+      "stringParam": "",
+      "triggerFlag": "DeadRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "17": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 550.8614,
+        "y": -43.55,
+        "z": 18.84944
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 50.0,
+        "length": 10.0,
+        "useHeight": true,
+        "width": 30.0
+      },
+      "stringParam": "",
+      "triggerFlag": "ReturnRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "18": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 425.5,
+        "y": -35.93645,
+        "z": 123.6731
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 20.0,
+        "length": 40.0,
+        "useHeight": true,
+        "width": 15.0
+      },
+      "stringParam": "",
+      "triggerFlag": "DeadRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "19": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 477.5206,
+        "y": -30.8,
+        "z": 94.25314
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 20.0,
+        "length": 20.0,
+        "useHeight": true,
+        "width": 30.0
+      },
+      "stringParam": "",
+      "triggerFlag": "DeadRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
     },
     "2": {
-      "$type": "LJLGJMBBHMK",
-      "gadgetId": 70120003,
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
       "pos": {
-        "x": 456.4468994140625,
-        "y": -9.649044036865234,
-        "z": 110.34819793701172
+        "x": 474.5,
+        "y": -58.72672,
+        "z": 98.2
       },
-      "rot": {
-        "y": 359.5006103515625
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 20.0,
+        "length": 250.0,
+        "useHeight": true,
+        "width": 200.0
       },
+      "stringParam": "",
+      "triggerFlag": "DeadRegion",
       "unlocked": true,
-      "specialTipsIconPath": "",
-      "size": {
-        "x": 10.0,
-        "y": 20.0,
-        "z": 60.0
-      }
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "20": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 475.0,
+        "y": -62.58046,
+        "z": 98.2
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 30.0,
+        "length": 250.0,
+        "useHeight": true,
+        "width": 200.0
+      },
+      "stringParam": "",
+      "triggerFlag": "NoReviveRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "21": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 426.4317,
+        "y": -33.63243,
+        "z": 103.3657
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 20.0,
+        "length": 20.0,
+        "useHeight": true,
+        "width": 15.0
+      },
+      "stringParam": "",
+      "triggerFlag": "DeadRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "22": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "checkDist": 500.0,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 523.1021,
+        "y": -55.49594,
+        "z": 150.2527
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 50.0,
+        "length": 100.0,
+        "useHeight": true,
+        "width": 40.0
+      },
+      "stringParam": "",
+      "triggerFlag": "NoReviveRegion",
+      "unlocked": true,
+      "withGO": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "23": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "checkCount": 20,
+      "checkDist": 500.0,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 146.4739,
+        "y": -64.45686,
+        "z": 33.25624
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 50.0,
+        "length": 100.0,
+        "useHeight": true,
+        "width": 400.0
+      },
+      "stringParam": "",
+      "triggerFlag": "NoReviveRegion",
+      "unlocked": true,
+      "withGO": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "24": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "checkCount": 40,
+      "checkDist": 500.0,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 77.50123,
+        "y": -35.46569,
+        "z": 33.52937
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 40.0,
+        "length": 100.0,
+        "useHeight": true,
+        "width": 60.0
+      },
+      "stringParam": "",
+      "triggerFlag": "NoReviveRegion",
+      "unlocked": true,
+      "withGO": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "25": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 403.2243,
+        "y": 0.7193351,
+        "z": 122.4146
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 20.0,
+        "length": 200.0,
+        "useHeight": true,
+        "width": 50.0
+      },
+      "stringParam": "",
+      "triggerFlag": "NoReviveRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "26": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "checkDist": 500.0,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 526.6456,
+        "y": -42.06021,
+        "z": 222.7013
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 50.0,
+        "length": 100.0,
+        "useHeight": true,
+        "width": 40.0
+      },
+      "stringParam": "",
+      "triggerFlag": "NoReviveRegion",
+      "unlocked": true,
+      "withGO": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "27": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "checkDist": 500.0,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 527.4599,
+        "y": -44.37101,
+        "z": 238.8669
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 50.0,
+        "length": 100.0,
+        "useHeight": true,
+        "width": 40.0
+      },
+      "stringParam": "",
+      "triggerFlag": "NoReviveRegion",
+      "unlocked": true,
+      "withGO": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "28": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 509.8993,
+        "y": -45.33754,
+        "z": 66.34442
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 12.0,
+        "length": 20.0,
+        "useHeight": true,
+        "width": 20.0
+      },
+      "stringParam": "",
+      "triggerFlag": "NoReviveRegion",
+      "unlocked": true,
+      "withGO": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "29": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 452.6801,
+        "y": -10.46075,
+        "z": 88.87325
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 20.0,
+        "length": 20.0,
+        "useHeight": true,
+        "width": 30.0
+      },
+      "stringParam": "",
+      "triggerFlag": "DeadRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "3": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 417.88,
+        "y": -34.48327,
+        "z": 2.0
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 40.0,
+        "length": 30.0,
+        "useHeight": true,
+        "width": 30.0
+      },
+      "stringParam": "",
+      "triggerFlag": "DeadRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "30": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 486.9746,
+        "y": -10.78851,
+        "z": 94.00259
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 20.0,
+        "length": 18.0,
+        "useHeight": true,
+        "width": 40.0
+      },
+      "stringParam": "",
+      "triggerFlag": "DeadRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
     },
     "4": {
-      "$type": "LJLGJMBBHMK",
-      "gadgetId": 70120003,
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
       "pos": {
-        "x": 542.2744140625,
-        "y": -7.936748027801514,
-        "z": 197.51690673828125
+        "x": 225.9,
+        "y": -81.4,
+        "z": 26.52288
       },
-      "rot": {
-        "y": 269.4330139160156
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 50.0,
+        "length": 200.0,
+        "useHeight": true,
+        "width": 300.0
       },
+      "stringParam": "",
+      "triggerFlag": "DeadRegion",
       "unlocked": true,
-      "specialTipsIconPath": "",
-      "size": {
-        "x": 30.0,
-        "y": 40.0,
-        "z": 20.0
-      }
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
     },
     "5": {
-      "$type": "LJLGJMBBHMK",
-      "gadgetId": 70120003,
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
       "pos": {
-        "x": 481.5527038574219,
-        "y": -20.033470153808594,
-        "z": 55.01227951049805
+        "x": -11.0,
+        "y": -35.2,
+        "z": 99.55
       },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 40.0,
+        "length": 200.0,
+        "useHeight": true,
+        "width": 150.0
+      },
+      "stringParam": "",
+      "triggerFlag": "DeadRegion",
       "unlocked": true,
-      "specialTipsIconPath": "",
-      "size": {
-        "x": 5.0,
-        "y": 10.0,
-        "z": 55.0
-      }
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "6": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 54.9,
+        "y": 16.1,
+        "z": 119.6
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 40.0,
+        "length": 50.0,
+        "useHeight": true,
+        "width": 20.0
+      },
+      "stringParam": "",
+      "triggerFlag": "DeadRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "7": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 221.8,
+        "y": -33.7884,
+        "z": 140.5
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 150.0,
+        "length": 50.0,
+        "useHeight": true,
+        "width": 300.0
+      },
+      "stringParam": "",
+      "triggerFlag": "DeadRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "8": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 212.5,
+        "y": -33.97552,
+        "z": -83.9
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 150.0,
+        "length": 50.0,
+        "useHeight": true,
+        "width": 300.0
+      },
+      "stringParam": "",
+      "triggerFlag": "DeadRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
+    },
+    "9": {
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 450.4,
+        "y": -23.5,
+        "z": 199.6
+      },
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "centerType": "Center",
+        "height": 100.0,
+        "length": 100.0,
+        "useHeight": true,
+        "width": 100.0
+      },
+      "stringParam": "",
+      "triggerFlag": "DeadRegion",
+      "unlocked": true,
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
     }
   },
   "forces": {
     "1": {
-      "$type": "OPKHNLFEDAG",
+      "$type": "ConfigAirflowField",
+      "alias": "",
+      "colliderName": "",
+      "enterEffect": "Eff_Windfield_Enter",
       "gadgetId": 70610102,
       "pos": {
-        "x": 426.81048583984375,
-        "y": -48.35232925415039,
-        "z": 121.38839721679688
+        "x": 426.8105,
+        "y": -48.35233,
+        "z": 121.3884
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "velocity": 6.0,
       "stayEffect": "Eff_Windfield_Stay",
-      "enterEffect": "Eff_Windfield_Enter"
+      "unlocked": true,
+      "velocity": 6.0
     }
   },
-  "entities": {
+  "points": {
     "1": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
+      "$type": "DungeonQuitPoint",
+      "alias": "",
+      "gadgetId": 70120004,
       "pos": {
-        "x": 400.1199951171875,
-        "y": 4.300000190734863,
-        "z": 120.7844009399414
+        "x": 533.6986,
+        "y": -1.983691,
+        "z": 257.1354
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "ReturnRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 20.0,
-        "centerType": "Center",
-        "width": 30.0,
-        "length": 30.0
+      "size": {
+        "x": 3.0,
+        "y": 3.0,
+        "z": 3.0
       },
-      "floatParam": 15.0,
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "10": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 592.0999755859375,
-        "y": -38.08340835571289,
-        "z": 87.9000015258789
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 200.0,
-        "centerType": "Center",
-        "width": 50.0,
-        "length": 400.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "11": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 481.01568603515625,
-        "y": -38.083518981933594,
-        "z": -155.8798065185547
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 200.0,
-        "centerType": "Center",
-        "width": 50.0,
-        "length": 400.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "12": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 529.0883178710938,
-        "y": -37.79999923706055,
-        "z": 97.47881317138672
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "ReturnRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 20.0,
-        "centerType": "Center",
-        "width": 50.0,
-        "length": 15.0
-      },
-      "floatParam": 15.0,
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "13": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 425.29998779296875,
-        "y": -6.900000095367432,
-        "z": 108.46479797363281
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "ReturnRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 50.0,
-        "centerType": "Center",
-        "width": 15.0,
-        "length": 10.0
-      },
-      "floatParam": 15.0,
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "14": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 427.1799011230469,
-        "y": -9.283441543579102,
-        "z": 135.75010681152344
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "ReturnRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 50.0,
-        "centerType": "Center",
-        "width": 20.0,
-        "length": 10.0
-      },
-      "floatParam": 15.0,
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "15": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 424.5596923828125,
-        "y": -38.20000076293945,
-        "z": 92.38558959960938
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "ReturnRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 30.0,
-        "centerType": "Center",
-        "width": 22.0,
-        "length": 22.0
-      },
-      "floatParam": 15.0,
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "16": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 391.76409912109375,
-        "y": -37.900001525878906,
-        "z": 94.32626342773438
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 30.0,
-        "centerType": "Center",
-        "width": 15.0,
-        "length": 25.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "17": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 550.8613891601562,
-        "y": -43.54999923706055,
-        "z": 18.84943962097168
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "ReturnRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 50.0,
-        "centerType": "Center",
-        "width": 30.0,
-        "length": 10.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "18": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 425.5,
-        "y": -35.93645095825195,
-        "z": 123.67310333251953
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 20.0,
-        "centerType": "Center",
-        "width": 15.0,
-        "length": 40.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "19": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 477.5205993652344,
-        "y": -30.799999237060547,
-        "z": 94.25314331054688
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 20.0,
-        "centerType": "Center",
-        "width": 30.0,
-        "length": 20.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
+      "unlocked": true
     },
     "2": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70120003,
       "pos": {
-        "x": 474.5,
-        "y": -58.72671890258789,
-        "z": 98.19999694824219
+        "x": 456.4469,
+        "y": -9.649044,
+        "z": 110.3482
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 20.0,
-        "centerType": "Center",
-        "width": 200.0,
-        "length": 250.0
+      "rot": {
+        "y": 359.5006
       },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "20": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 475.0,
-        "y": -62.58045959472656,
-        "z": 98.19999694824219
+      "size": {
+        "x": 10.0,
+        "y": 20.0,
+        "z": 60.0
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "NoReviveRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 30.0,
-        "centerType": "Center",
-        "width": 200.0,
-        "length": 250.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "21": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 426.43170166015625,
-        "y": -33.63243103027344,
-        "z": 103.3656997680664
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 20.0,
-        "centerType": "Center",
-        "width": 15.0,
-        "length": 20.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "22": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 523.1021118164062,
-        "y": -55.495941162109375,
-        "z": 150.25270080566406
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "checkDist": 500.0,
-      "withGO": true,
-      "triggerFlag": "NoReviveRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 50.0,
-        "centerType": "Center",
-        "width": 40.0,
-        "length": 100.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "23": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 146.47390747070312,
-        "y": -64.45686340332031,
-        "z": 33.25624084472656
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "checkDist": 500.0,
-      "withGO": true,
-      "triggerFlag": "NoReviveRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 50.0,
-        "centerType": "Center",
-        "width": 400.0,
-        "length": 100.0
-      },
-      "checkCount": 20,
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "24": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 77.50122833251953,
-        "y": -35.46569061279297,
-        "z": 33.52936935424805
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "checkDist": 500.0,
-      "withGO": true,
-      "triggerFlag": "NoReviveRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 40.0,
-        "centerType": "Center",
-        "width": 60.0,
-        "length": 100.0
-      },
-      "checkCount": 40,
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "25": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 403.22430419921875,
-        "y": 0.7193350791931152,
-        "z": 122.41459655761719
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "NoReviveRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 20.0,
-        "centerType": "Center",
-        "width": 50.0,
-        "length": 200.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "26": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 526.6456298828125,
-        "y": -42.060211181640625,
-        "z": 222.7012939453125
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "checkDist": 500.0,
-      "withGO": true,
-      "triggerFlag": "NoReviveRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 50.0,
-        "centerType": "Center",
-        "width": 40.0,
-        "length": 100.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "27": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 527.4598999023438,
-        "y": -44.371009826660156,
-        "z": 238.8668975830078
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "checkDist": 500.0,
-      "withGO": true,
-      "triggerFlag": "NoReviveRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 50.0,
-        "centerType": "Center",
-        "width": 40.0,
-        "length": 100.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "28": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 509.8992919921875,
-        "y": -45.33753967285156,
-        "z": 66.34442138671875
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "withGO": true,
-      "triggerFlag": "NoReviveRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 12.0,
-        "centerType": "Center",
-        "width": 20.0,
-        "length": 20.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "29": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 452.68011474609375,
-        "y": -10.460749626159668,
-        "z": 88.87325286865234
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 20.0,
-        "centerType": "Center",
-        "width": 30.0,
-        "length": 20.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "3": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 417.8800048828125,
-        "y": -34.48326873779297,
-        "z": 2.0
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 40.0,
-        "centerType": "Center",
-        "width": 30.0,
-        "length": 30.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "30": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 486.974609375,
-        "y": -10.7885103225708,
-        "z": 94.0025863647461
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 20.0,
-        "centerType": "Center",
-        "width": 40.0,
-        "length": 18.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
+      "unlocked": true
     },
     "4": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70120003,
       "pos": {
-        "x": 225.89999389648438,
-        "y": -81.4000015258789,
-        "z": 26.52288055419922
+        "x": 542.2744,
+        "y": -7.936748,
+        "z": 197.5169
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 50.0,
-        "centerType": "Center",
-        "width": 300.0,
-        "length": 200.0
+      "rot": {
+        "y": 269.433
       },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
+      "size": {
+        "x": 30.0,
+        "y": 40.0,
+        "z": 20.0
+      },
+      "unlocked": true
     },
     "5": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70120003,
       "pos": {
-        "x": -11.0,
-        "y": -35.20000076293945,
-        "z": 99.55000305175781
+        "x": 481.5527,
+        "y": -20.03347,
+        "z": 55.01228
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 40.0,
-        "centerType": "Center",
-        "width": 150.0,
-        "length": 200.0
+      "size": {
+        "x": 5.0,
+        "y": 10.0,
+        "z": 55.0
       },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "6": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 54.900001525878906,
-        "y": 16.100000381469727,
-        "z": 119.5999984741211
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 40.0,
-        "centerType": "Center",
-        "width": 20.0,
-        "length": 50.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "7": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 221.8000030517578,
-        "y": -33.78839874267578,
-        "z": 140.5
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 150.0,
-        "centerType": "Center",
-        "width": 300.0,
-        "length": 50.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "8": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 212.5,
-        "y": -33.975521087646484,
-        "z": -83.9000015258789
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 150.0,
-        "centerType": "Center",
-        "width": 300.0,
-        "length": 50.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
-    },
-    "9": {
-      "$type": "BDLEMCBKPLI",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": 450.3999938964844,
-        "y": -23.5,
-        "z": 199.60000610351562
-      },
-      "unlocked": true,
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
-      "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
-        "height": 100.0,
-        "centerType": "Center",
-        "width": 100.0,
-        "length": 100.0
-      },
-      "stringParam": "",
-      "BFKCMEDCIIM": {}
+      "unlocked": true
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

@@ -1,106 +1,110 @@
 {
-   
   "entities": {
     "1": {
-      "$type": "BDLEMCBKPLI",
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
       "gadgetId": 70010006,
       "pos": {
-        "x": 48.425559997558594,
-        "y": 170.822998046875,
-        "z": -83.4934310913086
+        "x": 48.42556,
+        "y": 170.823,
+        "z": -83.49343
       },
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
       "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
+        "$type": "ConfigShapeRect",
         "height": 40.0,
-        "width": 70.0,
-        "length": 70.0
+        "length": 70.0,
+        "useHeight": true,
+        "width": 70.0
       },
       "stringParam": "",
-      "BFKCMEDCIIM": {}
+      "triggerFlag": "DeadRegion",
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
     },
     "2": {
-      "$type": "BDLEMCBKPLI",
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
       "gadgetId": 70010006,
       "pos": {
-        "x": -2.8228039741516113,
-        "y": 143.5063018798828,
-        "z": -72.85475158691406
+        "x": -2.822804,
+        "y": 143.5063,
+        "z": -72.85475
       },
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
       "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
+        "$type": "ConfigShapeRect",
         "height": 40.0,
-        "width": 70.0,
-        "length": 70.0
+        "length": 70.0,
+        "useHeight": true,
+        "width": 70.0
       },
       "stringParam": "",
-      "BFKCMEDCIIM": {}
+      "triggerFlag": "DeadRegion",
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
     },
     "3": {
-      "$type": "BDLEMCBKPLI",
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
       "gadgetId": 70010006,
       "pos": {
-        "x": -59.720760345458984,
-        "y": 109.7522964477539,
-        "z": -111.88610076904297
+        "x": -59.72076,
+        "y": 109.7523,
+        "z": -111.8861
       },
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
       "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
+        "$type": "ConfigShapeRect",
         "height": 40.0,
-        "width": 70.0,
-        "length": 70.0
+        "length": 70.0,
+        "useHeight": true,
+        "width": 70.0
       },
       "stringParam": "",
-      "BFKCMEDCIIM": {}
+      "triggerFlag": "DeadRegion",
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
     },
     "4": {
-      "$type": "BDLEMCBKPLI",
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
       "gadgetId": 70010006,
       "pos": {
-        "x": -53.331329345703125,
-        "y": 81.70220184326172,
-        "z": -63.837440490722656
+        "x": -53.33133,
+        "y": 81.7022,
+        "z": -63.83744
       },
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
       "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
+        "$type": "ConfigShapeRect",
         "height": 40.0,
-        "width": 70.0,
-        "length": 70.0
+        "length": 70.0,
+        "useHeight": true,
+        "width": 70.0
       },
       "stringParam": "",
-      "BFKCMEDCIIM": {}
+      "triggerFlag": "DeadRegion",
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
     },
     "5": {
-      "$type": "BDLEMCBKPLI",
+      "$type": "ConfigLocalTrigger",
+      "alias": "",
       "gadgetId": 70010006,
       "pos": {
-        "x": -74.55491638183594,
-        "y": 53.603031158447266,
-        "z": -9.098915100097656
+        "x": -74.55492,
+        "y": 53.60303,
+        "z": -9.098915
       },
-      "specialTipsIconPath": "",
-      "triggerFlag": "DeadRegion",
       "shape": {
-        "$type": "IALGLFDCLKF",
-        "useHeight": true,
+        "$type": "ConfigShapeRect",
         "height": 40.0,
-        "width": 70.0,
-        "length": 70.0
+        "length": 70.0,
+        "useHeight": true,
+        "width": 70.0
       },
       "stringParam": "",
-      "BFKCMEDCIIM": {}
+      "triggerFlag": "DeadRegion",
+      "GMDLOANJOIO": {},
+      "IMBCGNFNFMC": {}
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

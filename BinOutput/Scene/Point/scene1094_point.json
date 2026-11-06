@@ -1,36 +1,35 @@
 {
-   
   "points": {
     "1": {
       "$type": "PersonalSceneJumpPoint",
+      "alias": "",
+      "closeTime": 24.0,
       "gadgetId": 70010006,
       "pos": {
-        "x": 18.105180740356445,
-        "y": 0.19098280370235443,
-        "z": 0.005928307771682739
+        "x": 18.10518,
+        "y": 0.1909828,
+        "z": 0.005928308
       },
       "rot": {
-        "y": 88.6156234741211
+        "y": 88.61562
       },
+      "titleTextID": "UI_DUNGEON_EXIT",
       "tranPos": {
-        "x": 2525.60009765625,
-        "y": 469.70001220703125,
-        "z": 4805.10009765625
+        "x": 2525.6,
+        "y": 469.7,
+        "z": 4805.1
       },
       "tranRot": {
         "y": 180.0
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
       "tranSceneId": 3,
-      "titleTextID": "UI_DUNGEON_EXIT",
       "triggerSize": {
         "x": 3.0,
         "y": 5.0,
         "z": 3.0
       },
-      "closeTime": 24.0
+      "unlocked": true
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

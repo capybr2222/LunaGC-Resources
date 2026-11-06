@@ -1,31 +1,227 @@
 {
-  "transRadius": 939,
   "points": {
     "1": {
       "$type": "DungeonWayPoint",
-      "tranPos": {
-        "x": 790.588134765625,
-        "y": -488.3103942871094,
-        "z": 355.8229675292969
+      "alias": "",
+      "gadgetId": 70010006,
+      "isActive": true,
+      "pos": {
+        "x": 789.6737,
+        "y": -488.3103,
+        "z": 355.9337
       },
       "rot": {
-        "y": 270
+        "y": 270.0
       },
       "size": {
-        "x": 10,
-        "y": 10,
-        "z": 10
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
       },
-      "pos": {
-        "x": 790.5880737304688,
-        "y": -488.3103942871094,
-        "z": 355.822998046875
+      "tranPos": {
+        "x": 789.6737,
+        "y": -488.3103,
+        "z": 355.9337
       },
-      "isActive": true,
-      "gadgetId": 70010006,
       "tranRot": {
-        "y": 270
+        "y": 270.0
+      }
+    },
+    "10": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 375.2683,
+        "y": 203.5125,
+        "z": 595.4061
+      },
+      "rot": {
+        "y": 147.21
+      },
+      "tranPos": {
+        "x": 375.2683,
+        "y": 203.5125,
+        "z": 595.4061
+      }
+    },
+    "2": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 725.6238,
+        "y": -451.967,
+        "z": 355.7217
+      },
+      "rot": {
+        "y": 270.0
+      },
+      "tranPos": {
+        "x": 725.6238,
+        "y": -451.967,
+        "z": 355.7217
+      },
+      "tranRot": {
+        "y": 270.0
+      }
+    },
+    "3": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 663.7753,
+        "y": -443.5995,
+        "z": 359.3552
+      },
+      "rot": {
+        "y": 270.0
+      },
+      "tranPos": {
+        "x": 663.7753,
+        "y": -443.5995,
+        "z": 359.3552
+      },
+      "tranRot": {
+        "y": 270.0
+      }
+    },
+    "4": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 591.22,
+        "y": -387.5811,
+        "z": 358.66
+      },
+      "rot": {
+        "y": 90.0
+      },
+      "tranPos": {
+        "x": 591.22,
+        "y": -387.5811,
+        "z": 358.66
+      },
+      "tranRot": {
+        "y": 90.0
+      }
+    },
+    "5": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 698.181,
+        "y": -334.5219,
+        "z": 357.1856
+      },
+      "rot": {
+        "y": 90.0
+      },
+      "tranPos": {
+        "x": 698.181,
+        "y": -334.5219,
+        "z": 357.1856
+      },
+      "tranRot": {
+        "y": 90.0
+      }
+    },
+    "6": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 687.7307,
+        "y": -288.8824,
+        "z": 360.0748
+      },
+      "rot": {
+        "y": 270.0
+      },
+      "tranPos": {
+        "x": 687.7307,
+        "y": -288.8824,
+        "z": 360.0748
+      },
+      "tranRot": {
+        "y": 270.0
+      }
+    },
+    "7": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 569.4688,
+        "y": -249.2232,
+        "z": 360.8164
+      },
+      "rot": {
+        "y": 270.0
+      },
+      "tranPos": {
+        "x": 569.4688,
+        "y": -249.2232,
+        "z": 360.8164
+      },
+      "tranRot": {
+        "y": 270.0
+      }
+    },
+    "8": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 522.2278,
+        "y": -217.4734,
+        "z": 358.8362
+      },
+      "rot": {
+        "y": 90.0
+      },
+      "tranPos": {
+        "x": 522.2278,
+        "y": -217.4734,
+        "z": 358.8362
+      },
+      "tranRot": {
+        "y": 90.0
+      }
+    },
+    "9": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 677.85,
+        "y": -192.0779,
+        "z": 358.95
+      },
+      "rot": {
+        "y": 90.0
+      },
+      "tranPos": {
+        "x": 677.85,
+        "y": -192.0779,
+        "z": 358.95
+      },
+      "tranRot": {
+        "y": 90.0
       }
     }
-  }
+  },
+  "IFNMLHIOCPN": {}
 }

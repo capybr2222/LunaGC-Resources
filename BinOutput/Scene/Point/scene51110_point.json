@@ -1,78 +1,48 @@
 {
-  "transRadius": 443,
   "entities": {
     "1": {
       "$type": "ConfigLocalTrigger",
-      "tranPos": {
-        "x": 155.60647583007812,
-        "y": 89.0999984741211,
-        "z": 239.3573455810547
-      },
-      "BGFOMEICHKD": {
-        "IODECABNFJE": {
-          "data": {
-            "$type": "OLLIOPGKPNF",
-            "followOffset": {
-              "y": 2,
-              "z": -14
-            },
-            "JDMKGHODCFB": true,
-            "fov": 45,
-            "MBGGMEAMJJG": true
-          },
-          "IHABMLMDAAA": {
-            "blendType": 1,
-            "duHPRation": 1,
-            "NAOIPIIJHAJ": 4
-          },
-          "INNHIHCHECG": {
-            "blendType": 1,
-            "duHPRation": 1,
-            "NAOIPIIJHAJ": 4
-          }
-        }
-      },
-      "pos": {
-        "x": 155.60650634765625,
-        "y": 92.33518981933594,
-        "z": 240.78439331054688
-      },
+      "alias": "",
       "gadgetId": 70010006,
-      "checkDist": 100,
-      "IODECABNFJE": {
-        "data": {
-          "$type": "OLLIOPGKPNF",
-          "followOffset": {
-            "y": 2,
-            "z": -14
-          },
-          "JDMKGHODCFB": true,
-          "fov": 45,
-          "MBGGMEAMJJG": true
-        },
-        "IHABMLMDAAA": {
-          "blendType": 1,
-          "duHPRation": 1,
-          "NAOIPIIJHAJ": 4
-        },
-        "INNHIHCHECG": {
-          "blendType": 1,
-          "duHPRation": 1,
-          "NAOIPIIJHAJ": 4
-        }
+      "pos": {
+        "x": 155.6065,
+        "y": 92.33519,
+        "z": 240.7844
       },
       "shape": {
         "$type": "ConfigShapeRect",
-        "length": 48,
-        "CMLHPPDJBKA": "Center",
-        "useHeight": true,
-        "height": 18,
         "centerType": "Center",
-        "width": 18
+        "height": 18.0,
+        "length": 48.0,
+        "useHeight": true,
+        "width": 18.0
       },
+      "stringParam": "",
       "tag": 511100001,
+      "tranPos": {
+        "x": 155.60648,
+        "y": 89.1,
+        "z": 239.35735
+      },
       "triggerFlag": "LevelCamera",
-      "triggerInterval": 0.10000000149011612
+      "IMBCGNFNFMC": {},
+      "GMDLOANJOIO": {
+        "EODHGNLOIKK": {
+          "BLKFBLLDEEP": 1
+        },
+        "KLKOBMCOFIG": {
+          "BLKFBLLDEEP": 1
+        },
+        "ANKGFBIOPID": {
+          "$type": "KMCCCDGPPKC",
+          "followOffset": {
+            "y": 2.0,
+            "z": -14.0
+          },
+          "OPFBJBLFPLE": true
+        }
+      }
     }
-  }
+  },
+  "IFNMLHIOCPN": {}
 }

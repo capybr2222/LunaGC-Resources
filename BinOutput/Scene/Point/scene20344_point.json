@@ -1,74 +1,37 @@
 {
   "points": {
     "1": {
-      "$type": "BIDKGIAOIJE",
-      "DKKNIBFMMBA": [],
-      "FOCEDOLNOLG": [],
-      "HHKLHDILHPA": "UI_STC_Intee_DungeonEntry",
-      "PNDHKDEKAMO": "UI_Icon_Intee_Talk",
-      "PMLKAGFDCEH": [
+      "$type": "DungeonEntry",
+      "alias": "",
+      "dungeonEntryType": "DirectEnter",
+      "dungeonIds": [
         1314
       ],
-      "DFIBMCDHNPG": {
-        "DIEABDEAJDL": [],
-        "NDDAKAMKKDO": 0
-      },
-      "JANMABHPMDC": [],
-      "JAOENGDJKDM": 0,
-      "MNCDKFFPMFJ": "Normal",
-      "IHIOCMFBLDO": false,
-      "ALMFJFEECNN": true,
-      "EMMOAAHLNGE": true,
-      "FOEOMOGLJBK": 0,
-      "HKPINJIKLFI": "DirectEnter",
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MGLHJOFMLGE": 1,
-      "FOPHEKONPDL": [],
-      "ELAKJDAMAEE": [],
-      "APCOJDMLHDK": "",
-      "JOBLDEIGNMB": false,
-      "IBCKFIMNBII": false,
-      "HIIJCKFLHOM": false,
-      "ECAEPBGHOLB": false,
-      "OODJBPMDFDD": 0,
-      "MJNAILKLGHG": 0,
-      "KLPEPPCJMFF": "Normal",
-      "KEBLKNBFKKA": 1,
-      "FLLJPPMDODA": 0,
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 90,
-        "z": 0
-      },
+      "dungeonQuestConditionList": {},
+      "forbidSimpleUnlock": true,
+      "gadgetId": 70360001,
+      "inteeIcon": "UI_Icon_Intee_Talk",
+      "portalShape": "",
       "pos": {
         "x": 502.3366,
         "y": 79.19199,
         "z": 501.1022
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": true,
-      "NIGJGLDEKAD": false,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
+      "removeEntityIfLocked": true,
+      "rot": {
+        "y": 90.0
+      },
+      "titleTextID": "UI_STC_Intee_DungeonEntry",
       "tranPos": {
         "x": 502.3366,
         "y": 79.19199,
         "z": 501.1022
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70360001,
-      "rot": {
-        "x": 0,
-        "y": 90,
-        "z": 0
-      }
+      "tranRot": {
+        "y": 90.0
+      },
+      "HAGBOCBPNHN": true
     }
-  }
+  },
+  "IFNMLHIOCPN": {}
 }

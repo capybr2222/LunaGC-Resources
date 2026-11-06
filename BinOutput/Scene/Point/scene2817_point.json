@@ -1,28 +1,29 @@
 {
-  "transRadius": 760,
   "points": {
     "1": {
       "$type": "SceneBuildingPoint",
-      "tranPos": {
-        "x": 500.7157897949219,
-        "y": 512.7999877929688,
-        "z": 529.1591186523438
+      "alias": "",
+      "buildingType": "BeyondHallCrystal",
+      "gadgetId": 77401800,
+      "pos": {
+        "x": 504.36,
+        "y": 513.0,
+        "z": 529.53
       },
       "rot": {
-        "y": 273.1000061035156
+        "y": 273.1
       },
-      "pos": {
-        "x": 504.3599853515625,
-        "y": 513,
-        "z": 529.530029296875
+      "showOnLockedArea": true,
+      "tranPos": {
+        "x": 500.7158,
+        "y": 512.8,
+        "z": 529.1591
       },
-      "gadgetId": 77401800,
       "tranRot": {
-        "y": 85
+        "y": 85.0
       },
-      "buildingType": "BeyondHallCrystal",
-      "unlocked": true,
-      "showOnLockedArea": true
+      "unlocked": true
     }
-  }
+  },
+  "IFNMLHIOCPN": {}
 }

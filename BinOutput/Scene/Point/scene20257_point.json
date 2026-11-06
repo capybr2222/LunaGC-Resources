@@ -1,107 +1,64 @@
 {
   "points": {
     "1": {
-      "$type": "BIDKGIAOIJE",
-      "DKKNIBFMMBA": [],
-      "FOCEDOLNOLG": [],
-      "HHKLHDILHPA": "UI_STC_Intee_DungeonEntry",
-      "PNDHKDEKAMO": "UI_Icon_Intee_Talk",
-      "PMLKAGFDCEH": [
+      "$type": "DungeonEntry",
+      "alias": "",
+      "disableInteraction": true,
+      "dungeonEntryType": "DirectEnter",
+      "dungeonIds": [
         1242
       ],
-      "DFIBMCDHNPG": {
-        "DIEABDEAJDL": [],
-        "NDDAKAMKKDO": 0
-      },
-      "JANMABHPMDC": [],
-      "JAOENGDJKDM": 0,
-      "MNCDKFFPMFJ": "Normal",
-      "IHIOCMFBLDO": false,
-      "ALMFJFEECNN": true,
-      "EMMOAAHLNGE": false,
-      "FOEOMOGLJBK": 0,
-      "HKPINJIKLFI": "DirectEnter",
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MGLHJOFMLGE": 1,
-      "FOPHEKONPDL": [],
-      "ELAKJDAMAEE": [],
-      "APCOJDMLHDK": "",
-      "JOBLDEIGNMB": true,
-      "IBCKFIMNBII": false,
-      "HIIJCKFLHOM": false,
-      "ECAEPBGHOLB": false,
-      "OODJBPMDFDD": 0,
-      "MJNAILKLGHG": 0,
-      "KLPEPPCJMFF": "Never",
-      "KEBLKNBFKKA": 1,
-      "FLLJPPMDODA": 0,
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
+      "dungeonQuestConditionList": {},
+      "gadgetId": 70360286,
+      "inteeIcon": "UI_Icon_Intee_Talk",
+      "isModelHidden": true,
+      "mapVisibility": "Never",
+      "portalShape": "",
       "pos": {
-        "x": -1486.0118,
-        "y": 55.4667,
-        "z": 62.935234
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": true,
-      "MPPBCFKHGHA": true,
-      "NIGJGLDEKAD": false,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
         "x": -1486.012,
         "y": 55.4667,
         "z": 62.93523
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70360286,
-      "rot": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
+      "removeEntityIfLocked": true,
+      "titleTextID": "UI_STC_Intee_DungeonEntry",
+      "tranPos": {
+        "x": -1486.0118,
+        "y": 55.4667,
+        "z": 62.935234
+      },
+      "HAGBOCBPNHN": true
     },
     "2": {
-      "$type": "EJKBNAAJDEP",
-      "DOGKCBHGFAG": 1,
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
+      "$type": "DungeonExit",
+      "alias": "",
+      "entryPointId": 1,
+      "gadgetId": 70360286,
       "pos": {
-        "x": -1484.6902,
-        "y": 55.466675,
-        "z": 71.89261
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": false,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
         "x": -1484.69,
         "y": 55.46667,
         "z": 71.89261
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70360286,
-      "rot": {
-        "x": 0,
-        "y": 0,
-        "z": 0
+      "tranPos": {
+        "x": -1484.6902,
+        "y": 55.466675,
+        "z": 71.89261
+      }
+    }
+  },
+  "IFNMLHIOCPN": {},
+  "KNLKKGHCCAP": {
+    "1": {
+      "GMEJBDCFCCE": 8,
+      "KEECKPCHNOB": 8,
+      "CIKEKCJCGIP": {
+        "x": 81.37857,
+        "y": 77.57,
+        "z": 42.08038
+      },
+      "OOECCDNIOEG": {
+        "x": 121.43408,
+        "y": 77.57,
+        "z": 82.13012
       }
     }
   }

@@ -1,26 +1,25 @@
 {
-   
   "points": {
     "1": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "effectiveType": "Mirror",
       "gadgetId": 70010006,
+      "isActive": true,
       "pos": {
-        "x": 0.14282269775867462,
-        "y": 2.4690089225769043,
-        "z": 77.79387664794922
+        "x": 0.1428227,
+        "y": 2.469009,
+        "z": 77.79388
       },
       "rot": {
-        "y": 182.3188934326172
+        "y": 182.3189
       },
       "tranPos": {
-        "x": 0.1898282766342163,
-        "y": 20.38239288330078,
-        "z": 115.59132385253906
-      },
-      "specialTipsIconPath": "",
-      "isActive": true,
-      "effectiveType": "Mirror"
+        "x": 0.18982828,
+        "y": 20.382393,
+        "z": 115.591324
+      }
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

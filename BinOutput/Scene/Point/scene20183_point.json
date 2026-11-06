@@ -1,69 +1,68 @@
 {
-   
   "points": {
     "1": {
-      "$type": "GNIDNEBEJFH",
+      "$type": "DungeonQuitPoint",
+      "alias": "",
       "gadgetId": 70120004,
       "pos": {
-        "x": 386.3432922363281,
-        "z": 485.8216857910156
+        "x": 386.3433,
+        "z": 485.8217
       },
-      "tranPos": {
-        "x": -12.762228965759277,
-        "y": 2.299999952316284,
-        "z": 61.640995025634766
-      },
-      "specialTipsIconPath": "",
       "size": {
         "x": 5.0,
         "y": 5.0,
         "z": 5.0
+      },
+      "tranPos": {
+        "x": -12.762229,
+        "y": 2.3,
+        "z": 61.640995
       }
     },
     "2": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
       "pos": {
-        "x": 460.7903137207031,
-        "y": 24.880979537963867,
-        "z": 487.4862976074219
+        "x": 460.7903,
+        "y": 24.88098,
+        "z": 487.4863
       },
       "rot": {
         "y": 270.0
       },
       "tranPos": {
-        "x": 460.7903137207031,
-        "y": 24.880979537963867,
-        "z": 487.4862976074219
+        "x": 460.7903,
+        "y": 24.88098,
+        "z": 487.4863
       },
       "tranRot": {
         "y": 270.0
-      },
-      "specialTipsIconPath": "",
-      "disableClientTrigger": true
+      }
     },
     "3": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
       "gadgetId": 70010006,
       "pos": {
-        "x": 403.4299011230469,
-        "y": 41.856971740722656,
-        "z": 487.273193359375
+        "x": 403.4299,
+        "y": 41.85697,
+        "z": 487.2732
       },
       "rot": {
         "y": 90.0
       },
       "tranPos": {
-        "x": 403.4299011230469,
-        "y": 41.856971740722656,
-        "z": 487.273193359375
+        "x": 403.4299,
+        "y": 41.85697,
+        "z": 487.2732
       },
       "tranRot": {
         "y": 90.0
-      },
-      "specialTipsIconPath": "",
-      "disableClientTrigger": true
+      }
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

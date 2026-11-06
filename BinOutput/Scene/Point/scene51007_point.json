@@ -2,28 +2,28 @@
   "points": {
     "1": {
       "$type": "DungeonEntry",
-      "gadgetId": 70010006,
-      "pos": {
-        "x": -384.23150634765625,
-        "y": 281.9289855957031,
-        "z": 2843.68994140625
-      },
-      "tranPos": {
-        "x": -384.2315368652344,
-        "y": 281.928955078125,
-        "z": 2843.6904296875
-      },
-      "specialTipsIconPath": "",
-      "mapVisibility": "Never",
-      "portalShape": "",
+      "alias": "",
       "dungeonIds": [
         1162
       ],
       "dungeonQuestConditionList": {},
-      "titleTextID": "UI_STC_Intee_DungeonEntry",
+      "gadgetId": 70010006,
       "inteeIcon": "UI_Icon_Intee_Talk",
-      "removeEntityIfLocked": true
+      "mapVisibility": "Never",
+      "portalShape": "",
+      "pos": {
+        "x": -384.2315,
+        "y": 281.929,
+        "z": 2843.69
+      },
+      "removeEntityIfLocked": true,
+      "titleTextID": "UI_STC_Intee_DungeonEntry",
+      "tranPos": {
+        "x": -384.23154,
+        "y": 281.92896,
+        "z": 2843.6904
+      }
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

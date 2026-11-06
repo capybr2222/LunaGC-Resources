@@ -1,72 +1,71 @@
 {
-   
   "points": {
     "1": {
       "$type": "PersonalSceneJumpPoint",
+      "alias": "",
+      "closeTime": 24.0,
       "gadgetId": 70010002,
       "pos": {
-        "x": 42.79759979248047,
-        "y": -0.2515718936920166,
-        "z": 23.621349334716797
+        "x": 42.7976,
+        "y": -0.2515719,
+        "z": 23.62135
       },
       "rot": {
-        "y": 269.3599853515625
+        "y": 269.36
       },
+      "titleTextID": "UI_SCENE_ENTRY_EXIT_NatlanHotel",
       "tranPos": {
-        "x": -1897.68798828125,
-        "y": 54.26900100708008,
-        "z": 9114.8623046875
+        "x": -1897.688,
+        "y": 54.269,
+        "z": 9114.862
       },
       "tranRot": {
-        "y": 121.11799621582031
+        "y": 121.118
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
       "tranSceneId": 3,
-      "titleTextID": "UI_SCENE_ENTRY_EXIT_NatlanHotel",
       "triggerSize": {
         "x": 4.0,
         "y": 4.0,
         "z": 4.0
       },
-      "closeTime": 24.0
+      "unlocked": true
     },
     "2": {
       "$type": "DungeonEntry",
-      "gadgetId": 70010002,
-      "pos": {
-        "x": 41.84280014038086,
-        "y": -0.39163878560066223,
-        "z": 23.57756996154785
-      },
-      "rot": {
-        "y": 266.0408935546875
-      },
-      "tranPos": {
-        "x": 41.842796325683594,
-        "y": -0.39163875579833984,
-        "z": 23.577566146850586
-      },
-      "tranRot": {
-        "y": 266.04083251953125
-      },
-      "specialTipsIconPath": "",
-      "mapVisibility": "Never",
-      "portalShape": "",
+      "alias": "",
+      "dungeonEntryType": "DirectEnter",
       "dungeonIds": [
         1222
       ],
       "dungeonQuestConditionList": {},
+      "gadgetId": 70010002,
+      "inteeIcon": "UI_Icon_Intee_Talk",
+      "mapVisibility": "Never",
+      "portalShape": "",
+      "pos": {
+        "x": 41.8428,
+        "y": -0.3916388,
+        "z": 23.57757
+      },
+      "removeEntityIfLocked": true,
+      "rot": {
+        "y": 266.0409
+      },
       "size": {
         "x": 5.0,
         "y": 5.0,
         "z": 5.0
       },
       "titleTextID": "UI_SCENE_ENTRY_EXIT_NatlanHotel",
-      "inteeIcon": "UI_Icon_Intee_Talk",
-      "dungeonEntryType": "DirectEnter",
-      "removeEntityIfLocked": true
+      "tranPos": {
+        "x": 41.842796,
+        "y": -0.39163876,
+        "z": 23.577566
+      },
+      "tranRot": {
+        "y": 266.04083
+      }
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

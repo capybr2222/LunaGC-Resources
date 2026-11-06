@@ -1,36 +1,35 @@
 {
-   
   "points": {
     "1": {
       "$type": "PersonalSceneJumpPoint",
+      "alias": "",
+      "closeTime": 24.0,
       "gadgetId": 70010002,
       "pos": {
-        "x": -0.03173923119902611,
-        "y": 0.7367246747016907,
-        "z": 17.8039608001709
+        "x": -0.03173923,
+        "y": 0.7367247,
+        "z": 17.80396
       },
       "rot": {
         "y": 180.0
       },
+      "titleTextID": "UI_SCENE_ENTRY_EXIT_TenryuBugyo",
       "tranPos": {
-        "x": -3293.06640625,
-        "y": 269.79681396484375,
-        "z": -4465.8876953125
+        "x": -3293.0664,
+        "y": 269.7968,
+        "z": -4465.8877
       },
       "tranRot": {
-        "y": 51.20000076293945
+        "y": 51.2
       },
-      "unlocked": true,
-      "specialTipsIconPath": "",
       "tranSceneId": 3,
-      "titleTextID": "UI_SCENE_ENTRY_EXIT_TenryuBugyo",
       "triggerSize": {
         "x": 5.0,
         "y": 5.0,
         "z": 5.0
       },
-      "closeTime": 24.0
+      "unlocked": true
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

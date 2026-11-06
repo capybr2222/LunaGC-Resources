@@ -1,6 +1,6 @@
-# 7.1 resources!
+# 7.2 resources!
 
-# This is enough to get you in-game. Resources is not complete, so many things WILL break.
+# Resources is not complete.
 
 
 # Credits:
@@ -15,7 +15,7 @@
 
 # Note
 
-If you use code from this project that added by me, please credit [capyb22222](https://github.com/capyb22222) somewhere in your project, otherwise, all credits belong to the original owner!
+If you use code from this project that added by me, please credit [capybr2222](https://github.com/capybr2222) somewhere in your project, otherwise, all credits belong to the original owner!
 
 # Support
 

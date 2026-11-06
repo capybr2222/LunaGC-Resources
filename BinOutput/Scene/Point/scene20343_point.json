@@ -1,1833 +1,891 @@
 {
   "points": {
     "1": {
-      "$type": "BIDKGIAOIJE",
-      "DKKNIBFMMBA": [],
-      "FOCEDOLNOLG": [],
-      "HHKLHDILHPA": "UI_STC_Intee_DungeonEntry",
-      "PNDHKDEKAMO": "UI_Icon_Intee_Talk",
-      "PMLKAGFDCEH": [
+      "$type": "DungeonEntry",
+      "alias": "",
+      "dungeonEntryType": "DirectEnter",
+      "dungeonIds": [
         1316
       ],
-      "DFIBMCDHNPG": {
-        "DIEABDEAJDL": [],
-        "NDDAKAMKKDO": 0
-      },
-      "JANMABHPMDC": [],
-      "JAOENGDJKDM": 0,
-      "MNCDKFFPMFJ": "Normal",
-      "IHIOCMFBLDO": false,
-      "ALMFJFEECNN": true,
-      "EMMOAAHLNGE": true,
-      "FOEOMOGLJBK": 0,
-      "HKPINJIKLFI": "DirectEnter",
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MGLHJOFMLGE": 1,
-      "FOPHEKONPDL": [],
-      "ELAKJDAMAEE": [],
-      "APCOJDMLHDK": "",
-      "JOBLDEIGNMB": false,
-      "IBCKFIMNBII": false,
-      "HIIJCKFLHOM": false,
-      "ECAEPBGHOLB": false,
-      "OODJBPMDFDD": 0,
-      "MJNAILKLGHG": 0,
-      "KLPEPPCJMFF": "Normal",
-      "KEBLKNBFKKA": 1,
-      "FLLJPPMDODA": 0,
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 344.7134,
-        "z": 0
-      },
+      "dungeonQuestConditionList": {},
+      "forbidSimpleUnlock": true,
+      "gadgetId": 70360001,
+      "inteeIcon": "UI_Icon_Intee_Talk",
+      "portalShape": "",
       "pos": {
-        "x": -368.2025,
-        "y": 369.2,
-        "z": 2897.454
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": true,
-      "NIGJGLDEKAD": false,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
         "x": -368.2025,
         "y": 368.9793,
         "z": 2897.454
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70360001,
+      "removeEntityIfLocked": true,
       "rot": {
-        "x": 0,
-        "y": 344.7134,
-        "z": 0
-      }
+        "y": 344.7134
+      },
+      "titleTextID": "UI_STC_Intee_DungeonEntry",
+      "tranPos": {
+        "x": -368.2025,
+        "y": 369.2,
+        "z": 2897.454
+      },
+      "tranRot": {
+        "y": 344.7134
+      },
+      "HAGBOCBPNHN": true
     },
     "10": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 110.4999,
-        "z": 0
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
       "pos": {
         "x": -1644.139,
         "y": 259.9066,
         "z": 3867.052
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
+      "rot": {
+        "y": 110.4999
+      },
       "tranPos": {
         "x": -1644.139,
         "y": 259.9066,
         "z": 3867.052
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 0,
-      "rot": {
-        "x": 0,
-        "y": 110.4999,
-        "z": 0
-      }
+      "tranRot": {
+        "y": 110.4999
+      },
+      "unlocked": true
     },
     "11": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 136.0279,
-        "z": 0
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
       "pos": {
         "x": -2301.905,
         "y": 471.2921,
         "z": 5484.322
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
+      "rot": {
+        "y": 136.0279
+      },
       "tranPos": {
         "x": -2301.905,
         "y": 471.2921,
         "z": 5484.322
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 0,
-      "rot": {
-        "x": 0,
-        "y": 136.0279,
-        "z": 0
-      }
+      "tranRot": {
+        "y": 136.0279
+      },
+      "unlocked": true
     },
     "12": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
       "pos": {
         "x": -2348.997,
         "y": 143.6221,
         "z": 5523.691
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
       "tranPos": {
         "x": -2348.997,
         "y": 143.6221,
         "z": 5523.691
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 0,
-      "rot": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
+      "unlocked": true
     },
     "13": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 180,
-        "z": 0
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
       "pos": {
         "x": -2349.198,
         "y": 218.7321,
         "z": 5553.596
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
+      "rot": {
+        "y": 180.0
+      },
       "tranPos": {
         "x": -2349.198,
         "y": 218.7321,
         "z": 5553.596
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 0,
-      "rot": {
-        "x": 0,
-        "y": 180,
-        "z": 0
-      }
+      "tranRot": {
+        "y": 180.0
+      },
+      "unlocked": true
     },
     "14": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 28.1944,
-        "z": 0
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
       "pos": {
         "x": -1162.466,
         "y": 130.2426,
         "z": 6059.349
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
+      "rot": {
+        "y": 28.1944
+      },
       "tranPos": {
         "x": -1162.466,
         "y": 130.2426,
         "z": 6059.349
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 0,
-      "rot": {
-        "x": 0,
-        "y": 28.1944,
-        "z": 0
-      }
+      "tranRot": {
+        "y": 28.1944
+      },
+      "unlocked": true
     },
     "15": {
-      "$type": "BIDKGIAOIJE",
-      "DKKNIBFMMBA": [],
-      "FOCEDOLNOLG": [],
-      "HHKLHDILHPA": "UI_STC_Intee_DungeonEntry",
-      "PNDHKDEKAMO": "UI_Icon_Intee_Talk",
-      "PMLKAGFDCEH": [
+      "$type": "DungeonEntry",
+      "alias": "",
+      "dungeonIds": [
         1311
       ],
-      "DFIBMCDHNPG": {
-        "DIEABDEAJDL": [],
-        "NDDAKAMKKDO": 0
-      },
-      "JANMABHPMDC": [],
-      "JAOENGDJKDM": 0,
-      "MNCDKFFPMFJ": "Normal",
-      "IHIOCMFBLDO": false,
-      "ALMFJFEECNN": true,
-      "EMMOAAHLNGE": true,
-      "FOEOMOGLJBK": 0,
-      "HKPINJIKLFI": "Normal",
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MGLHJOFMLGE": 1,
-      "FOPHEKONPDL": [],
-      "ELAKJDAMAEE": [],
-      "APCOJDMLHDK": "",
-      "JOBLDEIGNMB": false,
-      "IBCKFIMNBII": false,
-      "HIIJCKFLHOM": false,
-      "ECAEPBGHOLB": false,
-      "OODJBPMDFDD": 0,
-      "MJNAILKLGHG": 0,
-      "KLPEPPCJMFF": "Never",
-      "KEBLKNBFKKA": 1,
-      "FLLJPPMDODA": 0,
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 180,
-        "z": 0
-      },
+      "dungeonQuestConditionList": {},
+      "forbidSimpleUnlock": true,
+      "gadgetId": 70360001,
+      "inteeIcon": "UI_Icon_Intee_Talk",
+      "mapVisibility": "Never",
+      "portalShape": "",
       "pos": {
-        "x": -2360.129,
-        "y": 173.9,
-        "z": 5348.482
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": false,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
         "x": -2360.129,
         "y": 173.7921,
         "z": 5341.303
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70360001,
-      "rot": {
-        "x": 0,
-        "y": 0,
-        "z": 0
+      "removeEntityIfLocked": true,
+      "titleTextID": "UI_STC_Intee_DungeonEntry",
+      "tranPos": {
+        "x": -2360.129,
+        "y": 173.9,
+        "z": 5348.482
+      },
+      "tranRot": {
+        "y": 180.0
       }
     },
     "16": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 174.8738,
-        "z": 0
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
       "pos": {
         "x": -1993.696,
         "y": 279.4352,
         "z": 4011.617
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
+      "rot": {
+        "y": 174.8738
+      },
       "tranPos": {
         "x": -1993.696,
         "y": 279.4352,
         "z": 4011.617
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010006,
-      "rot": {
-        "x": 0,
-        "y": 174.8738,
-        "z": 0
-      }
+      "tranRot": {
+        "y": 174.8738
+      },
+      "unlocked": true
     },
     "17": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 290.9308,
-        "z": 0
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
       "pos": {
         "x": -1510.071,
         "y": 44.37209,
         "z": 5615.378
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
+      "rot": {
+        "y": 290.9308
+      },
       "tranPos": {
         "x": -1510.071,
         "y": 44.37209,
         "z": 5615.378
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010006,
-      "rot": {
-        "x": 0,
-        "y": 290.9308,
-        "z": 0
-      }
+      "tranRot": {
+        "y": 290.9308
+      },
+      "unlocked": true
     },
     "18": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 286.1815,
-        "z": 0
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
       "pos": {
-        "x": -1640.117,
-        "y": 27.79254,
-        "z": 5656.917
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
         "x": -1649.216,
         "y": 26.28608,
         "z": 5660.527
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010006,
       "rot": {
-        "x": 0,
-        "y": 286.1815,
-        "z": 0
-      }
+        "y": 286.1815
+      },
+      "tranPos": {
+        "x": -1640.117,
+        "y": 27.79254,
+        "z": 5656.917
+      },
+      "tranRot": {
+        "y": 286.1815
+      },
+      "unlocked": true
     },
     "19": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 284.6378,
-        "z": 0
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
       "pos": {
         "x": -1769.637,
         "y": 23.2621,
         "z": 5692.957
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
+      "rot": {
+        "y": 284.6378
+      },
       "tranPos": {
         "x": -1769.637,
         "y": 23.2621,
         "z": 5692.957
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010006,
-      "rot": {
-        "x": 0,
-        "y": 284.6378,
-        "z": 0
-      }
+      "tranRot": {
+        "y": 284.6378
+      },
+      "unlocked": true
     },
     "2": {
-      "$type": "BIDKGIAOIJE",
-      "DKKNIBFMMBA": [],
-      "FOCEDOLNOLG": [],
-      "HHKLHDILHPA": "UI_STC_Intee_DungeonEntry",
-      "PNDHKDEKAMO": "UI_Icon_Intee_Talk",
-      "PMLKAGFDCEH": [
+      "$type": "DungeonEntry",
+      "alias": "",
+      "dungeonEntryType": "DirectEnter",
+      "dungeonIds": [
         1317
       ],
-      "DFIBMCDHNPG": {
-        "DIEABDEAJDL": [],
-        "NDDAKAMKKDO": 0
-      },
-      "JANMABHPMDC": [],
-      "JAOENGDJKDM": 0,
-      "MNCDKFFPMFJ": "Normal",
-      "IHIOCMFBLDO": false,
-      "ALMFJFEECNN": true,
-      "EMMOAAHLNGE": true,
-      "FOEOMOGLJBK": 0,
-      "HKPINJIKLFI": "DirectEnter",
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MGLHJOFMLGE": 1,
-      "FOPHEKONPDL": [],
-      "ELAKJDAMAEE": [],
-      "APCOJDMLHDK": "",
-      "JOBLDEIGNMB": false,
-      "IBCKFIMNBII": false,
-      "HIIJCKFLHOM": false,
-      "ECAEPBGHOLB": false,
-      "OODJBPMDFDD": 0,
-      "MJNAILKLGHG": 0,
-      "KLPEPPCJMFF": "Normal",
-      "KEBLKNBFKKA": 1,
-      "FLLJPPMDODA": 0,
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 177.5132,
-        "z": 0
-      },
+      "dungeonQuestConditionList": {},
+      "forbidSimpleUnlock": true,
+      "gadgetId": 70360001,
+      "inteeIcon": "UI_Icon_Intee_Talk",
+      "portalShape": "",
       "pos": {
-        "x": -542.258,
-        "y": 230,
-        "z": 5307.069
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": true,
-      "NIGJGLDEKAD": false,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
         "x": -542.258,
         "y": 229.863,
         "z": 5307.069
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70360001,
+      "removeEntityIfLocked": true,
       "rot": {
-        "x": 0,
-        "y": 177.5132,
-        "z": 0
-      }
+        "y": 177.5132
+      },
+      "titleTextID": "UI_STC_Intee_DungeonEntry",
+      "tranPos": {
+        "x": -542.258,
+        "y": 230.0,
+        "z": 5307.069
+      },
+      "tranRot": {
+        "y": 177.5132
+      },
+      "HAGBOCBPNHN": true
     },
     "20": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 285.6975,
-        "z": 0
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
       "pos": {
         "x": -1785.415,
         "y": 21.70056,
         "z": 5760.104
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
+      "rot": {
+        "y": 285.6975
+      },
       "tranPos": {
         "x": -1785.415,
         "y": 21.70056,
         "z": 5760.104
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010006,
-      "rot": {
-        "x": 0,
-        "y": 285.6975,
-        "z": 0
-      }
+      "tranRot": {
+        "y": 285.6975
+      },
+      "unlocked": true
     },
     "21": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 194.1241,
-        "z": 0
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
       "pos": {
         "x": -1812.611,
         "y": 20.26208,
         "z": 5742.703
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
+      "rot": {
+        "y": 194.1241
+      },
       "tranPos": {
         "x": -1812.611,
         "y": 20.26208,
         "z": 5742.703
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010006,
-      "rot": {
-        "x": 0,
-        "y": 194.1241,
-        "z": 0
-      }
+      "tranRot": {
+        "y": 194.1241
+      },
+      "unlocked": true
     },
     "22": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 105.05,
-        "z": 0
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
       "pos": {
         "x": -1752.839,
         "y": 23.55899,
         "z": 5687.922
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
+      "rot": {
+        "y": 105.05
+      },
       "tranPos": {
         "x": -1752.839,
         "y": 23.55899,
         "z": 5687.922
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010006,
-      "rot": {
-        "x": 0,
-        "y": 105.05,
-        "z": 0
-      }
+      "tranRot": {
+        "y": 105.05
+      },
+      "unlocked": true
     },
     "23": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 104.2728,
-        "z": 0
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
       "pos": {
         "x": -1500.938,
         "y": 44.42208,
         "z": 5620.006
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
+      "rot": {
+        "y": 104.2728
+      },
       "tranPos": {
         "x": -1500.938,
         "y": 44.42208,
         "z": 5620.006
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010006,
-      "rot": {
-        "x": 0,
-        "y": 104.2728,
-        "z": 0
-      }
+      "tranRot": {
+        "y": 104.2728
+      },
+      "unlocked": true
     },
     "24": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 195.1998,
-        "z": 0
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
       "pos": {
         "x": -1100.995,
         "y": -32.6937,
         "z": 5460.011
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
+      "rot": {
+        "y": 195.1998
+      },
       "tranPos": {
         "x": -1100.995,
         "y": -32.6937,
         "z": 5460.011
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010006,
-      "rot": {
-        "x": 0,
-        "y": 195.1998,
-        "z": 0
-      }
+      "tranRot": {
+        "y": 195.1998
+      },
+      "unlocked": true
     },
     "25": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 171.5289,
-        "z": 0
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
       "pos": {
-        "x": -2427.493,
-        "y": 255.8902,
-        "z": 4268.369
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
         "x": -2436.708,
         "y": 256.42,
         "z": 4275.81
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010006,
       "rot": {
-        "x": 0,
-        "y": 157.8353,
-        "z": 0
-      }
+        "y": 157.8353
+      },
+      "tranPos": {
+        "x": -2427.493,
+        "y": 255.8902,
+        "z": 4268.369
+      },
+      "tranRot": {
+        "y": 171.5289
+      },
+      "unlocked": true
     },
     "26": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 352.2747,
-        "z": 0
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
       "pos": {
         "x": -1560.969,
         "y": 248.7125,
         "z": 3818.741
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
+      "rot": {
+        "y": 352.2747
+      },
       "tranPos": {
         "x": -1560.969,
         "y": 248.7125,
         "z": 3818.741
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010006,
-      "rot": {
-        "x": 0,
-        "y": 352.2747,
-        "z": 0
-      }
+      "tranRot": {
+        "y": 352.2747
+      },
+      "unlocked": true
     },
     "27": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 63.82246,
-        "z": 0
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
       "pos": {
         "x": -516.0754,
         "y": 228.2931,
         "z": 2695.463
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
+      "rot": {
+        "y": 63.82246
+      },
       "tranPos": {
         "x": -516.0754,
         "y": 228.2931,
         "z": 2695.463
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010006,
-      "rot": {
-        "x": 0,
-        "y": 63.82246,
-        "z": 0
-      }
+      "tranRot": {
+        "y": 63.82246
+      },
+      "unlocked": true
     },
     "28": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 196.1299,
-        "z": 0
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
       "pos": {
         "x": -289.5665,
         "y": 241.9193,
         "z": 2881.173
       },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
+      "rot": {
+        "y": 196.1299
+      },
       "tranPos": {
         "x": -289.5665,
         "y": 241.9193,
         "z": 2881.173
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010006,
-      "rot": {
-        "x": 0,
-        "y": 196.1299,
-        "z": 0
-      }
-    },
-    "3": {
-      "$type": "BIDKGIAOIJE",
-      "DKKNIBFMMBA": [],
-      "FOCEDOLNOLG": [],
-      "HHKLHDILHPA": "UI_STC_Intee_DungeonEntry",
-      "PNDHKDEKAMO": "UI_Icon_Intee_Talk",
-      "PMLKAGFDCEH": [
-        1315
-      ],
-      "DFIBMCDHNPG": {
-        "DIEABDEAJDL": [],
-        "NDDAKAMKKDO": 0
-      },
-      "JANMABHPMDC": [],
-      "JAOENGDJKDM": 0,
-      "MNCDKFFPMFJ": "Normal",
-      "IHIOCMFBLDO": false,
-      "ALMFJFEECNN": true,
-      "EMMOAAHLNGE": true,
-      "FOEOMOGLJBK": 0,
-      "HKPINJIKLFI": "DirectEnter",
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MGLHJOFMLGE": 1,
-      "FOPHEKONPDL": [],
-      "ELAKJDAMAEE": [],
-      "APCOJDMLHDK": "",
-      "JOBLDEIGNMB": false,
-      "IBCKFIMNBII": false,
-      "HIIJCKFLHOM": false,
-      "ECAEPBGHOLB": false,
-      "OODJBPMDFDD": 0,
-      "MJNAILKLGHG": 0,
-      "KLPEPPCJMFF": "Normal",
-      "KEBLKNBFKKA": 1,
-      "FLLJPPMDODA": 0,
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
       "tranRot": {
-        "x": 0,
-        "y": 0,
-        "z": 0
+        "y": 196.1299
       },
-      "pos": {
-        "x": -2393.242,
-        "y": 267.5,
-        "z": 4187.466
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": true,
-      "NIGJGLDEKAD": false,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
-        "x": -2393.242,
-        "y": 267.2854,
-        "z": 4187.466
-      },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70360001,
-      "rot": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    },
-    "30": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 69.41279,
-        "z": 0
-      },
-      "pos": {
-        "x": -561.0668,
-        "y": 214.7282,
-        "z": 2680.56
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
-        "x": -561.0668,
-        "y": 214.5668,
-        "z": 2680.56
-      },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 0,
-      "rot": {
-        "x": 0,
-        "y": 69.41279,
-        "z": 0
-      }
-    },
-    "31": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 333.7732,
-        "z": 0
-      },
-      "pos": {
-        "x": -487.3875,
-        "y": 225.4899,
-        "z": 2756.273
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
-        "x": -487.3875,
-        "y": 225.4899,
-        "z": 2756.273
-      },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 0,
-      "rot": {
-        "x": 0,
-        "y": 333.7732,
-        "z": 0
-      }
-    },
-    "32": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 37.28275,
-        "z": 0
-      },
-      "pos": {
-        "x": -357.6119,
-        "y": 250.0899,
-        "z": 2637.665
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
-        "x": -357.6119,
-        "y": 250.0899,
-        "z": 2637.665
-      },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 0,
-      "rot": {
-        "x": 0,
-        "y": 37.28275,
-        "z": 0
-      }
-    },
-    "33": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 352.4942,
-        "z": 0
-      },
-      "pos": {
-        "x": -378.3603,
-        "y": 343.7549,
-        "z": 2865.88
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
-        "x": -378.3603,
-        "y": 343.7549,
-        "z": 2865.88
-      },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 0,
-      "rot": {
-        "x": 0,
-        "y": 352.4942,
-        "z": 0
-      }
-    },
-    "34": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 152.11,
-        "z": 0
-      },
-      "pos": {
-        "x": -1512.328,
-        "y": 63.12144,
-        "z": 4964.802
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
-        "x": -1512.328,
-        "y": 63.12144,
-        "z": 4964.802
-      },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 0,
-      "rot": {
-        "x": 0,
-        "y": 152.11,
-        "z": 0
-      }
-    },
-    "35": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 180.247,
-        "z": 0
-      },
-      "pos": {
-        "x": -538.2711,
-        "y": 217.2766,
-        "z": 5350.576
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
-        "x": -538.2711,
-        "y": 217.2766,
-        "z": 5350.576
-      },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010006,
-      "rot": {
-        "x": 0,
-        "y": 180.247,
-        "z": 0
-      }
-    },
-    "36": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 89.41933,
-        "z": 0
-      },
-      "pos": {
-        "x": -2450.714,
-        "y": 21.59208,
-        "z": 5568.54
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
-        "x": -2450.714,
-        "y": 21.59208,
-        "z": 5568.54
-      },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010006,
-      "rot": {
-        "x": 0,
-        "y": 89.41933,
-        "z": 0
-      }
-    },
-    "37": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 291.3,
-        "z": 0
-      },
-      "pos": {
-        "x": -1419.685,
-        "y": -28.6103,
-        "z": 5592.638
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
-        "x": -1419.685,
-        "y": -28.6103,
-        "z": 5592.638
-      },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010006,
-      "rot": {
-        "x": 0,
-        "y": 291.3,
-        "z": 0
-      }
-    },
-    "39": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 32.60299,
-        "z": 0
-      },
-      "pos": {
-        "x": -387.849,
-        "y": 365.4923,
-        "z": 2922.392
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
-        "x": -387.849,
-        "y": 365.4923,
-        "z": 2922.392
-      },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70010006,
-      "rot": {
-        "x": 0,
-        "y": 32.60299,
-        "z": 0
-      }
-    },
-    "4": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 270.8868,
-        "z": 0
-      },
-      "pos": {
-        "x": -2441.447,
-        "y": 21.581778,
-        "z": 5568.854
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
-        "x": -2441.447,
-        "y": 21.58178,
-        "z": 5568.854
-      },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 0,
-      "rot": {
-        "x": 0,
-        "y": 270.8868,
-        "z": 0
-      }
-    },
-    "40": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 180,
-        "z": 0
-      },
-      "pos": {
-        "x": -2345.373,
-        "y": -268.47,
-        "z": 5567.476
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
-        "x": -2345.373,
-        "y": -268.47,
-        "z": 5567.476
-      },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 0,
-      "rot": {
-        "x": 0,
-        "y": 180,
-        "z": 0
-      }
-    },
-    "5": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 1.789364,
-        "z": 0
-      },
-      "pos": {
-        "x": -2664.034,
-        "y": 24.49208,
-        "z": 5596.968
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
-        "x": -2664.034,
-        "y": 24.49208,
-        "z": 5596.968
-      },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 0,
-      "rot": {
-        "x": 0,
-        "y": 1.789364,
-        "z": 0
-      }
-    },
-    "6": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 1.789364,
-        "z": 0
-      },
-      "pos": {
-        "x": -2623.595,
-        "y": 8.336397,
-        "z": 5668.173
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
-        "x": -2623.595,
-        "y": 8.336397,
-        "z": 5668.173
-      },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 0,
-      "rot": {
-        "x": 0,
-        "y": 1.789364,
-        "z": 0
-      }
-    },
-    "7": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 180,
-        "z": 0
-      },
-      "pos": {
-        "x": -2345.373,
-        "y": -264.3724,
-        "z": 5576.251
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
-        "x": -2345.373,
-        "y": -264.3724,
-        "z": 5576.251
-      },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 0,
-      "rot": {
-        "x": 0,
-        "y": 180,
-        "z": 0
-      }
-    },
-    "8": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 180,
-        "z": 0
-      },
-      "pos": {
-        "x": -2345.373,
-        "y": -250.8,
-        "z": 5576.251
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
-        "x": -2345.373,
-        "y": -250.9434,
-        "z": 5576.251
-      },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 0,
-      "rot": {
-        "x": 0,
-        "y": 180,
-        "z": 0
-      }
-    },
-    "9": {
-      "$type": "LPLKNPCPGGA",
-      "FFGBMICGPDA": [],
-      "BAEPMPKIIML": false,
-      "MACCLHNPLIA": false,
-      "KNBCCMANGLP": false,
-      "OGCLGJGAPKC": false,
-      "MKHHFMFNPHG": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "MNCDKFFPMFJ": "Normal",
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "pos": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": true,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
-        "x": -2349.283,
-        "y": 184.3331,
-        "z": 5452.899
-      },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 0,
-      "rot": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
+      "unlocked": true
     },
     "29": {
       "$type": "DungeonEntry",
+      "alias": "",
+      "dungeonEntryType": "DirectEnter",
       "dungeonIds": [
         1316
       ],
-      "titleTextID": "UI_SCENE_ENTRY_ENTER_Csd",
-      "inteeIcon": "UI_NPCTopIcon_QuestTarget_Enter",
+      "dungeonQuestConditionList": {},
       "forbidSimpleUnlock": true,
-      "dungeonEntryType": "DirectEnter",
-      "removeEntityIfLocked": 1,
-      "mapVisibility": "Normal",
-      "tranRot": {
-        "y": 344.7134
-      },
-      "areaId": 0,
       "gadgetId": 70360001,
-      "rot": {
-        "y": 344.7134
-      },
-      "tranPos": {
-        "x": -368.2025,
-        "y": 369.2,
-        "z": 2897.454
-      },
+      "inteeIcon": "UI_NPCTopIcon_QuestTarget_Enter",
+      "portalShape": "",
       "pos": {
         "x": -368.2025,
         "y": 368.9793,
         "z": 2897.454
       },
+      "removeEntityIfLocked": true,
+      "rot": {
+        "y": 344.7134
+      },
+      "titleTextID": "UI_SCENE_ENTRY_ENTER_Csd",
+      "tranPos": {
+        "x": -368.2025,
+        "y": 369.2,
+        "z": 2897.454
+      },
+      "tranRot": {
+        "y": 344.7134
+      },
+      "HAGBOCBPNHN": true
+    },
+    "3": {
+      "$type": "DungeonEntry",
+      "alias": "",
+      "dungeonEntryType": "DirectEnter",
+      "dungeonIds": [
+        1315
+      ],
+      "dungeonQuestConditionList": {},
+      "forbidSimpleUnlock": true,
+      "gadgetId": 70360001,
+      "inteeIcon": "UI_Icon_Intee_Talk",
       "portalShape": "",
-      "specialTipsIconPath": ""
+      "pos": {
+        "x": -2393.242,
+        "y": 267.2854,
+        "z": 4187.466
+      },
+      "removeEntityIfLocked": true,
+      "titleTextID": "UI_STC_Intee_DungeonEntry",
+      "tranPos": {
+        "x": -2393.242,
+        "y": 267.5,
+        "z": 4187.466
+      },
+      "HAGBOCBPNHN": true
+    },
+    "30": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "pos": {
+        "x": -561.0668,
+        "y": 214.5668,
+        "z": 2680.56
+      },
+      "rot": {
+        "y": 69.41279
+      },
+      "tranPos": {
+        "x": -561.0668,
+        "y": 214.7282,
+        "z": 2680.56
+      },
+      "tranRot": {
+        "y": 69.41279
+      },
+      "unlocked": true
+    },
+    "31": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "pos": {
+        "x": -487.3875,
+        "y": 225.4899,
+        "z": 2756.273
+      },
+      "rot": {
+        "y": 333.7732
+      },
+      "tranPos": {
+        "x": -487.3875,
+        "y": 225.4899,
+        "z": 2756.273
+      },
+      "tranRot": {
+        "y": 333.7732
+      },
+      "unlocked": true
+    },
+    "32": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "pos": {
+        "x": -357.6119,
+        "y": 250.0899,
+        "z": 2637.665
+      },
+      "rot": {
+        "y": 37.28275
+      },
+      "tranPos": {
+        "x": -357.6119,
+        "y": 250.0899,
+        "z": 2637.665
+      },
+      "tranRot": {
+        "y": 37.28275
+      },
+      "unlocked": true
+    },
+    "33": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "pos": {
+        "x": -378.3603,
+        "y": 343.7549,
+        "z": 2865.88
+      },
+      "rot": {
+        "y": 352.4942
+      },
+      "tranPos": {
+        "x": -378.3603,
+        "y": 343.7549,
+        "z": 2865.88
+      },
+      "tranRot": {
+        "y": 352.4942
+      },
+      "unlocked": true
+    },
+    "34": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "pos": {
+        "x": -1512.328,
+        "y": 63.12144,
+        "z": 4964.802
+      },
+      "rot": {
+        "y": 152.11
+      },
+      "tranPos": {
+        "x": -1512.328,
+        "y": 63.12144,
+        "z": 4964.802
+      },
+      "tranRot": {
+        "y": 152.11
+      },
+      "unlocked": true
+    },
+    "35": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": -538.2711,
+        "y": 217.2766,
+        "z": 5350.576
+      },
+      "rot": {
+        "y": 180.247
+      },
+      "tranPos": {
+        "x": -538.2711,
+        "y": 217.2766,
+        "z": 5350.576
+      },
+      "tranRot": {
+        "y": 180.247
+      },
+      "unlocked": true
+    },
+    "36": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": -2450.714,
+        "y": 21.59208,
+        "z": 5568.54
+      },
+      "rot": {
+        "y": 89.41933
+      },
+      "tranPos": {
+        "x": -2450.714,
+        "y": 21.59208,
+        "z": 5568.54
+      },
+      "tranRot": {
+        "y": 89.41933
+      },
+      "unlocked": true
+    },
+    "37": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": -1419.685,
+        "y": -28.6103,
+        "z": 5592.638
+      },
+      "rot": {
+        "y": 291.3
+      },
+      "tranPos": {
+        "x": -1419.685,
+        "y": -28.6103,
+        "z": 5592.638
+      },
+      "tranRot": {
+        "y": 291.3
+      },
+      "unlocked": true
     },
     "38": {
-      "$type": "LPLKNPCPGGA",
-      "tranRot": {
-        "y": 175.4159
-      },
+      "$type": "DungeonWayPoint",
+      "alias": "",
       "gadgetId": 70010006,
-      "rot": {
-        "y": 175.4159
-      },
       "pos": {
         "x": -1993.696,
         "y": 279.4352,
         "z": 4011.617
+      },
+      "rot": {
+        "y": 175.4159
       },
       "tranPos": {
         "x": -1993.696,
         "y": 279.4352,
         "z": 4011.617
       },
-      "areaId": 0
+      "tranRot": {
+        "y": 175.4159
+      },
+      "unlocked": true
+    },
+    "39": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": -387.849,
+        "y": 365.4923,
+        "z": 2922.392
+      },
+      "rot": {
+        "y": 32.60299
+      },
+      "tranPos": {
+        "x": -387.849,
+        "y": 365.4923,
+        "z": 2922.392
+      },
+      "tranRot": {
+        "y": 32.60299
+      },
+      "unlocked": true
+    },
+    "4": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "pos": {
+        "x": -2441.447,
+        "y": 21.58178,
+        "z": 5568.854
+      },
+      "rot": {
+        "y": 270.8868
+      },
+      "tranPos": {
+        "x": -2441.447,
+        "y": 21.581778,
+        "z": 5568.854
+      },
+      "tranRot": {
+        "y": 270.8868
+      },
+      "unlocked": true
+    },
+    "40": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "pos": {
+        "x": -2345.373,
+        "y": -268.47,
+        "z": 5567.476
+      },
+      "rot": {
+        "y": 180.0
+      },
+      "tranPos": {
+        "x": -2345.373,
+        "y": -268.47,
+        "z": 5567.476
+      },
+      "tranRot": {
+        "y": 180.0
+      },
+      "unlocked": true
+    },
+    "5": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "pos": {
+        "x": -2664.034,
+        "y": 24.49208,
+        "z": 5596.968
+      },
+      "rot": {
+        "y": 1.789364
+      },
+      "tranPos": {
+        "x": -2664.034,
+        "y": 24.49208,
+        "z": 5596.968
+      },
+      "tranRot": {
+        "y": 1.789364
+      },
+      "unlocked": true
+    },
+    "6": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "pos": {
+        "x": -2623.595,
+        "y": 8.336397,
+        "z": 5668.173
+      },
+      "rot": {
+        "y": 1.789364
+      },
+      "tranPos": {
+        "x": -2623.595,
+        "y": 8.336397,
+        "z": 5668.173
+      },
+      "tranRot": {
+        "y": 1.789364
+      },
+      "unlocked": true
+    },
+    "7": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "pos": {
+        "x": -2345.373,
+        "y": -264.3724,
+        "z": 5576.251
+      },
+      "rot": {
+        "y": 180.0
+      },
+      "tranPos": {
+        "x": -2345.373,
+        "y": -264.3724,
+        "z": 5576.251
+      },
+      "tranRot": {
+        "y": 180.0
+      },
+      "unlocked": true
+    },
+    "8": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "pos": {
+        "x": -2345.373,
+        "y": -250.9434,
+        "z": 5576.251
+      },
+      "rot": {
+        "y": 180.0
+      },
+      "tranPos": {
+        "x": -2345.373,
+        "y": -250.8,
+        "z": 5576.251
+      },
+      "tranRot": {
+        "y": 180.0
+      },
+      "unlocked": true
+    },
+    "9": {
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "pos": {
+        "x": -2349.283,
+        "y": 184.3331,
+        "z": 5452.899
+      },
+      "unlocked": true
     }
-  }
+  },
+  "IFNMLHIOCPN": {}
 }

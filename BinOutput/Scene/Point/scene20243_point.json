@@ -2,52 +2,52 @@
   "points": {
     "1": {
       "$type": "DungeonEntry",
-      "gadgetId": 70360001,
-      "pos": {
-        "x": -1851.93798828125,
-        "y": 58.06412124633789,
-        "z": 8962.5185546875
-      },
-      "tranPos": {
-        "x": -1851.9378662109375,
-        "y": 58.06412124633789,
-        "z": 8962.5185546875
-      },
-      "specialTipsIconPath": "",
-      "mapVisibility": "Never",
+      "alias": "",
       "disableInteraction": true,
-      "portalShape": "",
       "dungeonIds": [
         1232
       ],
       "dungeonQuestConditionList": {},
-      "titleTextID": "UI_STC_Intee_DungeonEntry",
-      "inteeIcon": "UI_Icon_Intee_Talk",
       "forbidSimpleUnlock": true,
-      "removeEntityIfLocked": true
+      "gadgetId": 70360001,
+      "inteeIcon": "UI_Icon_Intee_Talk",
+      "mapVisibility": "Never",
+      "portalShape": "",
+      "pos": {
+        "x": -1851.938,
+        "y": 58.06412,
+        "z": 8962.519
+      },
+      "removeEntityIfLocked": true,
+      "titleTextID": "UI_STC_Intee_DungeonEntry",
+      "tranPos": {
+        "x": -1851.9379,
+        "y": 58.06412,
+        "z": 8962.519
+      }
     },
     "2": {
-      "$type": "LJLGJMBBHMK",
+      "$type": "DungeonWayPoint",
+      "alias": "",
+      "disableClientTrigger": true,
+      "effectiveType": "Mirror",
       "gadgetId": 70010006,
       "pos": {
-        "x": -1913.947998046875,
-        "y": 52.338600158691406,
-        "z": 9082.37109375
+        "x": -1913.948,
+        "y": 52.3386,
+        "z": 9082.371
       },
       "rot": {
-        "y": 153.0998992919922
+        "y": 153.0999
       },
       "tranPos": {
-        "x": -1913.947998046875,
-        "y": 52.338600158691406,
-        "z": 9082.37109375
+        "x": -1913.948,
+        "y": 52.3386,
+        "z": 9082.371
       },
       "unlocked": true,
-      "specialTipsIconPath": "",
-      "HCECDOFJJFJ": true,
-      "disableClientTrigger": true,
-      "effectiveType": "Mirror"
+      "HAGBOCBPNHN": true
     }
   },
-  "GDFJNNEIFCF": {}
+  "IFNMLHIOCPN": {}
 }

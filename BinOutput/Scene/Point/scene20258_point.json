@@ -1,41 +1,43 @@
 {
   "points": {
     "1": {
-      "$type": "DungeonExit",
-      "MKHHFMFNPHG": {
-        "x": 5,
-        "y": 5,
-        "z": 5
-      },
-      "BIELLMDIODE": "",
-      "HDMEDFBJMPK": 0,
-      "tranRot": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
+      "$type": "DungeonQuitPoint",
+      "alias": "",
+      "gadgetId": 70120004,
       "pos": {
-        "x": -1472.8069,
-        "y": 55.46666,
-        "z": 61.17234
-      },
-      "CEONPLGFMNI": 0,
-      "EICLDEIJGGB": false,
-      "MPPBCFKHGHA": false,
-      "NIGJGLDEKAD": false,
-      "POGLHNAHJNK": false,
-      "areaId": 0,
-      "tranPos": {
         "x": -1472.807,
         "y": 55.46666,
         "z": 61.17234
       },
-      "MEGMIMEDODJ": "NORMAL",
-      "gadgetId": 70120004,
       "rot": {
-        "x": 0,
-        "y": 279.3179,
-        "z": 0
+        "y": 279.3179
+      },
+      "size": {
+        "x": 5.0,
+        "y": 5.0,
+        "z": 5.0
+      },
+      "tranPos": {
+        "x": -1472.8069,
+        "y": 55.46666,
+        "z": 61.17234
+      }
+    }
+  },
+  "IFNMLHIOCPN": {},
+  "KNLKKGHCCAP": {
+    "1": {
+      "GMEJBDCFCCE": 8,
+      "KEECKPCHNOB": 8,
+      "CIKEKCJCGIP": {
+        "x": 81.37857,
+        "y": 77.57,
+        "z": 42.08038
+      },
+      "OOECCDNIOEG": {
+        "x": 121.43408,
+        "y": 77.57,
+        "z": 82.13012
       }
     }
   }
