@@ -1,0 +1,157 @@
+local base_info = {
+	group_id = 233905002
+}
+
+monsters = {
+}
+
+npcs = {
+}
+
+gadgets = {
+	{ config_id = 2001, gadget_id = 70360367, pos = { x = 0.000, y = -0.034, z = 0.000 }, rot = { x = 0.000, y = 0.000, z = 0.000 }, level = 1 }
+}
+
+regions = {
+}
+
+triggers = {
+	{ config_id = 1002002, name = "GADGET_CREATE_2002", event = EventType.EVENT_GADGET_CREATE, source = "", condition = "condition_EVENT_GADGET_CREATE_2002", action = "action_EVENT_GADGET_CREATE_2002" },
+	{ config_id = 1002003, name = "SELECT_OPTION_2003", event = EventType.EVENT_SELECT_OPTION, source = "", condition = "condition_EVENT_SELECT_OPTION_2003", action = "action_EVENT_SELECT_OPTION_2003", trigger_count = 0 },
+	{ config_id = 1002004, name = "SELECT_OPTION_2004", event = EventType.EVENT_SELECT_OPTION, source = "", condition = "condition_EVENT_SELECT_OPTION_2004", action = "action_EVENT_SELECT_OPTION_2004", trigger_count = 0 }
+}
+
+variables = {
+}
+
+init_config = {
+	suite = 1,
+	end_suite = 0,
+	rand_suite = false
+}
+
+suites = {
+	{
+		monsters = { },
+		gadgets = { 2001 },
+		regions = { },
+		triggers = { "GADGET_CREATE_2002", "SELECT_OPTION_2003", "SELECT_OPTION_2004" },
+		rand_weight = 100
+	}
+}
+
+function condition_EVENT_GADGET_CREATE_2002(context, evt)
+	if 2001 ~= evt.param1 then
+		return false
+	end
+
+	return true
+end
+
+function action_EVENT_GADGET_CREATE_2002(context, evt)
+	if 0 ~= ScriptLib.SetWorktopOptionsByGroupId(context, 233905002, 2001, {175}) then
+		ScriptLib.PrintContextLog(context, "@@ LUA_WARNING : set_wok_options_by_configid")
+		return -1
+	end
+
+	return 0
+end
+
+function condition_EVENT_SELECT_OPTION_2003(context, evt)
+	if 2001 ~= evt.param1 then
+		return false
+	end
+
+	if 175 ~= evt.param2 then
+		return false
+	end
+
+	if ScriptLib.GetGroupVariableValueByGroup(context, "stage", 233905001) ~= 0 then
+		return false
+	end
+
+	return true
+end
+
+function action_EVENT_SELECT_OPTION_2003(context, evt)
+	if 0 ~= ScriptLib.SetIsAllowUseSkill(context, 1) then
+		ScriptLib.PrintContextLog(context, "@@ LUA_WARNING : tower_allow_use_skill")
+		return -1
+	end
+
+	if 0 ~= ScriptLib.DelWorktopOptionByGroupId(context, 233905002, 2001, 175) then
+		ScriptLib.PrintContextLog(context, "@@ LUA_WARNING : del_work_options_by_group_configId")
+		return -1
+	end
+
+	if 0 ~= ScriptLib.SetGroupGadgetStateByConfigId(context, 233905002, 2001, GadgetState.GearStop) then
+		return -1
+	end
+
+	if 0 ~= ScriptLib.AddExtraGroupSuite(context, 233905003, 2) then
+		ScriptLib.PrintContextLog(context, "@@ LUA_WARNING : add_extra_group_suite")
+		return -1
+	end
+
+	if 0 ~= ScriptLib.SetGroupGadgetStateByConfigId(context, 233905009, 9001, GadgetState.GearStart) then
+		return -1
+	end
+
+	if 0 ~= ScriptLib.SetGroupGadgetStateByConfigId(context, 233905009, 9002, GadgetState.GearStart) then
+		return -1
+	end
+
+	return 0
+end
+
+function condition_EVENT_SELECT_OPTION_2004(context, evt)
+	if 2001 ~= evt.param1 then
+		return false
+	end
+
+	if 176 ~= evt.param2 then
+		return false
+	end
+
+	if ScriptLib.GetGroupVariableValueByGroup(context, "stage", 233905001) ~= 1 then
+		return false
+	end
+
+	return true
+end
+
+function action_EVENT_SELECT_OPTION_2004(context, evt)
+	if 0 ~= ScriptLib.SetIsAllowUseSkill(context, 1) then
+		ScriptLib.PrintContextLog(context, "@@ LUA_WARNING : tower_allow_use_skill")
+		return -1
+	end
+
+	if 0 ~= ScriptLib.DelWorktopOptionByGroupId(context, 233905002, 2001, 176) then
+		ScriptLib.PrintContextLog(context, "@@ LUA_WARNING : del_work_options_by_group_configId")
+		return -1
+	end
+
+	if 0 ~= ScriptLib.SetGroupGadgetStateByConfigId(context, 233905002, 2001, GadgetState.GearStop) then
+		return -1
+	end
+
+	if 0 ~= ScriptLib.AddExtraGroupSuite(context, 233905004, 2) then
+		ScriptLib.PrintContextLog(context, "@@ LUA_WARNING : add_extra_group_suite")
+		return -1
+	end
+
+	if 0 ~= ScriptLib.AutoMonsterTide(context, 2, 233905004, {4001, 4002, 4003, 4004, 4005, 4006, 4007, 4008, 4009, 4010, 4011, 4012}, 12, 4, 4) then
+		ScriptLib.PrintContextLog(context, "@@ LUA_WARNING : auto_monster_tide")
+		return -1
+	end
+
+	if 0 ~= ScriptLib.SetGroupGadgetStateByConfigId(context, 233905009, 9001, GadgetState.GearStart) then
+		return -1
+	end
+
+	if 0 ~= ScriptLib.SetGroupGadgetStateByConfigId(context, 233905009, 9002, GadgetState.GearStart) then
+		return -1
+	end
+
+	return 0
+end

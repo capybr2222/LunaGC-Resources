@@ -10,7 +10,7 @@ npcs = {
 }
 
 gadgets = {
-	{ config_id = 2001, gadget_id = 70360010, pos = { x = 0.000, y = -0.102, z = 12.011 }, rot = { x = 0.000, y = 0.000, z = 0.000 }, level = 1 }
+	{ config_id = 2001, gadget_id = 70360367, pos = { x = 0.000, y = -0.102, z = 12.011 }, rot = { x = 0.000, y = 0.000, z = 0.000 }, level = 1 }
 }
 
 regions = {

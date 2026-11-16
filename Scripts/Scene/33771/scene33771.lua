@@ -8,10 +8,12 @@ scene_config = {
 	vision_anchor = { x = -1000.0, z = -2000.0 }
 }
 
--- 所有的区块范围坐标
+blocks = { 33771 }
+
 block_rects = {
 	{ min = { x = -973.0, z = -1515.1 }, max = { x = 918.4, z = 1531.5 } }
 }
 
--- 所有的区块
-blocks = {}
+dummy_points = {}
+
+routes_config = {}
